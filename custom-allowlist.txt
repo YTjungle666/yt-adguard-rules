@@ -1,0 +1,21 @@
+! Manual custom allow rules
+@@||activity.windows.com^$important
+@@||acs.m.taobao.com^$important
+@@||amdc.m.taobao.com^$important
+@@||app-monitor.ele.me^$important
+@@||click.discord.com^$important
+@@||h.trace.qq.com^$important
+@@||img.alicdn.com^$important
+@@||m.jiaoyimao.com^$important
+@@||mtop.jiaoyimao.com^$important
+@@||otheve.beacon.qq.com^$important
+@@||sanhuagroup.com^
+@@||snowflake.qq.com^$important
+@@||sofire.baidu.com^$important
+@@||stat.y.qq.com^$important
+@@||static.tieba.baidu.com^$important
+@@||steamcloud-hkg.oss-accelerate.aliyuncs.com^$important
+@@||steamcloud-sgp.oss-accelerate.aliyuncs.com^$important
+@@||supervive.op.gg^$important
+@@||tmead.y.qq.com^$important
+@@||weixin.qq.com^$important

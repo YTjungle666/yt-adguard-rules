@@ -1,0 +1,9 @@
+! Manual custom block rules
+||app.adjust.com^$important
+||dsp-x.jd.com^
+||obus-dc20123-cn.heytapmobi.com^
+||open.e.kuaishou.com^
+||p1-lm.adkwai.com^
+||push-ads-cn.heytapmobi.com^
+||sdk.open.talk.gepush.com^$important
+||xlog.jd.com^
