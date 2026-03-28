@@ -2094,6 +2094,7 @@
 @@||aps-web.adobe.io/webapps/access_profile$stealth=3p-auth
 @@||apv-launcher.minute.ly/api/$script
 @@||aqlier.com^$generichide
+@@||aqqmusic.tc.qq.com^$important
 @@||aquafora.nl^$generichide
 @@||aquarium.co.jp^$stealth=dpi
 @@||aqy103.com/js/aqy/main.js
@@ -2792,9 +2793,11 @@
 @@||c.webengage.com/lw/*.jpg?p=
 @@||c.webtrends-optimize.com/acs/$image,script,domain=tvlicensing.co.uk
 @@||c.y.qq.com^
+@@||c.y.qq.com^$important
 @@||c.yandexcdn.com/js/adv/ads.js$domain=yandexcdn.com
 @@||c.yandexcdn.com/js/adv/advert3.js$domain=yandexcdn.com
 @@||c.yandexcdn.com/js/adv/fuckadblock.js$domain=yandexcdn.com
+@@||c6.y.qq.com^$important
 @@||cache.nymag.com^*/clickability.js
 @@||cache2.delvenetworks.com/crossdomain.xml$domain=lapresse.ca
 @@||cache2.delvenetworks.com/ps/c/v1/$domain=lapresse.ca
@@ -6698,6 +6701,7 @@
 @@||grapeshot.co.uk/sare-api/
 @@||graph.microsoft.com$stealth=3p-auth
 @@||graph.microsoft.com^$stealth=3p-auth,xmlhttprequest,domain=odwebp.svc.ms
+@@||graph.qq.com^$important
 @@||graphicdesignresources.net^$generichide
 @@||graphicget.com^$generichide
 @@||graphql.contentful.com^$stealth=3p-auth
@@ -9192,6 +9196,8 @@
 @@||munchkin.marketo.net/munchkin.js$domain=st.com|telus.com
 @@||munchkin.marketo.net/munchkin.js$domain=telus.com
 @@||museum-29.dajya-ranger.com^$generichide
+@@||music-file.y.qq.com^$important
+@@||music-file6.y.qq.com^$important
 @@||music.amazon.$generichide
 @@||music.youtube.com^$generichide
 @@||musicradar.com^$generichide
@@ -9203,6 +9209,8 @@
 @@||muzlan.top/ads/banner.png
 @@||muzlan.top^$generichide
 @@||muzu.tv/flash/*tracking
+@@||mv.music.tc.qq.com^$important
+@@||mv6.music.tc.qq.com^$important
 @@||mvcat.com^$generichide
 @@||mvz.hufeland.de^$stealth=dpi
 @@||mx-sh.net/advertisements.js
@@ -9718,6 +9726,7 @@
 @@||osuskins.net^$generichide
 @@||osym.gov.tr^$stealth=dpi
 @@||ot.gr^$generichide
+@@||oth.eve.mdt.qq.com^$important
 @@||other-languages.com^$generichide
 @@||otheve.beacon.qq.com^$important
 @@||ots.webtrends-optimize.com/$xmlhttprequest,domain=tvlicensing.co.uk
@@ -11214,6 +11223,7 @@
 @@||qobuz.com^$generichide
 @@||qoe-*.yottaa.net/*/configure.rapid.js$domain=northerntool.com
 @@||qooqlevideo.com^$stealth=referrer
+@@||qpic.y.qq.com^$important
 @@||qq.com/ads/js/$domain=privacy.qq.com
 @@||qq.com/bossweb/jifen/
 @@||qq.com/cgi-bin/*?sid=ads
@@ -11222,6 +11232,7 @@
 @@||qq.com/server/website/CommWebGameSelect_ad.js
 @@||qq.com/web201602/js/ad.js
 @@||qq.com^*?ADTAG=
+@@||qqmusic.qq.com^$important
 @@||qqwebplay.xyz/embedlivetv.php$stealth=referrer
 @@||qrmenus.io^$generichide
 @@||qspfw.com/r/cms/www/qspfw/common/img/ad_
@@ -12160,6 +12171,8 @@
 @@||shareus.io^$generichide
 @@||sharing.wtf/themes/flow/frontend_assets/js/advertisement.js
 @@||shasso.com/MyStoreOrders/$document
+@@||shc.y.qq.com^$important
+@@||shc6.y.qq.com^$important
 @@||sheee.co.il^$generichide
 @@||sheinsz.ltwebstatic.com/*/libs/devices/fpv*.js$domain=shein.com
 @@||shemale6.com/player/stats.php$domain=shemale6.com
@@ -12209,6 +12222,8 @@
 @@||shrinke.me^$stealth=referrer
 @@||shrinkurl.org^$generichide
 @@||shrtfly.com^$generichide
+@@||shu.y.qq.com^$important
+@@||shu6.y.qq.com^$important
 @@||shuajota.com^$generichide
 @@||shumafen.cn/api/$stealth=referrer
 @@||shumafen.cn/api/file_u/$extension
@@ -12610,6 +12625,7 @@
 @@||stash.roistat.com^|
 @@||stat-rock.com/player.js$domain=4shared.com
 @@||stat-rock.com/player/$domain=4shared.com|adplayer.pro
+@@||stat.music.qq.com^$important
 @@||stat.okko.tv/kollector/v2/player$domain=okko.tv
 @@||stat.prsmedia.fr/tag/stat.js$domain=bienpublic.com
 @@||stat.safeway.com/b/ss/$image
@@ -12617,6 +12633,7 @@
 @@||stat.sputnik.ru/cnt.js$domain=krskstate.ru
 @@||stat.tiara.kakao.com/track?d=*%22%3A%22go_*%22%$domain=map.kakao.com
 @@||stat.y.qq.com^$important
+@@||stat6.y.qq.com^$important
 @@||statcounter.com/css/packed/statcounter-$stylesheet,~third-party
 @@||statcounter.com/js//fusioncharts.charts.js
 @@||statcounter.com/js/fusioncharts.js
@@ -13000,6 +13017,8 @@
 @@||sys.4chan.org/*/post$xmlhttprequest,domain=4chan.org
 @@||systranbox.com^$generichide
 @@||szbdyd.com^$stealth=referrer,domain=bilibili.com
+@@||szc.y.qq.com^$important
+@@||szc6.y.qq.com^$important
 @@||szhr.com.cn^$generichide
 @@||szhr.com.cn^*ad
 @@||szhr.com^$generichide
@@ -13007,6 +13026,8 @@
 @@||sznlink.xyz/images/ad-inserter/*/*.js
 @@||sznlink.xyz/inc/plugins/ad-inserter-pro/images/ads.png
 @@||sznlink.xyz^$generichide
+@@||szu.y.qq.com^$important
+@@||szu6.y.qq.com^$important
 @@||szukajka.tv/link/$subdocument,domain=szukajka.tv
 @@||szukajka.tv/static/fonts/$font
 @@||t*.daumcdn.net/cafeattach/$stealth=referrer
@@ -13753,6 +13774,8 @@
 @@||typhoon.zjwater.gov.cn^$stealth=donottrack
 @@||typingtestnow.com^$generichide
 @@||tyue.me^$image
+@@||u.y.qq.com^$important
+@@||u6.y.qq.com^$important
 @@||uab.gov.tr^$stealth=dpi
 @@||uaprom.net/image/blank.gif?$image
 @@||ubisoft.com.first-party-js.datadome.co^$script,domain=connect.ubisoft.com
@@ -14393,6 +14416,8 @@
 @@||wl.jd.com/wl.js
 @@||wl.jd.com^
 @@||wmdportal.com/wp-content/uploads/2012/05/cars_banner.png
+@@||wns.y.qq.com^$important
+@@||wnsmusic.qq.com^$important
 @@||wojtekczytawh40k.blogspot.com^$generichide
 @@||womensrunning.com^$stealth=dpi
 @@||woocall.sina.com.cn^$domain=sina.cn
@@ -14436,6 +14461,8 @@
 @@||wroffle.com^$generichide
 @@||ws.mmstat.com/ws$domain=v.youku.tv
 @@||ws.skoda-auto.com/sap/*_piwik/Piwik.js
+@@||ws.stream.qqmusic.qq.com^$important
+@@||ws6.stream.qqmusic.qq.com^$important
 @@||wscdn.xmwol.com^$stealth=referrer,image,stylesheet
 @@||wsj.net/iweb/static_html_files/cxense-candy.js$script,domain=marketwatch.com
 @@||wsr.pearsonvue.com^$extension
@@ -14443,6 +14470,7 @@
 @@||wstream.video/img2/rivcash_banner
 @@||wujek-gadzet.pl^$generichide
 @@||wuolah.com^$generichide
+@@||wup.browser.qq.com^$important
 @@||wurfl.io/wurfl.js$domain=adshnk.com
 @@||wurfl.io/wurfl.js$domain=athabascau.ca
 @@||wurfl.io/wurfl.js$domain=configurator.ducati.com
@@ -14605,6 +14633,7 @@
 @@||xykpay.3d2.icbc.com.cn/acs-auth-web/js/fingerprint2.min.js$~third-party
 @@||xzeepb2clookuppsta001.blob.core.windows.net/comed/src/js/google-analytics.js$domain=secure1.comed.com
 @@||xzfile.aliyuncs.com^$image,stealth=referrer,domain=xz.aliyun.com
+@@||y.qq.com^$important
 @@||ya.ru/clck/redir/*data=url%3Dhttps%253A%252F%252Fpassport.yandex.ru
 @@||ya.ru/user-id?$subdocument,stealth=referrer
 @@||yacine-tv.com^$generichide

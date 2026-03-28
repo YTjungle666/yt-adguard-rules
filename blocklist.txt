@@ -37957,6 +37957,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||api.datingxperten.de^
 ||api.dayrellcompany.com.br^
 ||api.deafios.com.br^
+||api.deepai.org/thrad-ad-proxy
 ||api.deeplink.dev^
 ||api.defendendoquemnosdefende.com.br^
 ||api.defesafemininacaveira.com.br^
@@ -51079,6 +51080,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||cdn.tercept.com^
 ||cdn.thehiveworks.com/images/bees/mobile$image,domain=smbc-comics.com
 ||cdn.thk4.com^
+||cdn.thrad.ai/ptag.min.js
 ||cdn.throatbulge.com^
 ||cdn.tinypass.com/api/tinypass.min.js$domain=semprefamilia.com.br|hollywoodreporter.com
 ||cdn.tinypass.com^$domain=gulfnews.com|sloanreview.mit.edu
