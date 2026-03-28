@@ -19,12 +19,24 @@
     [
       "CHN: AdRules DNS List",
       "https://adguardteam.github.io/HostlistsRegistry/assets/filter_29.txt"
+    ],
+    [
+      "HaGeZi Normal",
+      "https://adguardteam.github.io/HostlistsRegistry/assets/filter_34.txt"
+    ],
+    [
+      "OISD Small",
+      "https://small.oisd.nl/"
     ]
   ],
   "whitelists": [
     [
       "白名单",
       "https://raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/allow.txt"
+    ],
+    [
+      "hl2guide AdGuard Home Whitelist",
+      "https://raw.githubusercontent.com/hl2guide/AdGuard-Home-Whitelist/main/whitelist.txt"
     ]
   ]
 }
