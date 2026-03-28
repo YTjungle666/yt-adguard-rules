@@ -1,0 +1,30 @@
+{
+  "filters": [
+    [
+      "AdGuard DNS filter",
+      "https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt"
+    ],
+    [
+      "AdAway Default Blocklist",
+      "https://adguardteam.github.io/HostlistsRegistry/assets/filter_2.txt"
+    ],
+    [
+      "混合精简规则",
+      "https://raw.githubusercontent.com/lingeringsound/adblock_auto/main/Rules/adblock_auto_lite.txt"
+    ],
+    [
+      "DD-AD",
+      "https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt"
+    ],
+    [
+      "CHN: AdRules DNS List",
+      "https://adguardteam.github.io/HostlistsRegistry/assets/filter_29.txt"
+    ]
+  ],
+  "whitelists": [
+    [
+      "白名单",
+      "https://raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/allow.txt"
+    ]
+  ]
+}
