@@ -86,7 +86,8 @@ bash scripts/install_local_autosync.sh
 1. 从 `sources.json` 里的固定上游源拉取最新规则
 2. 合并 `custom-blocklist.txt` / `custom-allowlist.txt`
 3. 去重并清理黑白冲突
-4. 通过 `origin` 的 SSH remote 自动提交到 GitHub
+4. 通过 Rust 并发生成器写出 `blocklist.txt` / `allowlist.txt`
+5. 通过 `origin` 的 SSH remote 自动提交到 GitHub
 
 ---
 

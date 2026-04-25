@@ -13,7 +13,8 @@ git remote set-url origin "$REMOTE_URL"
 git fetch origin "$BRANCH"
 git pull --ff-only origin "$BRANCH"
 
-python3 scripts/update_rules.py
+cargo build --release --quiet --locked --bin update_rules
+./target/release/update_rules
 
 if ! git diff --quiet -- blocklist.txt allowlist.txt; then
   git add blocklist.txt allowlist.txt
