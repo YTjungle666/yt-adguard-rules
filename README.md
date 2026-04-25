@@ -73,15 +73,20 @@ YT 的 AdGuard Home 聚合规则仓库。
 ---
 
 ## 自动更新
-当前已配置每日中午 12:00 自动更新。
+本地可配置每日中午 12:00 自动更新：
+
+```bash
+bash scripts/install_local_autosync.sh
+```
 
 > 运行时以本地仓库中的 `sources.json`、`custom-blocklist.txt`、`custom-allowlist.txt` 为准；GitHub 用于发布、留档和对外提供 raw 导入链接，不作为运行时动态配置源。
+> 推送使用本机 GitHub SSH 登录状态，不再读取或拼接 GitHub token。
 
 更新流程：
 1. 从 `sources.json` 里的固定上游源拉取最新规则
 2. 合并 `custom-blocklist.txt` / `custom-allowlist.txt`
 3. 去重并清理黑白冲突
-4. 自动提交到 GitHub
+4. 通过 `origin` 的 SSH remote 自动提交到 GitHub
 
 ---
 
