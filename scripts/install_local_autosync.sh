@@ -22,11 +22,11 @@ awk -v begin="$MARK_BEGIN" -v end="$MARK_END" '
 
 {
   printf '%s\n' "$MARK_BEGIN"
-  printf '0 12 * * * %s >> %s 2>&1\n' "$RUN_SCRIPT" "$LOG_FILE"
+  printf '0 12 * * * mkdir -p "%s" && "%s" >> "%s" 2>&1\n' "$STATE_DIR" "$RUN_SCRIPT" "$LOG_FILE"
   printf '%s\n' "$MARK_END"
 } >>"$tmp.new"
 
 crontab "$tmp.new"
 
 echo "Installed daily autosync cron:"
-echo "0 12 * * * $RUN_SCRIPT >> $LOG_FILE 2>&1"
+echo "0 12 * * * mkdir -p \"$STATE_DIR\" && \"$RUN_SCRIPT\" >> \"$LOG_FILE\" 2>&1"
