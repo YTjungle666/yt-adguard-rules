@@ -3,11 +3,8 @@ set -euo pipefail
 
 REPO_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 RUN_SCRIPT="$REPO_DIR/scripts/run_daily_update.sh"
-STATE_DIR="$HOME/.local/state/yt-adguard-rules"
 MARK_BEGIN="# BEGIN yt-adguard-rules autosync"
 MARK_END="# END yt-adguard-rules autosync"
-
-mkdir -p "$STATE_DIR"
 
 tmp="$(mktemp)"
 trap 'rm -f "$tmp" "$tmp.new"' EXIT
