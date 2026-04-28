@@ -1,5 +1,5 @@
 ! YT merged AdGuard allowlist
-! Generated: 2026-04-27
+! Generated: 2026-04-28
 ! Sources: enabled upstream allowlists + custom allow rules + upstream allow exceptions
 
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
@@ -8782,7 +8782,7 @@
 @@||cd.adition.com/assets/adition/*/*.mp4$domain=orf.at
 @@||cd.connatix.com/connatix.player.js$domain=loot.tv
 @@||cd.connatix.com/connatix.playspace.js$domain=inc.com
-@@||cd.connatix.com/connatix.playspace.js$domain=inc.com|theverge.com
+@@||cd.connatix.com/connatix.playspace.js$domain=inc.com|loot.tv|theverge.com
 @@||cd.connatix.com/connatix.playspace.js$domain=loot.tv
 @@||cd.connatix.com/connatix.playspace.js$domain=theverge.com
 @@||cda.pl/video/$subdocument,domain=szukajka.tv
@@ -9496,6 +9496,7 @@
 @@||citytv.com^$generichide
 @@||civilservicejobs.service.gov.uk^$stealth=dpi
 @@||cizgifilmlerizle.com/getvid?$stealth=referrer
+@@||cizgipass100.online/embed$subdocument,stealth=referrer,domain=yeniwatch.net.tr
 @@||cj.dotomi.com^|
 @@||cl*.k5a.io^$script,xmlhttprequest,domain=finansavisen.no
 @@||cl-*.k5a.io/*.js^$domain=tv2.no
@@ -10093,6 +10094,7 @@
 @@||data-*.herz-fuer-tiere.de/*/bootstrap/loader.js$domain=herz-fuer-tiere.de
 @@||data-*.herz-fuer-tiere.de^|
 @@||data-*.rtl.de/iomm/latest/bootstrap/stub.js$domain=rtl.de
+@@||data.adpresenter.de^$domain=xswiper.com|sexeey.com
 @@||data.adxcel-ec2.com^$image,domain=laguardia.edu
 @@||data.alicloudccp.com^$stealth,domain=aliyundrive.com
 @@||data.digital.costco.ca^|
@@ -15952,6 +15954,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=egybest.fun|iegybest.club
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=eirudo.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=ekamus.info
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=elahmad.org
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=elktob.online,xmlhttprequest
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=elmarjaa.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=emailnator.com
@@ -16383,7 +16386,6 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=edumailfree.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=egotter.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=egybist.site|egy-best.site|egybist.online
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=elahmad.org
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=esportstales.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=facciabuco.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=falpus.com|fooak.com|upfiles-urls.com|upfiles.app|upfion.com
@@ -19567,7 +19569,7 @@
 @@||tpc.googlesyndication.com/simgad/$domain=dropgalaxy.com
 @@||tpc.googlesyndication.com/simgad/$domain=financemonk.net
 @@||tpc.googlesyndication.com/simgad/$domain=smartkhabrinews.com|streama2z.com
-@@||tpc.googlesyndication.com/simgad/$image,domain=a2zupload.com|unlockapk.com
+@@||tpc.googlesyndication.com/simgad/$image,domain=a2zupload.com|unlockapk.com|a2zapk.co
 @@||tpc.googlesyndication.com/simgad/$image,domain=client.falixnodes.net
 @@||tpc.googlesyndication.com/simgad/$image,domain=soranews24.com
 @@||tpc.googlesyndication.com/simgad/$xmlhttprequest,domain=soranews24.com
