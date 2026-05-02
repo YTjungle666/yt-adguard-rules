@@ -14,6 +14,9 @@ use std::time::Duration;
 static ADBLOCK_DOMAIN: LazyLock<Regex> = LazyLock::new(|| Regex::new(r"^\|\|([^\^/$|]+)").unwrap());
 static HOST_DOMAIN: LazyLock<Regex> =
     LazyLock::new(|| Regex::new(r"^(?:[0-9.]+\s+)?([A-Za-z0-9*._-]+\.[A-Za-z0-9._-]+)$").unwrap());
+static IMPORTANT_DOMAIN_EXCEPTION: LazyLock<Regex> = LazyLock::new(|| {
+    Regex::new(r"^@@\|\|([A-Za-z0-9._-]+\.[A-Za-z0-9._-]+)\^\$important$").unwrap()
+});
 
 #[derive(Debug, Deserialize)]
 struct Sources {
@@ -82,6 +85,10 @@ fn main() -> Result<(), Box<dyn std::error::Error>> {
     merged_allow.sort_unstable();
 
     let allow_keys: HashSet<String> = merged_allow.iter().filter_map(|r| domain_key(r)).collect();
+    let important_allow_keys: HashSet<String> = merged_allow
+        .iter()
+        .filter_map(|r| important_domain_key(r))
+        .collect();
 
     let mut block_rules: Vec<String> = block.into_iter().collect();
     block_rules.sort_unstable();
@@ -90,7 +97,7 @@ fn main() -> Result<(), Box<dyn std::error::Error>> {
     for rule in block_rules {
         if domain_key(&rule)
             .as_ref()
-            .is_some_and(|key| allow_keys.contains(key))
+            .is_some_and(|key| domain_allowed(key, &allow_keys, &important_allow_keys))
         {
             continue;
         }
@@ -235,6 +242,34 @@ fn domain_key(rule: &str) -> Option<String> {
         .and_then(|captures| captures.get(1).map(|m| m.as_str().to_string()))
 }
 
+fn important_domain_key(rule: &str) -> Option<String> {
+    IMPORTANT_DOMAIN_EXCEPTION
+        .captures(rule.trim())
+        .and_then(|captures| captures.get(1).map(|m| m.as_str().to_string()))
+}
+
+fn domain_allowed(
+    domain: &str,
+    exact_allow_keys: &HashSet<String>,
+    important_allow_keys: &HashSet<String>,
+) -> bool {
+    exact_allow_keys.contains(domain) || domain_or_parent_allowed(domain, important_allow_keys)
+}
+
+fn domain_or_parent_allowed(domain: &str, allow_keys: &HashSet<String>) -> bool {
+    let mut candidate = domain;
+    loop {
+        if allow_keys.contains(candidate) {
+            return true;
+        }
+
+        let Some(idx) = candidate.find('.') else {
+            return false;
+        };
+        candidate = &candidate[idx + 1..];
+    }
+}
+
 fn write_outputs(base: &Path, merged_block: &[String], merged_allow: &[String]) -> io::Result<()> {
     let today = Local::now().date_naive();
 
@@ -267,12 +302,17 @@ fn verify_no_overlap(
     merged_block: &[String],
     merged_allow: &[String],
 ) -> Result<(), Box<dyn std::error::Error>> {
-    let block_keys: HashSet<String> = merged_block.iter().filter_map(|r| domain_key(r)).collect();
-    let overlap: Vec<(String, String)> = merged_allow
+    let allow_keys: HashSet<String> = merged_allow.iter().filter_map(|r| domain_key(r)).collect();
+    let important_allow_keys: HashSet<String> = merged_allow
+        .iter()
+        .filter_map(|r| important_domain_key(r))
+        .collect();
+
+    let overlap: Vec<(String, String)> = merged_block
         .iter()
         .filter_map(|rule| {
             let key = domain_key(rule)?;
-            block_keys.contains(&key).then(|| (rule.clone(), key))
+            domain_allowed(&key, &allow_keys, &important_allow_keys).then(|| (rule.clone(), key))
         })
         .take(20)
         .collect();
@@ -283,4 +323,50 @@ fn verify_no_overlap(
     }
 
     Ok(())
+}
+
+#[cfg(test)]
+mod tests {
+    use super::*;
+
+    fn keys(domains: &[&str]) -> HashSet<String> {
+        domains.iter().map(|domain| domain.to_string()).collect()
+    }
+
+    #[test]
+    fn important_domain_key_only_accepts_plain_important_exceptions() {
+        assert_eq!(
+            important_domain_key("@@||zijieapi.com^$important"),
+            Some("zijieapi.com".to_string())
+        );
+        assert_eq!(important_domain_key("@@||zijieapi.com^"), None);
+        assert_eq!(important_domain_key("@@||*.zijieapi.com^$important"), None);
+        assert_eq!(
+            important_domain_key("@@||zijieapi.com^$important,script"),
+            None
+        );
+    }
+
+    #[test]
+    fn important_domain_allow_covers_subdomains() {
+        let exact = keys(&[]);
+        let important = keys(&["zijieapi.com"]);
+
+        assert!(domain_allowed("zijieapi.com", &exact, &important));
+        assert!(domain_allowed(
+            "mssdk3-normal-hj.zijieapi.com",
+            &exact,
+            &important
+        ));
+        assert!(domain_allowed(
+            "ads*-normal-lf.zijieapi.com",
+            &exact,
+            &important
+        ));
+        assert!(!domain_allowed(
+            "zijieapi.com.c.dsa.cdnbuild.net",
+            &exact,
+            &important
+        ));
+    }
 }
