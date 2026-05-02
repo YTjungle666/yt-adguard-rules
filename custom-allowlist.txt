@@ -48,3 +48,11 @@
 @@||graph.qq.com^$important
 @@||wup.browser.qq.com^$important
 @@||oth.eve.mdt.qq.com^$important
+@@||n98-v-ncdnon.douyinvod.com^$important
+@@||mssdk3-normal-hj.zijieapi.com^$important
+@@||n98-v-ncdnwha.douyinvod.com^$important
+@@||tnc0-aliec2.zijieapi.com^$important
+@@||polaris5-normal-hl.zijieapi.com^$important
+@@||saveu5-normal-lq.zijieapi.com^$important
+@@||n98-lf-effect-302-sub.byteeffecttos.com^$important
+@@||n98-v-ncdncold.douyinvod.com^$important
