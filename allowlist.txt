@@ -8605,6 +8605,7 @@
 @@||byselapuix.com^$subdocument,stealth=referrer
 @@||bytecdntp.com^$script,domain=hushuge.com|51eshu.com
 @@||bytedance.com/ttwid/union/register/
+@@||byteeffecttos.com^$important
 @@||bytegoofy.com/ad/$domain=jinritemai.com
 @@||byteimg.com/obj/tos-cn
 @@||c-ctrip.com/images/*.jpg
@@ -10429,6 +10430,7 @@
 @@||doubleclick.net^$domain=video.sport1.de
 @@||doubleclick.net^$xmlhttprequest,domain=yyets.click
 @@||doubleclickbygoogle.com/favicon.ico
+@@||douyinvod.com^$important
 @@||douyucdn.cn^*-share-master/
 @@||dove-cameron.org^$generichide
 @@||dovkembed.pw/livetv/$stealth=referrer
@@ -15131,7 +15133,6 @@
 @@||msn.com/advertisement.ad.js
 @@||msn.com/c.gif?rid=$image,domain=my.msn.com
 @@||msn.wrating.com/a1.js
-@@||mssdk3-normal-hj.zijieapi.com^$important
 @@||mssdk3-normal-lf.zijieapi.com^
 @@||mssl.fwmrm.net/*/MTG_Brightcove_HTML5/AdManager.js$domain=play.tv3.lt
 @@||mssl.fwmrm.net/*/MTG_Brightcove_HTML5/AdManager.js$domain=tv3sport.dk
@@ -15265,10 +15266,6 @@
 @@||n*-lf-webcast-cdn-tos-ncdn.bytegecko.com^
 @@||n11scdn.akamaized.net/ha.js$domain=n11.com
 @@||n8s.jp^$script,domain=nikkei.com
-@@||n98-lf-effect-302-sub.byteeffecttos.com^$important
-@@||n98-v-ncdncold.douyinvod.com^$important
-@@||n98-v-ncdnon.douyinvod.com^$important
-@@||n98-v-ncdnwha.douyinvod.com^$important
 @@||na61-na62.wagbridge.alibaba.tanx.com^
 @@||naiadsystems.com/*/hls/live$domain=pornhub.com|pornhub.org|pornhub.net
 @@||nakanohito.jp^*/bi.js$domain=kenko-tokina.co.jp
@@ -16943,7 +16940,6 @@
 @@||polarbyte.com^$domain=cambridgeenglish.org
 @@||polaris.yammer.com/suite_nav.json$stealth=3p-auth
 @@||polaris.zijieapi.com^
-@@||polaris5-normal-hl.zijieapi.com^$important
 @@||polfan.pl/app/vendor/fingerprint2.min.js
 @@||polfan.pl/app/vendor/fingerprint2.min.js$~third-party
 @@||politics-dz.com/wp-content/plugins/ad-inserter/*/*.js
@@ -17724,7 +17720,6 @@
 @@||savegame.pro^$generichide
 @@||saveu*-normal-lf.zijieapi.com^
 @@||saveu.zijieapi.com^
-@@||saveu5-normal-lq.zijieapi.com^$important
 @@||sax.sina.com.cn/video/$script
 @@||sax.sina.com.cn/video/newimpress?
 @@||sax.sina.com.cn^|
@@ -19499,7 +19494,6 @@
 @@||tms.oracle.com/main/prod/utag.sync.js$~third-party
 @@||tms.post.ch/*gtm.js|
 @@||tn.voyeurhit.com^$domain=voyeurhit.tube
-@@||tnc0-aliec2.zijieapi.com^$important
 @@||tnc3-bjlgy.zijieapi.com^
 @@||tnmr.org/hls$stealth=useragent
 @@||tns-counter.ru/tcounter.js$domain=forbes.ru
@@ -20905,6 +20899,7 @@
 @@||zhodinonews.by$stealth=ip
 @@||zhuti.xiaomi.com^
 @@||ziffdavis.com/edaa^$domain=youronlinechoices.com
+@@||zijieapi.com^$important
 @@||zillow.com/rental-manager/proxy/rental-manager-api/api/v1/users/freemium/analytics/pageViews$~third-party
 @@||zillowstatic.com/c/*/linktrack.js$domain=zillow.com
 @@||zinro.net/m/log.php

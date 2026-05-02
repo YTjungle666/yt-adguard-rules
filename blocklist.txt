@@ -34511,8 +34511,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||abtest.mistat.xiaomi.com^
 ||abtest.swrve.com^
 ||abtest.todesk.com^
-||abtest3-misc-hl.zijieapi.com^
-||abtest3-misc-lq.zijieapi.com^
 ||abtfliping.top^
 ||abtrcker.com^
 ||abtrusebushpig.cyou^
@@ -36598,7 +36596,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||ad.webshark.pl^
 ||ad.webzdarma.cz^
 ||ad.weibo.com^
-||ad.weixin.qq.com^
 ||ad.weplayer.cc^
 ||ad.where.com^
 ||ad.widgetserver.com^
@@ -36647,7 +36644,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||ad.zfk.de^
 ||ad.zhangyue.com^
 ||ad.zhuanzhuan.com^
-||ad.zijieapi.com^
 ||ad.zing.vn^
 ||ad.zinimedia.com^
 ||ad.zodera.hu^
@@ -39029,19 +39025,13 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||adrunner.com^
 ||adrunnr.com^
 ||ads*-adnow.com^
-||ads*-normal*.zijieapi.com^
-||ads*-normal-*.zijieapi.com^
 ||ads*-normal-hl.amemv.com^
-||ads*-normal-hl.zijieapi.com^
 ||ads*-normal-lf.amemv.com^
 ||ads*-normal-lf.zijieapi.com.dhcp^
-||ads*-normal-lf.zijieapi.com^
 ||ads*-normal-lq.amemv.com^
 ||ads*-normal-lq.zijieapi.com.queniuiq.com^
 ||ads*-normal-lq.zijieapi.com.w.cdngslb.com^
-||ads*-normal-lq.zijieapi.com^
 ||ads*-normal.amemv.com^
-||ads*-normal.zijieapi.com^
 ||ads*.202*/*/*.gif$third-party
 ||ads*.bojijulebu.com^
 ||ads*.depositfiles.com^
@@ -39050,7 +39040,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||ads*.dfiles.ru^
 ||ads*.production-public.tubi.io^
 ||ads*.textra.me^
-||ads*.zijieapi.com^
 ||ads-*-nfl.yinzcam.com^
 ||ads-*.v.ssp.yahoo.com^
 ||ads-1202260457.us-east-1.elb.amazonaws.com^
@@ -41091,11 +41080,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||ads2native.com^
 ||ads2srv.com^
 ||ads3-adnow.com^
-||ads3-normal-hl.zijieapi.com^
 ||ads3-normal-lf.zijieapi.com.skyworth^
-||ads3-normal-lf.zijieapi.com^
-||ads3-normal-lq.zijieapi.com^
-||ads3-normal.zijieapi.com^
 ||ads3.advance.net^
 ||ads3.adviad.com^
 ||ads3.bangkokpost.co.th^
@@ -41149,13 +41134,8 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||ads5-adnow.com^
 ||ads5-eu.truecaller.com^
 ||ads5-noneu.truecaller.com^
-||ads5-normal-hj.zijieapi.com^
-||ads5-normal-hl.zijieapi.com^
 ||ads5-normal-lf.zijieapi.com.skyworth^
-||ads5-normal-lf.zijieapi.com^
 ||ads5-normal-lq.zijieapi.com.c.dsa.cdnbuild.net^
-||ads5-normal-lq.zijieapi.com^
-||ads5-normal.zijieapi.com^
 ||ads5.advance.net^
 ||ads5.canoe.ca^
 ||ads5.chompsms.com^
@@ -56760,7 +56740,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||applog.ucdns.uc.cn^
 ||applog.yiche.com^
 ||applog.zaycev.net^
-||applog.zijieapi.com^
 ||applogapi.autohome.com.cn^
 ||applogios.uc.cn^
 ||applogs-v2.pixelfederation.com^
@@ -57842,7 +57821,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||as.travelbook.de^
 ||as.vs4entertainment.com^
 ||as.webmd.com^
-||as.weixin.qq.com^
 ||as.welt.de^
 ||as.wieistmeineip.de^
 ||as.yl.impact-ad.jp^
@@ -98271,7 +98249,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||dns.qiyipic.iqiyi.com^
 ||dns.weibo.cn^
 ||dns.weixin.qq.com.cn^
-||dns.weixin.qq.com^
 ||dns05.com^
 ||dns2.net1.it^
 ||dnsclocknow.com^
@@ -113574,7 +113551,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||feedad.com^
 ||feedads.feedblitz.com^
 ||feedandpurr.com^
-||feedback-c.zijieapi.com^
 ||feedback.aon.com^
 ||feedback.avigilon.com^
 ||feedback.campbellmetal.com^
@@ -120956,8 +120932,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||gecko.rrrelax.app^
 ||gecko.snssdk.com^
 ||gecko.withclarify.com^
-||gecko3-lf.zijieapi.com^
-||gecko5-lf.zijieapi.com^
 ||geckohost.net^
 ||geckosantu.com^
 ||geckossicsac.shop^
@@ -164042,7 +164016,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||log*.boomplaymusic.com^
 ||log*.byteoversea.com^
 ||log*.vietnamplus.vn^
-||log*.zijieapi.com^
 ||log-*.epicdn.me^
 ||log-*.isnssdk.com^
 ||log-*.previewnetworks.com^
@@ -164115,7 +164088,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||log-ird.outbrain.com^
 ||log-kienthucnet.epicdn.me^
 ||log-kienthucnet.zadn.vn^
-||log-klink.zijieapi.com^
 ||log-lb.skyperfectv.co.jp^
 ||log-legacy.core.cloud.vewd.com^
 ||log-lf.snssdk.com^
@@ -164524,7 +164496,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||log.web.kugou.com^
 ||log.webnovel.com^
 ||log.wechatpay.cn^
-||log.weixin.qq.com^
 ||log.wemade.games^
 ||log.wifi.com^
 ||log.wigoliv.work^
@@ -164547,7 +164518,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||log.zcool.com.cn^
 ||log.zdnet.co.kr^
 ||log.zepeto.io^
-||log.zijieapi.com^
 ||log.zingmp3.vn^
 ||log.zingnews.vn^
 ||log.znews.vn^
@@ -164649,8 +164619,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||log32-normal.capcutapi.com^
 ||log32-normal.tiktokv.com^
 ||log4x.nixcdn.com^
-||log5-applog-hl.zijieapi.com^
-||log5-applog-lf.zijieapi.com^
 ||log5-misc-hl.amemv.com^
 ||log5-misc-lf.amemv.com^
 ||log5-misc-lq.amemv.com^
@@ -173559,7 +173527,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||mcs.tiktokw.us^
 ||mcs.us.tiktok.com^
 ||mcs.us.tiktokv.com^
-||mcs.zijieapi.com^
 ||mcs16-normal-us-ttp.capcutapi.us^
 ||mcsafebox.com^
 ||mcsatbcs.com^
@@ -179367,8 +179334,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||minidoc.ru^
 ||minidvdsoft.com^
 ||minigame.ink^
-||minigame5-normal-hl.zijieapi.com^
-||minigame5-normal-lq.zijieapi.com^
 ||minigameae.com^
 ||minigamemomo.net^
 ||minihungary.eu^
@@ -181097,7 +181062,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||mon.uppyhouse.com^
 ||mon.us.tiktokv.com^
 ||mon.xactware.com^
-||mon.zijieapi.com^
 ||mon11-misc-lf.fqnovel.com^
 ||mon11-misc-lq.fqnovel.com^
 ||mon11-misc.fqnovel.com^
@@ -182463,7 +182427,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||mss.radiatorkopen.nl^
 ||mssdhde.cn^
 ||mssdk*.capcutapi.com^
-||mssdk*.zijieapi.com^
 ||mssdk-boot.cpacutapi.com^
 ||mssdk-bu.bytedance.com^
 ||mssdk-bu.snssdk.com^
@@ -182487,16 +182450,9 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||mssdk.us.tiktok.com^
 ||mssdk.us.tiktokv.com^
 ||mssdk.volces.com^
-||mssdk.zijieapi.com^
 ||mssdk16-normal-sg.capcutapi.com^
 ||mssdk16-normal-us-ttp.capcutapi.us^
-||mssdk3-normal-hl.zijieapi.com^
-||mssdk3-normal-lq.zijieapi.com^
-||mssdk3-normal-zjg.zijieapi.com^
 ||mssdk32-normal-sg.capcutapi.com^
-||mssdk5-normal-hl.zijieapi.com^
-||mssdk5-normal-lf.zijieapi.com^
-||mssdk5-normal-lq.zijieapi.com^
 ||mssfv.aspinaloflondon.com^
 ||mssjdu-launches.appsflyersdk.com^
 ||msslwa.icu^
@@ -194620,7 +194576,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||orzx.im/js/*pop
 ||os-js.com^
 ||os-mon.snssdk.com^
-||os-mon.zijieapi.com^
 ||os.4kporn.xxx^
 ||os.efax.es^
 ||os.efax.nl^
@@ -198636,7 +198591,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||pc-mon-v2-boot.capcutapi.com^
 ||pc-mon-va.byteoversea.com^
 ||pc-mon.snssdk.com^
-||pc-mon.zijieapi.com^
 ||pc-mon16-normal-us-ttp.capcutapi.us^
 ||pc-oray.cn^
 ||pc-sougou.hl.cn^
@@ -204254,13 +204208,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||polarbear.conermurphy.com^
 ||polarcdn-pentos.com^
 ||polarcdn-terrax.com^
-||polaris*-normal-*.zijieapi.com^
 ||polaris-775.com^
-||polaris3-normal-hl.zijieapi.com^
-||polaris3-normal-lf.zijieapi.com^
-||polaris3-normal-lq.zijieapi.com^
-||polaris5-normal-lf.zijieapi.com^
-||polaris5-normal-lq.zijieapi.com^
 ||polarismagnet.com^$third-party
 ||polarmobile.com^
 ||polarstyphaquasky.cyou^
@@ -216121,7 +216069,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||report.tantanapp.com^
 ||report.tencentmusic.com^
 ||report.tgp.qq.com^
-||report.trade.weixin.qq.com^
 ||report.tv.kohesport.qq.com^
 ||report.uc.heytapmobi.com^
 ||report.vnay.vn^
@@ -257257,7 +257204,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||starjav11.fun^
 ||stark-hair.pro^
 ||stark-region.pro^
-||starkgame.zijieapi.com^
 ||starkmotorracing.com^
 ||starkrosetum.help^
 ||starkscale.com^
@@ -264617,7 +264563,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||szlcgeoxvoqzs.online^
 ||szlite.cn^
 ||szlite.cn^$third-party
-||szlong.weixin.qq.com^
 ||szlqt.bluehalotexas.com^
 ||szmytadfhtwym.site^
 ||sznac.duvlan.sk^
@@ -269583,7 +269528,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||test-starify.appsonic.fr^
 ||test-studio.ru^
 ||test-tns-no.tns-cs.net^
-||test.activity.windows.com^
 ||test.admin.xmpush.xiaomi.com^
 ||test.adswizz.com^
 ||test.asiangadgetbd.com^
@@ -271506,7 +271450,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||timluluhaha.com^
 ||timo.hotel-winzer.at^
 ||timohtazxazej.website^
-||timon.zijieapi.com^
 ||timonom.com^
 ||timot-cvk.info^
 ||timpromos.com.br^
@@ -272517,7 +272460,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||tmdzqltlscxhb.website^
 ||tme.112.2o7.net^
 ||tmea116.oss-cn-beijing.aliyuncs.com^
-||tmeadcomm.y.qq.com^
 ||tmedapgqtmqhs.store^
 ||tmedk.idlespeedwatersports.co^
 ||tmeklaoastqv.com^
@@ -272724,7 +272666,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||tnbmdavwrgygn.online^
 ||tnc*.tiktokv.com^
 ||tnc*.tiktokv.us^
-||tnc*.zijieapi.com^
 ||tnc-boot.capcutapi.com^
 ||tnc-boot.tiktokv.com^
 ||tnc-sg.capcutapi.com^
@@ -272733,8 +272674,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||tnc-va-us-looki.capcutapi.com^
 ||tnc-va.capcutapi.com^
 ||tnc.demdex.net^
-||tnc0-alisc1.zijieapi.com^
-||tnc0-bjlgy.zijieapi.com^
 ||tnc0-normal-alisg.tiktokv.com^
 ||tnc0-normal-my.tiktokv.com^
 ||tnc0-normal-sg1.tiktokv.com^
@@ -272774,13 +272713,11 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||tnc3-aliec2.bytedance.com^
 ||tnc3-aliec2.snssdk.com^
 ||tnc3-aliec2.toutiaoapi.com^
-||tnc3-aliec2.zijieapi.com^
 ||tnc3-aliec2.zijieapi^
 ||tnc3-alisc1.bytedance.com^
 ||tnc3-alisc1.snssdk.com^
 ||tnc3-alisc1.toutiaoapi.com^
 ||tnc3-alisc1.zijieapi.com.queniuyk.com^
-||tnc3-alisc1.zijieapi.com^
 ||tnc3-alisc1.zijieapi^
 ||tnc3-bjlgy.bytedance.com^
 ||tnc3-bjlgy.snssdk.com^
@@ -291457,7 +291394,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||view.spaceberg.cc^
 ||view.stylebob.com^
 ||view.trendwiseai.com^
-||view.zijieapi.com^
 ||view4cash.de^
 ||viewablemedia.net^
 ||viewar.org^
