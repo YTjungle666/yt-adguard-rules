@@ -93,8 +93,9 @@ bash scripts/install_local_autosync.sh
 
 ## 规则冲突处理原则
 - 白名单优先
-- 如果某个域名同时出现在黑名单和白名单中，最终会从黑名单移除
-- 目标是确保最终 `allowlist.txt` 中的内容不会在最终 `blocklist.txt` 中重复出现
+- 父域规则优先覆盖子域规则；如果 `example.com` 已存在，最终规则中不再保留 `a.example.com`
+- 如果某个黑名单域名被白名单的相同域名或父域覆盖，最终会从黑名单移除
+- 目标是确保最终 `allowlist.txt` / `blocklist.txt` 内部不保留被父域覆盖的重复子域，并且白名单覆盖的内容不会在最终 `blocklist.txt` 中重复出现
 
 ---
 

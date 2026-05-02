@@ -2,7 +2,7 @@ use chrono::Local;
 use regex::Regex;
 use reqwest::blocking::Client;
 use serde::Deserialize;
-use std::collections::HashSet;
+use std::collections::{HashMap, HashSet};
 use std::env;
 use std::fs;
 use std::io;
@@ -11,12 +11,23 @@ use std::sync::LazyLock;
 use std::thread;
 use std::time::Duration;
 
-static ADBLOCK_DOMAIN: LazyLock<Regex> = LazyLock::new(|| Regex::new(r"^\|\|([^\^/$|]+)").unwrap());
+static ADBLOCK_DOMAIN_RULE: LazyLock<Regex> =
+    LazyLock::new(|| Regex::new(r"^(@@)?\|\|([^\^/$|]+)(\^.*)?$").unwrap());
 static HOST_DOMAIN: LazyLock<Regex> =
     LazyLock::new(|| Regex::new(r"^(?:[0-9.]+\s+)?([A-Za-z0-9*._-]+\.[A-Za-z0-9._-]+)$").unwrap());
-static IMPORTANT_DOMAIN_EXCEPTION: LazyLock<Regex> = LazyLock::new(|| {
-    Regex::new(r"^@@\|\|([A-Za-z0-9._-]+\.[A-Za-z0-9._-]+)\^\$important$").unwrap()
-});
+
+#[derive(Clone, Debug, Eq, PartialEq)]
+struct DomainRule {
+    exception: bool,
+    domain: String,
+    suffix: String,
+}
+
+#[derive(Debug, Default)]
+struct DomainCoverage {
+    broad_domains: HashMap<bool, HashSet<String>>,
+    suffix_domains: HashMap<(bool, String), HashSet<String>>,
+}
 
 #[derive(Debug, Deserialize)]
 struct Sources {
@@ -81,28 +92,17 @@ fn main() -> Result<(), Box<dyn std::error::Error>> {
         }
     }
 
-    let mut merged_allow: Vec<String> = allow.into_iter().collect();
-    merged_allow.sort_unstable();
-
-    let allow_keys: HashSet<String> = merged_allow.iter().filter_map(|r| domain_key(r)).collect();
-    let important_allow_keys: HashSet<String> = merged_allow
-        .iter()
-        .filter_map(|r| important_domain_key(r))
-        .collect();
+    let merged_allow = compact_domain_rules(allow.into_iter().collect());
+    let allow_coverage = DomainCoverage::from_rules(&merged_allow);
 
     let mut block_rules: Vec<String> = block.into_iter().collect();
     block_rules.sort_unstable();
 
-    let mut merged_block = Vec::with_capacity(block_rules.len());
-    for rule in block_rules {
-        if domain_key(&rule)
-            .as_ref()
-            .is_some_and(|key| domain_allowed(key, &allow_keys, &important_allow_keys))
-        {
-            continue;
-        }
-        merged_block.push(rule);
-    }
+    let block_rules: Vec<String> = block_rules
+        .into_iter()
+        .filter(|rule| !allow_coverage.covers_block_rule(rule))
+        .collect();
+    let merged_block = compact_domain_rules(block_rules);
 
     write_outputs(&base, &merged_block, &merged_allow)?;
     verify_no_overlap(&merged_block, &merged_allow)?;
@@ -228,45 +228,144 @@ fn valid(line: &str) -> bool {
 }
 
 fn domain_key(rule: &str) -> Option<String> {
-    let mut r = rule.trim();
-    if let Some(stripped) = r.strip_prefix("@@") {
-        r = stripped;
+    if let Some(domain_rule) = adblock_domain_rule(rule) {
+        return Some(domain_rule.domain);
     }
 
-    if let Some(captures) = ADBLOCK_DOMAIN.captures(r) {
-        return captures.get(1).map(|m| m.as_str().to_string());
-    }
+    host_domain_key(rule)
+}
 
+fn host_domain_key(rule: &str) -> Option<String> {
     HOST_DOMAIN
-        .captures(r)
-        .and_then(|captures| captures.get(1).map(|m| m.as_str().to_string()))
-}
-
-fn important_domain_key(rule: &str) -> Option<String> {
-    IMPORTANT_DOMAIN_EXCEPTION
         .captures(rule.trim())
-        .and_then(|captures| captures.get(1).map(|m| m.as_str().to_string()))
+        .and_then(|captures| captures.get(1).map(|m| normalize_domain(m.as_str())))
 }
 
-fn domain_allowed(
-    domain: &str,
-    exact_allow_keys: &HashSet<String>,
-    important_allow_keys: &HashSet<String>,
-) -> bool {
-    exact_allow_keys.contains(domain) || domain_or_parent_allowed(domain, important_allow_keys)
+fn adblock_domain_rule(rule: &str) -> Option<DomainRule> {
+    let captures = ADBLOCK_DOMAIN_RULE.captures(rule.trim())?;
+    let domain = captures.get(2)?.as_str();
+    Some(DomainRule {
+        exception: captures.get(1).is_some(),
+        domain: normalize_domain(domain),
+        suffix: captures
+            .get(3)
+            .map_or_else(|| "^".to_string(), |m| m.as_str().to_string()),
+    })
 }
 
-fn domain_or_parent_allowed(domain: &str, allow_keys: &HashSet<String>) -> bool {
-    let mut candidate = domain;
-    loop {
-        if allow_keys.contains(candidate) {
-            return true;
+fn normalize_domain(domain: &str) -> String {
+    domain.trim_end_matches('.').to_ascii_lowercase()
+}
+
+fn compact_domain_rules(mut rules: Vec<String>) -> Vec<String> {
+    rules.sort_unstable();
+    let coverage = DomainCoverage::from_rules(&rules);
+
+    rules
+        .into_iter()
+        .filter(|rule| {
+            adblock_domain_rule(rule)
+                .as_ref()
+                .is_none_or(|domain_rule| !coverage.has_covering_parent(domain_rule))
+        })
+        .collect()
+}
+
+impl DomainCoverage {
+    fn from_rules(rules: &[String]) -> Self {
+        let mut coverage = Self::default();
+        for rule in rules {
+            if let Some(domain_rule) = adblock_domain_rule(rule) {
+                coverage.insert(domain_rule);
+            }
+        }
+        coverage
+    }
+
+    fn insert(&mut self, rule: DomainRule) {
+        if rule.is_broad() {
+            self.broad_domains
+                .entry(rule.exception)
+                .or_default()
+                .insert(rule.domain.clone());
+        }
+        self.suffix_domains
+            .entry((rule.exception, rule.suffix))
+            .or_default()
+            .insert(rule.domain);
+    }
+
+    fn covers_block_rule(&self, rule: &str) -> bool {
+        if let Some(domain_rule) = adblock_domain_rule(rule) {
+            return !domain_rule.exception
+                && self.has_covering_domain(true, &domain_rule.domain, &domain_rule.suffix, true);
         }
 
-        let Some(idx) = candidate.find('.') else {
-            return false;
-        };
-        candidate = &candidate[idx + 1..];
+        host_domain_key(rule)
+            .as_ref()
+            .is_some_and(|domain| self.has_broad_covering_domain(true, domain))
+    }
+
+    fn has_covering_parent(&self, rule: &DomainRule) -> bool {
+        parent_domains(&rule.domain)
+            .any(|parent| self.domain_covers_with_suffix(rule.exception, parent, &rule.suffix))
+    }
+
+    fn has_covering_domain(
+        &self,
+        exception: bool,
+        domain: &str,
+        suffix: &str,
+        include_self: bool,
+    ) -> bool {
+        if include_self && self.domain_covers_with_suffix(exception, domain, suffix) {
+            return true;
+        }
+        parent_domains(domain)
+            .any(|parent| self.domain_covers_with_suffix(exception, parent, suffix))
+    }
+
+    fn has_broad_covering_domain(&self, exception: bool, domain: &str) -> bool {
+        self.domain_has_broad_rule(exception, domain)
+            || parent_domains(domain).any(|parent| self.domain_has_broad_rule(exception, parent))
+    }
+
+    fn domain_covers_with_suffix(&self, exception: bool, domain: &str, suffix: &str) -> bool {
+        self.domain_has_broad_rule(exception, domain)
+            || self
+                .suffix_domains
+                .get(&(exception, suffix.to_string()))
+                .is_some_and(|domains| domains.contains(domain))
+    }
+
+    fn domain_has_broad_rule(&self, exception: bool, domain: &str) -> bool {
+        self.broad_domains
+            .get(&exception)
+            .is_some_and(|domains| domains.contains(domain))
+    }
+}
+
+impl DomainRule {
+    fn is_broad(&self) -> bool {
+        self.suffix == "^" || self.suffix == "^$important"
+    }
+}
+
+fn parent_domains(domain: &str) -> ParentDomains<'_> {
+    ParentDomains { domain }
+}
+
+struct ParentDomains<'a> {
+    domain: &'a str,
+}
+
+impl<'a> Iterator for ParentDomains<'a> {
+    type Item = &'a str;
+
+    fn next(&mut self) -> Option<Self::Item> {
+        let idx = self.domain.find('.')?;
+        self.domain = &self.domain[idx + 1..];
+        Some(self.domain)
     }
 }
 
@@ -302,17 +401,18 @@ fn verify_no_overlap(
     merged_block: &[String],
     merged_allow: &[String],
 ) -> Result<(), Box<dyn std::error::Error>> {
-    let allow_keys: HashSet<String> = merged_allow.iter().filter_map(|r| domain_key(r)).collect();
-    let important_allow_keys: HashSet<String> = merged_allow
-        .iter()
-        .filter_map(|r| important_domain_key(r))
-        .collect();
+    verify_no_covered_subdomains("allowlist", merged_allow)?;
+    verify_no_covered_subdomains("blocklist", merged_block)?;
+
+    let allow_coverage = DomainCoverage::from_rules(merged_allow);
 
     let overlap: Vec<(String, String)> = merged_block
         .iter()
         .filter_map(|rule| {
             let key = domain_key(rule)?;
-            domain_allowed(&key, &allow_keys, &important_allow_keys).then(|| (rule.clone(), key))
+            allow_coverage
+                .covers_block_rule(rule)
+                .then(|| (rule.clone(), key))
         })
         .take(20)
         .collect();
@@ -325,48 +425,83 @@ fn verify_no_overlap(
     Ok(())
 }
 
+fn verify_no_covered_subdomains(
+    name: &str,
+    rules: &[String],
+) -> Result<(), Box<dyn std::error::Error>> {
+    let coverage = DomainCoverage::from_rules(rules);
+    let redundant: Vec<(String, String)> = rules
+        .iter()
+        .filter_map(|rule| {
+            let domain_rule = adblock_domain_rule(rule)?;
+            coverage
+                .has_covering_parent(&domain_rule)
+                .then(|| (rule.clone(), domain_rule.domain))
+        })
+        .take(20)
+        .collect();
+
+    if !redundant.is_empty() {
+        eprintln!("ERROR: {name} redundant subdomain rules remain {redundant:?}");
+        return Err(io::Error::other(format!("{name} redundant subdomain rules remain")).into());
+    }
+
+    Ok(())
+}
+
 #[cfg(test)]
 mod tests {
     use super::*;
 
-    fn keys(domains: &[&str]) -> HashSet<String> {
-        domains.iter().map(|domain| domain.to_string()).collect()
+    fn rules(items: &[&str]) -> Vec<String> {
+        items.iter().map(|rule| rule.to_string()).collect()
     }
 
     #[test]
-    fn important_domain_key_only_accepts_plain_important_exceptions() {
+    fn compact_domain_rules_keeps_parent_and_drops_covered_subdomains() {
         assert_eq!(
-            important_domain_key("@@||zijieapi.com^$important"),
-            Some("zijieapi.com".to_string())
-        );
-        assert_eq!(important_domain_key("@@||zijieapi.com^"), None);
-        assert_eq!(important_domain_key("@@||*.zijieapi.com^$important"), None);
-        assert_eq!(
-            important_domain_key("@@||zijieapi.com^$important,script"),
-            None
+            compact_domain_rules(rules(&[
+                "@@||example.com^$important",
+                "@@||a.example.com^$important",
+                "@@||b.a.example.com^$important",
+                "@@||other.com^$script",
+                "@@||x.other.com^$script",
+                "@@||keep.other.com^$image",
+            ])),
+            rules(&[
+                "@@||example.com^$important",
+                "@@||keep.other.com^$image",
+                "@@||other.com^$script",
+            ])
         );
     }
 
     #[test]
-    fn important_domain_allow_covers_subdomains() {
-        let exact = keys(&[]);
-        let important = keys(&["zijieapi.com"]);
+    fn allow_coverage_removes_blocked_subdomains() {
+        let allow = compact_domain_rules(rules(&[
+            "@@||zijieapi.com^$important",
+            "@@||mssdk3-normal-hj.zijieapi.com^$important",
+            "@@||example.com^$script",
+        ]));
+        let coverage = DomainCoverage::from_rules(&allow);
 
-        assert!(domain_allowed("zijieapi.com", &exact, &important));
-        assert!(domain_allowed(
-            "mssdk3-normal-hj.zijieapi.com",
-            &exact,
-            &important
-        ));
-        assert!(domain_allowed(
-            "ads*-normal-lf.zijieapi.com",
-            &exact,
-            &important
-        ));
-        assert!(!domain_allowed(
-            "zijieapi.com.c.dsa.cdnbuild.net",
-            &exact,
-            &important
-        ));
+        assert_eq!(
+            allow,
+            rules(&["@@||example.com^$script", "@@||zijieapi.com^$important"])
+        );
+        assert!(coverage.covers_block_rule("||zijieapi.com^"));
+        assert!(coverage.covers_block_rule("||mssdk3-normal-hj.zijieapi.com^"));
+        assert!(coverage.covers_block_rule("||ads*-normal-lf.zijieapi.com^"));
+        assert!(coverage.covers_block_rule("||cdn.example.com^$script"));
+        assert!(!coverage.covers_block_rule("||cdn.example.com^$image"));
+        assert!(!coverage.covers_block_rule("||zijieapi.com.c.dsa.cdnbuild.net^"));
+    }
+
+    #[test]
+    fn host_rules_are_not_compacted_as_parent_domains() {
+        assert_eq!(
+            compact_domain_rules(rules(&["example.com", "sub.example.com"])),
+            rules(&["example.com", "sub.example.com"])
+        );
     }
 }
