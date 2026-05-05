@@ -1,5 +1,5 @@
 ! YT merged AdGuard allowlist
-! Generated: 2026-05-04
+! Generated: 2026-05-05
 ! Sources: enabled upstream allowlists + custom allow rules + upstream allow exceptions
 
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
@@ -7859,6 +7859,7 @@
 @@||api.youla.io^$stealth=referrer
 @@||api.zeeg.me/api/analytics/events/$~third-party
 @@||api2.branch.io/v1/open$domain=flickplay.co
+@@||api2.branch.io^$app=net.booksy.customer
 @@||apiavsee.com/player.php$stealth=referrer
 @@||apibhx.tgdd.vn^$domain=bachhoaxanh.com,stealth=3p-auth
 @@||apiblogger.xyz/blogger/video-play.mp4$stealth=referrer
@@ -10733,6 +10734,7 @@
 @@||esia.gosuslugi.ru^$stealth
 @@||eska.pl^$generichide
 @@||esko.cloud^*_300x600_$~third-party
+@@||eslite.com^$stealth=flash
 @@||eslite.com^*/ad
 @@||eslwriting.org^$generichide
 @@||espiaresgratis.com^$generichide
@@ -12664,6 +12666,7 @@
 @@||gva.et-gv.fr^$script,domain=culture.gouv.fr
 @@||gvmp.de^$generichide
 @@||gvt1.com/videoplayback/id/*/source/gfp_video_ads/*/file.mp4$domain=rx.iscdn.net
+@@||gw.cds.amcn.com/auth-orchestration-id/api/$stealth=3p-auth
 @@||gws.unicredit.ru/branch/map?$stealth=referrer,domain=unicreditbank.ru
 @@||gymhuntr.com^$generichide
 @@||gymnasedeburier.ch/themes/segment/js/$~third-party
@@ -17229,6 +17232,7 @@
 @@||query.petametrics.com^$image,xmlhttprequest,domain=mechacomic.jp
 @@||query1.petametrics.com/*&sdk=bc-jsonp$domain=lanacion.com.ar
 @@||query1.petametrics.com/*&sdk=bc-jsonp$domain=ranker.com
+@@||quge5.com/88/tag.min.js$domain=wxredian.com
 @@||quicasting.it^$generichide
 @@||quick-edit-cny.pages.dev^$domain=dash.cloudflare.com,stealth=useragent
 @@||quicksounds.com^$generichide
@@ -19631,6 +19635,7 @@
 @@||truyenaudiocv.com^$generichide
 @@||truyenaudiocv.net/ads-prebid.js
 @@||truyenaudiocv.net^$generichide
+@@||try.abtasty.com/39d783b9bc0b6b495e430e140bd1eedc.js$domain=tickpick.com
 @@||try.abtasty.com/403fb16c20596e4691fbe9ec5db9720e.js$domain=shop.euromaster.de
 @@||try.abtasty.com/78cb84f9b3158bdce6932109a6d7c7c1.js$domain=tf1.fr
 @@||try.abtasty.com^$script,domain=tickpick.com
