@@ -1,5 +1,5 @@
 ! YT merged AdGuard allowlist
-! Generated: 2026-05-23
+! Generated: 2026-05-24
 ! Sources: enabled upstream allowlists + custom allow rules + upstream allow exceptions
 
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
@@ -10281,6 +10281,7 @@
 @@||discoveryplus.in/*/ads/banner_ad.js
 @@||discretemath.org/ads/
 @@||discretemath.org^$image,stylesheet
+@@||dishtv.in/scripts/adobeAnalytics.js$~third-party
 @@||disney.aicdn.live/videos/$stealth=referrer
 @@||disneyplus.com^$generichide
 @@||disneyplus.com^$generichide,badfilter
@@ -12828,6 +12829,7 @@
 @@||hhgregg.com/wcsstore/MadisonsStorefrontAssetStore/javascript/Analytics/AnalyticsTagDataObject.js
 @@||hhkungfu.tv^$generichide
 @@||hideandseek.world/js/prebid-ads.js
+@@||hidencloud.com^$generichide
 @@||hidive.com^|
 @@||highcharts.com.cn/highcharts/modules/heatmap.js
 @@||highresolutionmusic.com^$generichide
