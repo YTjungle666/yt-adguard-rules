@@ -1,5 +1,5 @@
 ! YT merged AdGuard allowlist
-! Generated: 2026-05-24
+! Generated: 2026-05-25
 ! Sources: enabled upstream allowlists + custom allow rules + upstream allow exceptions
 
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
@@ -10654,6 +10654,7 @@
 @@||elektrikmen.com^$generichide
 @@||elektrotanya.com/files/ads/adblockdetect.js
 @@||elife-cloud.blogspot.com^$generichide
+@@||elitesuppsproduction15fy12zem.org.coveo.com^$stealth=3p-auth,domain=elitesupps.com.au
 @@||elitetunnel.com^$generichide
 @@||elmueble.com^$generichide
 @@||elmundo.es^$generichide
