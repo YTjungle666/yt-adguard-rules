@@ -1,5 +1,5 @@
 ! YT merged AdGuard allowlist
-! Generated: 2026-06-01
+! Generated: 2026-06-02
 ! Sources: enabled upstream allowlists + custom allow rules + upstream allow exceptions
 
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
@@ -10102,6 +10102,7 @@
 @@||data.digital.costco.com^|
 @@||data.flurry.com^
 @@||data.mistat.xiaomi.com^$app=com.tencent.mm
+@@||data.notify.macys.com^|
 @@||data.orders.costco.com^|
 @@||data.reactandshare.com/api/plugin/$stealth=referrer,domain=maanmittauslaitos.fi
 @@||data.sec.miui.com^
@@ -11110,6 +11111,7 @@
 @@||fotopixel.es^$generichide
 @@||fotor.com.cn/static/web/share/js/
 @@||foundation.youdao.com^
+@@||fourfourtwo.com/vite/assets/Ads/Ads.ts-BXJqYWBm.js$domain=fourfourtwo.com
 @@||fourhoi.com^$image,media,stealth=referrer,domain=missav.live|missav.ws|missav123.com|missav888.com|missav.*
 @@||fox-url.com^$generichide
 @@||foxnews.com^$generichide
@@ -12892,6 +12894,7 @@
 @@||hlntv.com/*/ad_policy.xml
 @@||hlok.qertewrt.com/offer?prod=
 @@||hls*.*.*/hls*/*.PNG$stealth=referrer,xmlhttprequest,domain=kisskh.*
+@@||hls*.burntburst*.store/*/master.m3u8$stealth=referrer
 @@||hls-live.bdstatic.com/*/stream_$stealth=referrer
 @@||hls.exmarketplace.com/*.m3u8$domain=tvserial.it
 @@||hls.exmarketplace.com/*.ts$domain=tvserial.it
