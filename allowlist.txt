@@ -1,5 +1,5 @@
 ! YT merged AdGuard allowlist
-! Generated: 2026-06-06
+! Generated: 2026-06-07
 ! Sources: enabled upstream allowlists + custom allow rules + upstream allow exceptions
 
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
@@ -10543,6 +10543,7 @@
 @@||dwnserver.com/download/$stealth=referrer
 @@||dwstatic.com/b=amkit
 @@||dwstatic.com/b=amkit&f=*/adjoin.
+@@||dwt.soundcloud.com.first-party-js.datadome.co^$script,xmlhttprequest,domain=soundcloud.com
 @@||dxp.optimizely.com^$domain=suse.com
 @@||dydog.org/*/DPlayer.min.css
 @@||dydog.org/*/DPlayer.min.js
