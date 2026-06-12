@@ -1,5 +1,5 @@
 ! YT merged AdGuard allowlist
-! Generated: 2026-06-11
+! Generated: 2026-06-12
 ! Sources: enabled upstream allowlists + custom allow rules + upstream allow exceptions
 
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
@@ -12467,7 +12467,6 @@
 @@||googletagmanager.com/gtm.js$domain=thethaiger.com
 @@||googletagmanager.com/gtm.js$domain=tomshw.it
 @@||googletagmanager.com/gtm.js$domain=traum-ferienwohnungen.de
-@@||googletagmanager.com/gtm.js$domain=tribuna.com
 @@||googletagmanager.com/gtm.js$domain=turkcell.com.tr
 @@||googletagmanager.com/gtm.js$domain=tv-asahi.co.jp
 @@||googletagmanager.com/gtm.js$domain=type.jp
@@ -13471,6 +13470,7 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=tvp.pl|tvp.info
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=typingtest.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=ultimedia.com
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=ultrapeli.com|worpress.seeks.cloud
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=umterps.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=upns.online|upns.xyz|upns.one|isekaitube.cfd|upns.live|javlion.xyz|hlsfast.com|ultrastream.online|streamcasthub.store|w1tv.xyz|cdnstream.top|javboys.upn.one|coflix.upn.one|animeshqip.uns.bio|rpmvid.com|onion.upns.blog|securecdn.shop|embed4me.com|jhdanime.com|strp2p.com|playeranimewatch.pl|bigbuttshubvideos.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=uptostream.com
@@ -17749,6 +17749,7 @@
 @@||sax.sina.com.cn/video/$script
 @@||sax.sina.com.cn/video/newimpress?
 @@||sax.sina.com.cn^|
+@@||sazwe.com^$generichide
 @@||sb.scorecardresearch.com/*/streamingtag_plugin_jwplayer.js$domain=nbcbayarea.com
 @@||sb.scorecardresearch.com/*/streamingtag_plugin_jwplayer.js$domain=nbclosangeles.com
 @@||sb.scorecardresearch.com/*/streamingtag_plugin_jwplayer.js$domain=nbcsports.com
