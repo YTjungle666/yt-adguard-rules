@@ -1,5 +1,5 @@
 ! YT merged AdGuard allowlist
-! Generated: 2026-06-21
+! Generated: 2026-06-22
 ! Sources: enabled upstream allowlists + custom allow rules + upstream allow exceptions
 
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
@@ -10564,6 +10564,7 @@
 @@||dual1080p.blogspot.com^$generichide
 @@||duckduckgo.com/?q=$generichide
 @@||duckduckgo.com/?q=$generichide,badfilter
+@@||duckduckgo.com/local.js$~third-party
 @@||duckduckgo.com/y.js?*url
 @@||duelmeta.com^$generichide
 @@||duihui.duoduocdn.com^$image,stealth=referrer,domain=zhibo8.cc
@@ -19209,6 +19210,7 @@
 @@||tag.aticdn.net^$script,domain=gouv.fr|openservices.enedis.fr|rte.ie|tv5monde.com|uktvplay.co.uk|visaconcierge.eu|yourstory.com
 @@||tag.perfectaudience.com/serve/*.js$domain=asana.com
 @@||tag.search.sensefuel.live/search/$domain=bricomart.es
+@@||tag.search.sensefuel.live/tag$domain=bricoman.pl
 @@||tag.search.sensefuel.live/tag/*/tagp.js$domain=bricomart.es
 @@||tag.vlitag.com^$script,domain=orbispatches.com
 @@||tagan.adlightning.com/setupad-hai/op.js$domain=dgb.lol
