@@ -1,5 +1,5 @@
 ! YT merged AdGuard allowlist
-! Generated: 2026-06-22
+! Generated: 2026-06-23
 ! Sources: enabled upstream allowlists + custom allow rules + upstream allow exceptions
 
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
@@ -6772,9 +6772,8 @@
 @@||a.visualrevenue.com/vrs.js$domain=t-online.de
 @@||a1.itc.cn/pv/js/spv.
 @@||a10.com/wdg/js_aggregator-active/js/module/monetisation/advertisement.js
-@@||a2zapk.com/ads.js
-@@||a2zapk.com/images/$image,domain=a2zupload.com
-@@||a2zapk.com^$script,xmlhttprequest,third-party,domain=financemonk.net|rtxkeeda.com|houseofblogger.com|dropgalaxy.com|djxmaza.in
+@@||a2zapk.dev/images/$image,domain=a2zupload.com
+@@||a2zapk.dev^$script,xmlhttprequest,third-party,domain=financemonk.net|rtxkeeda.com|houseofblogger.com|dropgalaxy.com|djxmaza.in
 @@||aachener-nachrichten.de/advertorials/
 @@||aax-eu.amazon-adsystem.com/s/yoc^$domain=youronlinechoices.com
 @@||aax-us-east.amazon-adsystem.com/x/getad?src=$domain=pipeflare.io
@@ -6810,6 +6809,7 @@
 @@||accaii.com^$domain=kyuusai2nd.net
 @@||accelcdn.com^$image,stealth=referrer,domain=mangaokutr.com
 @@||acceptable.a-ads.com/1^$domain=coinfola.com
+@@||access.worldpay.com^$stealth=referrer
 @@||account.adguard.*/api_acc/$stealth=3p-auth
 @@||account.adobe.com/newrelic.js$~third-party
 @@||account.adobe.com^$document,domain=services.adobe.com,stealth=useragent
@@ -13518,7 +13518,7 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=ultimedia.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=ultrapeli.com|worpress.seeks.cloud
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=umterps.com
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=upns.online|upns.xyz|upns.one|isekaitube.cfd|upns.live|javlion.xyz|hlsfast.com|ultrastream.online|streamcasthub.store|w1tv.xyz|cdnstream.top|javboys.upn.one|coflix.upn.one|animeshqip.uns.bio|rpmvid.com|onion.upns.blog|securecdn.shop|embed4me.com|jhdanime.com|strp2p.com|playeranimewatch.pl|bigbuttshubvideos.com|rpmvip.com
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=upns.online|upns.xyz|upns.one|isekaitube.cfd|upns.live|javlion.xyz|hlsfast.com|ultrastream.online|streamcasthub.store|w1tv.xyz|cdnstream.top|javboys.upn.one|coflix.upn.one|animeshqip.uns.bio|rpmvid.com|onion.upns.blog|securecdn.shop|embed4me.com|jhdanime.com|strp2p.com|playeranimewatch.pl|bigbuttshubvideos.com|rpmvip.com|rpmstream.live
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=uptostream.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=video.capital.it
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=video.corriere.it
@@ -14218,6 +14218,7 @@
 @@||ks-bueromoebel.shop/*/google-analytics.*.js
 @@||ksapisrv.com/rest/wd/common/log/collect/
 @@||ksdpictures.site/embed/$subdocument,stealth=referrer
+@@||ksdpictures.site^$subdocument,stealth=referrer
 @@||ksstradio.com/wp-content/plugins/adrotate/library/jquery.*.js
 @@||ksv-video-publish-m3u8.cdn.bcebos.com/*.m3u8$stealth=referrer
 @@||ktm2day.com^$generichide
@@ -14931,7 +14932,6 @@
 @@||meracalculator.com^$generichide
 @@||mercedesclub.cz^$generichide
 @@||merlincdn.net^*/common/images/spacer.gif$image,domain=turkcell.com.tr
-@@||merlininkazani.com^$generichide
 @@||mertcangokgoz.com^$generichide
 @@||messenger.com/groupcall/$stealth=webrtc
 @@||messenger.com^$extension
@@ -16822,6 +16822,7 @@
 @@||picsearch.com/js/comscore.js$domain=dn.se
 @@||pictasty.com^$generichide
 @@||pictogo.net^$stealth=referrer,third-party
+@@||pictures.spordunyasi.site^$stealth=referrer
 @@||pikabu.ru/story/*_reklama_
 @@||pikio.pl^$generichide
 @@||pilet.elron.ee^$extension
@@ -19390,6 +19391,7 @@
 @@||terashare.me^$generichide
 @@||terminvereinbarung.leipzig.de^$stealth=dpi
 @@||terrarium.com.pl^$generichide
+@@||tesco.com/akam/13/$domain=tesco.com
 @@||tesco.com^$stealth=ip
 @@||test.profitsfly.com/wp-content/uploads/*/bg-h2-pattern.png$domain=starkroboticsfrc.com|cryptednews.space|seoliv.com|blackwoodacademy.org|crypto-radio.eu|tiktokcounter.net
 @@||testufo.com/*.html$jsinject,elemhide,extension
@@ -19659,7 +19661,7 @@
 @@||tpc.googlesyndication.com/safeframe/*/html/container.html$domain=247sports.com
 @@||tpc.googlesyndication.com/safeframe/*/html/container.html$xmlhttprequest,domain=megainteresting.com
 @@||tpc.googlesyndication.com/simgad/$domain=a2zapk.co
-@@||tpc.googlesyndication.com/simgad/$domain=a2zapk.io,image
+@@||tpc.googlesyndication.com/simgad/$domain=a2zapk.dev,image
 @@||tpc.googlesyndication.com/simgad/$domain=ads.google.com
 @@||tpc.googlesyndication.com/simgad/$domain=dropgalaxy.com
 @@||tpc.googlesyndication.com/simgad/$domain=financemonk.net
@@ -20242,6 +20244,7 @@
 @@||vidload.lol/iframe/$stealth=referrer
 @@||vidload.site^$stealth=referrer
 @@||vidmoly.to/embed-$stealth=referrer|ip
+@@||vidnest-*.workers.dev/mp4-proxy$stealth=referrer
 @@||vidnest.io^$generichide
 @@||vidoser.org^$elemhide
 @@||vidoza.net/embed-*.html$subdocument
