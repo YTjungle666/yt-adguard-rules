@@ -1,5 +1,5 @@
 ! YT merged AdGuard allowlist
-! Generated: 2026-06-24
+! Generated: 2026-06-25
 ! Sources: enabled upstream allowlists + custom allow rules + upstream allow exceptions
 
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
@@ -7542,6 +7542,7 @@
 @@||ams.cdn.arkadiumhosted.com/assets/arena-4/arena/heap/advertisements.js$script,domain=jeux.lemonde.fr
 @@||amsarkadium-a.akamaihd.net/assets/*/arena/heap/advertisements.js$domain=nydailynews.com
 @@||amtonline.com.br^$generichide
+@@||an-sm.naughtycdn.com/js/lti-analytics-*.min.js$domain=members.naughtyamerica.com
 @@||an.facebook.com/v1/instream/vast.xml?placementid=$xmlhttprequest,domain=anime47.com
 @@||an.yandex.ru/mapuid/*?location=*&jsredir=
 @@||an.yandex.ru/system/adfox.js$domain=minsknews.by
@@ -8152,6 +8153,7 @@
 @@||auth.gfx.ms^$document
 @@||auth.mail.ru^$stealth=useragent
 @@||auth.opera.com^$stealth=useragent
+@@||auth.pingone.com^$stealth=3p-auth
 @@||auth.schale.network^$stealth=referrer|3p-auth
 @@||auth.ticketmaster.com/*/authorization.oauth
 @@||auth.ticketmaster.com/epsf/gec*Login
