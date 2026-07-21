@@ -1,5 +1,5 @@
 ! YT merged AdGuard allowlist
-! Generated: 2026-07-20
+! Generated: 2026-07-21
 ! Sources: enabled upstream allowlists + custom allow rules + upstream allow exceptions
 
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
@@ -93,7 +93,7 @@
 @@.net/click-$domain=bradsdeals.com|coupons.com|dealigg.com|dealnews.com|goodsearch.com|groupon.com|hotukdeals.com|moneysavingexpert.com|offers.com|retailmenot.com|slickdeals.net
 @@.online/premiumtv/*.php$subdocument,xmlhttprequest,stealth=referrer
 @@.pexcard.com^$jsinject,elemhide,extension
-@@.php$subdocument,stealth=referrer,domain=/dizipal\d+.com/
+@@.php$subdocument,stealth,domain=/dizipal\d+.com/
 @@.php?id=$script,domain=surirt.com
 @@.php?play_vid=$subdocument,stealth=referrer,domain=xyflv.cc
 @@.png#$domain=3dpchip.com|9zvip.net|club.tgfcer.com|coolinet.com|digit77.com|e9china.net|upxin.net
@@ -6829,6 +6829,7 @@
 @@||account.microsoft.com/?refd=$stealth=3p-cookie
 @@||account.microsoft.com/auth/$stealth=3p-cookie
 @@||account.withings.com^$stealth=ip
+@@||accountapi.gosplit.net/authorize/$stealth=referrer
 @@||accounts.ea.com^$stealth
 @@||accounts.ea.com^$stealth=3p-cookie
 @@||accounts.google.com^$generichide
@@ -7555,6 +7556,7 @@
 @@||amtonline.com.br^$generichide
 @@||an-sm.naughtycdn.com/js/lti-analytics-*.min.js$domain=members.naughtyamerica.com
 @@||an.facebook.com/v1/instream/vast.xml?placementid=$xmlhttprequest,domain=anime47.com
+@@||an.gr-wcon.com/script/$domain=chipstore.de
 @@||an.yandex.ru/mapuid/*?location=*&jsredir=
 @@||an.yandex.ru/system/adfox.js$domain=minsknews.by
 @@||an.yandex.ru/system/context.js$domain=otzovik.com
@@ -10073,6 +10075,7 @@
 @@||custommapposter.com^$generichide
 @@||cutcaptcha.com^|
 @@||cuttlinks.com^$generichide
+@@||cuttty.com^$generichide
 @@||cvs.com/shop-assets/js/VisitorAPI.js$~third-party
 @@||cvs.com/webcontent/images/weeklyad/adcontent/$~third-party
 @@||cw-api.takeaway.com^$stealth=3p-auth
@@ -13158,6 +13161,7 @@
 @@||ib.adnxs.com/getuidj|$domain=independent.co.uk
 @@||ib.adnxs.com/opt$domain=wearemiq.com|infectiousmedia.com
 @@||ib.adnxs.com/ptv$domain=tele5.de
+@@||ib.adnxs.com/ut/$domain=cuttty.com
 @@||ib.adnxs.com/ut/$domain=youmath.it
 @@||ib.adnxs.com/ut/v3$domain=aftonbladet.se
 @@||ib.adnxs.com/ut/v3$xmlhttprequest,domain=exeygo.com
@@ -14190,6 +14194,7 @@
 @@||kh.google.com/rt/earth/PlanetoidMetadata^$stealth=searchqueries|referrer
 @@||khohieu.com^$generichide
 @@||kickass.com.se^$generichide
+@@||kickbd.org/ads/ad.js$domain=kickbd.org
 @@||kickcharm.com^$generichide
 @@||kifir2.kir.hu^$stealth=dpi
 @@||kijiji.ca/b-search.html
@@ -14536,6 +14541,7 @@
 @@||livezombymil.com/*/tghr.js$domain=manga1000.com
 @@||lk.gpnbonus.ru^$stealth=dpi
 @@||lk.rt.ru/ruxitagentjs_*.js$domain=lk.rt.ru
+@@||lkm-*.cfd^$stealth=referrer,domain=sn.dplayer82.site
 @@||ll-media.tmz.com/*-300x250.
 @@||lloydstsb.com/it/xslt/touchclarity/omtr_tc.js
 @@||lluban.by^$stealth=dpi
@@ -16206,6 +16212,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=kodibeginner.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=kpopflac.xyz
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=laptrinhx.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=leeapk.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=leechpremium.link
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=leechpremium.net
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=lightningmaps.org
@@ -16871,6 +16878,7 @@
 @@||picsearch.com/js/comscore.js$domain=dn.se
 @@||pictasty.com^$generichide
 @@||pictogo.net^$stealth=referrer,third-party
+@@||pictures.izmirgezisi.site^$stealth=referrer
 @@||pictures.spordunyasi.site^$stealth=referrer
 @@||pidlio.com^$generichide
 @@||pikabu.ru/story/*_reklama_
@@ -18383,6 +18391,7 @@
 @@||shorterall.com/folder/ad-test/$script,~third-party
 @@||shorterall.com^$cookie=_gid
 @@||shorterall.com^$generichide
+@@||shortpixel.ai^$domain=linuxiac.com
 @@||shortx.net^$generichide
 @@||show.g.mediav.com/s?type=$domain=v.360kan.com
 @@||show.g.mediav.com/s?type=$script,domain=miercn.com
@@ -20074,6 +20083,7 @@
 @@||upos-sz-mirrorhw.bilivideo.com^$stealth=referrer
 @@||uppit.com^$generichide
 @@||ups.com/*/WebTracking/track&dcs
+@@||ups.com/*/fragments/tracking-widget.plain.html$~third-party
 @@||ups.com/*/tracking.cgi
 @@||ups.com/WebTracking/
 @@||ups.xplosion.de/ctx$domain=ingame.de
