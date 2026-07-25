@@ -1,5 +1,5 @@
 ! YT merged AdGuard blocklist
-! Generated: 2026-07-24
+! Generated: 2026-07-25
 ! Sources: enabled upstream blocklists + upstream allow exceptions + custom rules
 
 $third-party,domain=hentai2read.com|porn-tube-club.com
@@ -22343,7 +22343,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||0sxs.com/js/all.
 ||0sywjs4r1x.com^
 ||0sz4.com^
-||0t0.xyz^
 ||0tc1bdbgsm.com^
 ||0teah3.com^
 ||0themastercylinder0.com^
@@ -22375,7 +22374,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||0x01n2ptpuz3.com^
 ||0x0c.org^
 ||0x10cforum.com^
-||0x1e.xyz^
 ||0x1f4b0.com^
 ||0x2501.org^
 ||0x64-esp.com^
@@ -22402,7 +22400,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||0z3zbnbkv.com^
 ||0zj2a0bg.xyz^
 ||0zo9nqijr.com^
-||0zone.net^
 ||0zz0.com^
 ||1-1ads.com^
 ||1-2-3.info^
@@ -25058,6 +25055,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||1f3912cb04.com^
 ||1f3k.com^
 ||1f6seh-tk.myshopify.com^
+||1f76a2ba920d.space^
 ||1f7wwaex9rbh.com^
 ||1f92a26341.0a57f6bbfd.com^
 ||1fa25f6cc1.com^
@@ -26370,6 +26368,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||2jovem.com^
 ||2jse6.icu^
 ||2juyabihe.com^
+||2jwktre834wh6g.rest^
 ||2jwpfkl7kw5evxu.cfd^
 ||2k.trackgecko.pl^
 ||2k19.nl^
@@ -26463,6 +26462,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||2rwonuh.com^
 ||2s11.com^
 ||2s2enegt0.de^
+||2s5rm8cz8p.com^
 ||2sbp.com^
 ||2seasonsguesthouse.com^
 ||2sexa.com^
@@ -26488,6 +26488,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||2trk.info^
 ||2ts55ek00.de^
 ||2tty.overstappen.nl^
+||2u1b3gyc11t9z7y.cfd^
 ||2u1oucjq9cork3.cfd^
 ||2u1z7qmjvy1covuwg2rxkj3.cfd^
 ||2u2wyftqmr.com^
@@ -26527,6 +26528,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||2z1bu5for5z7qx.cfd^
 ||2z1fxurtnx1i18bln.cfd^
 ||2zjftxgl5s.com^
+||2znhicyotu4e5bj5.rest^
 ||2znp09oa.com^
 ||2ztav5r7r.com^
 ||2zxm2pb3q38m2k.cfd^
@@ -26760,6 +26762,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||33img.com^$domain=18board.com|18p2p.com
 ||33kw1wc58.top^
 ||33lotte.com^
+||33mp2fbrns.com^
 ||33ok.club^
 ||33q.com^
 ||33seaa.com^
@@ -27318,7 +27321,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||3qtdjf4830.com^
 ||3qubits.com^
 ||3qx0pnhyzi.com^
-||3qx9mzt.skin^
 ||3r1kwxcd.top^
 ||3r3dtm.com^
 ||3r5xxmp421rnkqwhowj.cfd^
@@ -27374,7 +27376,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||3w27zp7ohnzouxyguckyy.rest^
 ||3wk.cc/images/*.gif
 ||3wn3w3skxpym.round.t3.gg^
-||3wn9pkh.hair^
 ||3wr110.net^
 ||3wwhmhwojqmz838fpi8ubijuncnhkk.cfd^
 ||3wzq2yxde.com^
@@ -28664,7 +28665,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||5jcd.com/runtime/pagenum.html$~third-party
 ||5jelly.info^
 ||5jgwflo4y935b8udrp.www.pmn-nerez.cz^
-||5jhome.com^
 ||5jvc6fp55m3txovvnrt67ic1.cfd^
 ||5k1cyldc9.com^
 ||5kj9ve1k8wv9qxp76y8i2yz.cfd^
@@ -28754,6 +28754,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||5w8v8395iej8n4jwefgm.cfd^
 ||5wcnp5.com^
 ||5wl8x.xyz^
+||5wm5kehxrikxoncu4r.rest^
 ||5wo4spwppk7n0wvrn.xyz^
 ||5ws5hw-rtbix.top^
 ||5wt390pvwz.com^
@@ -31144,7 +31145,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||a-todesk.com.cn^
 ||a-tok.com^
 ||a-us.twofaceaesthetics.com^
-||a-velo.at^
 ||a-wps.cc^
 ||a-zzz.com^
 ||a.0day.kiev.ua^
@@ -33551,6 +33551,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||aafns.xyz^
 ||aafuck.xyz^
 ||aafuck.xyz^$third-party
+||aafzswczvtc.com^
 ||aag.yahooapis.jp^
 ||aagcd.keymaster247.com^
 ||aagm.link^
@@ -34258,6 +34259,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||aboutharrypotter.fasthost.tv^
 ||aboutpersonify.com^
 ||aboutproperty.co.uk^
+||aboutsbeparchownness.cfd^
 ||abouttill.com^
 ||aboutwebservices.com^
 ||aboutzz.xyz^
@@ -34483,6 +34485,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||ac-ebis.usen-store.com^
 ||ac-ebis.usen.biz^
 ||ac-log.com^
+||ac-sdk-message-collector-nq-1368822740.us-east-1.elb.amazonaws.com^
 ||ac-sdk-message-collector-nz-127261488.eu-central-1.elb.amazonaws.com^
 ||ac-sdk-message-collector-st-1242479116.ap-southeast-2.elb.amazonaws.com^
 ||ac-strasboourg.fr^
@@ -35494,6 +35497,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||ad-feeds.com^
 ||ad-files.classting.com^
 ||ad-flow.com^
+||ad-format-sg.tiktokv.com^
 ||ad-fortress.com^
 ||ad-free.info^
 ||ad-ga.nocode.com^
@@ -36014,6 +36018,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||ad.jeune-independant.net^
 ||ad.jibunde-esute.com^
 ||ad.jiemian.com^
+||ad.joao2507.com^
 ||ad.joara.com^
 ||ad.jokeroo.com^
 ||ad.jorte.com^
@@ -36302,6 +36307,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||ad.spreamedia.it^
 ||ad.starlightmedia.ua^
 ||ad.steris.com^
+||ad.study-less.com^
 ||ad.style^
 ||ad.style^$third-party
 ||ad.sunflower.vn^
@@ -36424,6 +36430,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||ad.xiaohongshu.wadwedomer1614.com^
 ||ad.xiaomi.com.edgesuite.net^
 ||ad.xiaomi.com^
+||ad.xiaoyi.com^
 ||ad.ximalaya.com^
 ||ad.xmmnsd.com^
 ||ad.xmovies8.si^
@@ -36868,7 +36875,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||adbkxfyq.apps.lair.io^
 ||adblade.com^
 ||adblade.org^
-||adblasting.xyz^
 ||adblck.com^
 ||adblender.ru^
 ||adblendr.io^
@@ -38159,6 +38165,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||admob-app-id-*.firebaseio.com^
 ||admob-cn.com^
 ||admob-gmats.uc.r.appspot.com^
+||admob.biz^
 ||admob.co.kr^
 ||admob.co.nz^
 ||admob.co.uk^
@@ -38802,7 +38809,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||ads-1821218336.ap-southeast-1.elb.amazonaws.com^
 ||ads-411442584.us-east-1.elb.amazonaws.com^
 ||ads-6686.top^
-||ads-730738929.ap-southeast-1.elb.amazonaws.com^
 ||ads-abc.com^
 ||ads-adaptv.vidible.tv^
 ||ads-adfinix-staging.sgp1.cdn.digitaloceanspaces.com^
@@ -38820,7 +38826,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||ads-api.playfun.vn^
 ||ads-api.production.nebula-drupal.stuff.co.nz^
 ||ads-api.reddit.com^
-||ads-api.smudi.co.kr^
 ||ads-api.stuff.co.nz^
 ||ads-api.tiktok.com^
 ||ads-api.twitter.com^
@@ -38871,6 +38876,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||ads-engagement.prod.cloud.ogury.io^
 ||ads-events.mercadolibre.com^
 ||ads-frontier.tiktok.com^
+||ads-fusion-prod.s3.eu-west-1.amazonaws.com^
 ||ads-game-187f4.firebaseapp.com^
 ||ads-gdl.imovideo.ru^
 ||ads-goal.com^
@@ -38915,7 +38921,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||ads-optima.com^
 ||ads-partner-noneu.truecaller.com^
 ||ads-partners.coupang.com^
-||ads-pd.nbcuni.com.edgekey.net^
 ||ads-pd.nbcuni.com^
 ||ads-pixiv.net^
 ||ads-pixiv.net^$third-party
@@ -39723,7 +39728,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||ads.jauns.lv^
 ||ads.javtit.com^
 ||ads.jeded.com^
-||ads.jetpackdigital.com.akamaized.net^
 ||ads.jewcy.com^
 ||ads.jewishfriendfinder.com^
 ||ads.jianchiapp.com^
@@ -39894,6 +39898,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||ads.mic.com^
 ||ads.microsoft.com^
 ||ads.midatlantic.aaa.com^
+||ads.minap.hu^
 ||ads.mindfactory.de^
 ||ads.mindsetnetwork.com^
 ||ads.mini2.info^
@@ -40472,6 +40477,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||ads.twitch.tv^
 ||ads.twitter.center^
 ||ads.twojatv.info^
+||ads.ty4stroke.com^
 ||ads.ua872158.serversignin.com^
 ||ads.ubestkid.com^
 ||ads.uc.cn^
@@ -41003,7 +41009,10 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||adserver-alb-prod-1154786121.us-east-1.elb.amazonaws.com^
 ||adserver-e7.com^
 ||adserver-espnet.sportszone.net^
+||adserver-load-balancer-449180619.us-east-1.elb.amazonaws.com^
 ||adserver-prod.wolterskluwer.pl^
+||adserver-pub1-1063714433.ap-southeast-1.elb.amazonaws.com^
+||adserver-pub1-1986770942.eu-west-1.elb.amazonaws.com^
 ||adserver-pub1-272401888.us-east-1.elb.amazonaws.com^
 ||adserver.*.yahoodns.net^
 ||adserver.100free.com^
@@ -41024,6 +41033,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||adserver.andreafiore.com^
 ||adserver.animalidacompagnia.it^
 ||adserver.aol.fr^
+||adserver.arbtalk.co.uk^
 ||adserver.archant.co.uk^
 ||adserver.ariase.org^
 ||adserver.asiantb.com^
@@ -41321,6 +41331,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||adserver.wuppertal.itsbe.de^
 ||adserver.x3.hu^
 ||adserver.xpatloop.com^
+||adserver.xray-mag.com^
 ||adserver.xtubexxx.com^
 ||adserver.yahoo.com^
 ||adserver.yanosik.pl^
@@ -43086,6 +43097,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||aesus.so-net.ne.jp^
 ||aesvnxentohkew.com^
 ||aet.spotify.com^
+||aethelwulfwealth.com^
 ||aetherarkex.com^
 ||aetiducri.com^
 ||aetkjmyqjgig.com^
@@ -43738,6 +43750,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||affyun.com/wp-content/uploads/2018/10/file.gif
 ||afgenqtscnbaw.space^
 ||afghanalosa.cfd^
+||afghanicputime.cfd^
 ||afgjt.smartrike.com^
 ||afgmrqvdukhxl.site^
 ||afgodscarpe.com^
@@ -44567,7 +44580,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||ailgame.com^
 ||aili.com^
 ||aili.com^$third-party
-||ailimits.org^
 ||ailla.abphotos.link^
 ||ailpyvmztfusn.one^
 ||ailsion.com^
@@ -44874,6 +44886,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||aisy55.xyz^
 ||aitai.biz^
 ||aitaotu.com/style/js/aitaotu
+||aitcapexx5trade.com^
 ||aitdi.serenityranchrecovery.com^
 ||aitechinpharma.com^
 ||aitesispatata.qpon^
@@ -45333,6 +45346,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||akzawlyyllber.top^
 ||akzawlyzolowa.top^
 ||akzdrh.catofashions.com^
+||akzuhhdexvmnz.website^
 ||al-ad-lgsmartad-com.aws-prd.net^
 ||al-ad.com^
 ||al-adtech.com^
@@ -45528,6 +45542,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||albamargroup.com^
 ||albanychicago.advancedtech.com^
 ||albanyfusilsoryxes.qpon^
+||albarcocorvine.cyou^
 ||albatros.teamground.fr^
 ||albatross.creacoon.com^
 ||albatross.mypromo.co^
@@ -45577,7 +45592,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||aldehyde06.com^
 ||alderhofatelier.myshopify.com^
 ||aldernowerby.cfd^
-||aldi-life.vip^
 ||aldidevoiderhisn.cyou^
 ||aldingareefretreat.com^
 ||aldkfsd.cn^
@@ -46032,7 +46046,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||allegro-reinigung.de^
 ||allegro-task.shop^
 ||allegrolokalnie.064060.shop^
-||allegrolokalnie.0gloszenie792172.sbs^
 ||allegrolokalnie.123412341543.shop^
 ||allegrolokalnie.171328482-wszystkie.shop^
 ||alleletez.qpon^
@@ -46524,6 +46537,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||altitude-arena.com^
 ||altitudehighjackhonorary.com^
 ||altituden.com^
+||altivexcrypto66.net^
 ||altodancer.space^
 ||altogethereyesightfibber.com^
 ||altoistgussieverves.cyou^
@@ -46555,6 +46569,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||aluhsda.com^
 ||alumenbasural.qpon^
 ||aluminium.olbi.no^
+||aluminsajenjo.shop^
 ||aluminspimpery.com^
 ||aluminumoutageprovince.com^
 ||alumnaloatmeal.com^
@@ -46754,6 +46769,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||amazonbig.asia^
 ||amazonboxus.com^
 ||amazonco.uk^
+||amazoncointrade.com^
 ||amazones-tools.com^
 ||amazonglobal.live^
 ||amazongori.com^
@@ -47010,6 +47026,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||amorluv.com^
 ||amorousconvenientwhere.com^
 ||amorphasalable.cfd^
+||amorphleatmen.qpon^
 ||amorphouscomprise.com^
 ||amorphstied.cyou^
 ||amorpulse.com^
@@ -47026,6 +47043,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||amoursspignet.cfd^
 ||amovingimsonicvlsi.cyou^
 ||amoxicillin.ourtablets.com^
+||amoxycillin1st.com^
 ||amp-analytics.chip.de^
 ||amp-analytics.gazetadopovo.com.br^
 ||amp-analytics.upbit.com^
@@ -47480,6 +47498,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||analytic.texas.aaa.com^
 ||analytic.thuanbui.me^
 ||analytic.tidewater.aaa.com^
+||analytic.toninton.de^
 ||analytic.underarmour.com^
 ||analytic.vnanet.vn^
 ||analytic.vutorasuik.com^
@@ -47514,7 +47533,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||analytics-api-production.adse.jagex.com^
 ||analytics-api-s.cloudinary.com^
 ||analytics-api.a-f.io^
-||analytics-api.air.inc^
 ||analytics-api.astratex.hu^
 ||analytics-api.astratex.pl^
 ||analytics-api.barebarics.com^
@@ -47539,6 +47557,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||analytics-api.posttik.com^
 ||analytics-api.psessentials.net^
 ||analytics-api.railnation-game.com^
+||analytics-api.rouvy.com^
 ||analytics-api.samsunghealthcn.com^
 ||analytics-api.sconto.cz^
 ||analytics-api.shopiment.io^
@@ -47932,6 +47951,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||analytics.ableton.com^
 ||analytics.abt-sportsline.de^
 ||analytics.academy.com^
+||analytics.accelevents.com^
 ||analytics.accountinsight.cloud^
 ||analytics.accuristech.com^
 ||analytics.acelauncher.com^
@@ -48140,7 +48160,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||analytics.ampme.com^
 ||analytics.amsoil.ca^
 ||analytics.amsoil.com^
-||analytics.amwell.systems^
 ||analytics.ananas.ba^
 ||analytics.ananas.rs^
 ||analytics.ananas.shop^
@@ -48199,6 +48218,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||analytics.api.myqnapcloud.cn^
 ||analytics.api.myqnapcloud.com^
 ||analytics.api.serifservices.com^
+||analytics.api.zerto.com^
 ||analytics.apiaberta.pt^
 ||analytics.apify.com^
 ||analytics.apineural.com^
@@ -48626,6 +48646,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||analytics.brettspiel-angebote.de^
 ||analytics.brettterpstra.com^
 ||analytics.brickaward.com^
+||analytics.bridge.arrowhealth.io^
 ||analytics.brightidiots.net^
 ||analytics.brinkhoff.biz^
 ||analytics.brizy.io^
@@ -48790,6 +48811,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||analytics.cgv.vn^
 ||analytics.chaletdejardin.fr^
 ||analytics.changiairport.com^
+||analytics.chaotichypno.com^
 ||analytics.chappa.nl^
 ||analytics.charisma.ir^
 ||analytics.charlottetilbury.com^
@@ -48932,10 +48954,12 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||analytics.coasterserver.de^
 ||analytics.cockpit-os.de^
 ||analytics.cocolog-nifty.com^
+||analytics.cocoricarte.fr^
 ||analytics.code.dccouncil.gov^
 ||analytics.code.illusion.jp^
 ||analytics.codebites.de^
 ||analytics.codedesign.app^
+||analytics.codedmonkey.com^
 ||analytics.codeforscience.org^
 ||analytics.codemasters.com^
 ||analytics.codeon.fr^
@@ -48956,7 +48980,9 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||analytics.collectum.se^
 ||analytics.collinwebdesigns.de^
 ||analytics.collocall.de^
+||analytics.collx.app^
 ||analytics.colocataires.dev^
+||analytics.colortest.page^
 ||analytics.columbiaanalytica.com^
 ||analytics.com^
 ||analytics.comalatech.io^
@@ -49050,7 +49076,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||analytics.crosspromo.boombit.com^
 ||analytics.crowdkeep.com^
 ||analytics.cruiseamerica.com^
-||analytics.crutchfield.com^
 ||analytics.cruz.com^
 ||analytics.crx-media.de^
 ||analytics.cryptocosmicapp.com^
@@ -49236,6 +49261,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||analytics.digitallearninglab.de^
 ||analytics.digitalpfizer.com^
 ||analytics.digitalroom.tech^
+||analytics.digitmedia.de^
 ||analytics.digitslane.com^
 ||analytics.digiwise.ir^
 ||analytics.dikaiologitika.gr^
@@ -49361,6 +49387,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||analytics.e-mrs.fr^
 ||analytics.e-ventis.eu^
 ||analytics.e.daveandbusters.com^
+||analytics.e.purina.com^
 ||analytics.e.sandalsmailings.com^
 ||analytics.e1.ru^
 ||analytics.e2estudios.com^
@@ -49479,6 +49506,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||analytics.emasblog.dev^
 ||analytics.embold.com^
 ||analytics.emforce.co.kr^
+||analytics.eminence.fr^
 ||analytics.emofid.com^
 ||analytics.emol.cl^
 ||analytics.emol.com^
@@ -49806,6 +49834,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||analytics.franconnect.net^
 ||analytics.frappe.cloud^
 ||analytics.frasermclean.com^
+||analytics.fredkiss.dev^
 ||analytics.free-work.com^
 ||analytics.freedom.press^
 ||analytics.freefy.app^
@@ -49999,9 +50028,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||analytics.gooogol.com^
 ||analytics.goosed.ie^
 ||analytics.gopa.de^
-||analytics.gordonramsayrestaurants.com^
 ||analytics.gorgeous-il.co.il^
-||analytics.gothamsports.com^
 ||analytics.goto-funds.com^
 ||analytics.gotowebinar.com^
 ||analytics.gourvita.com^
@@ -50159,6 +50186,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||analytics.hennaplantshop.com^
 ||analytics.henner.com^
 ||analytics.hentaisd.tv^
+||analytics.hephata.de^
 ||analytics.herbertseidl.at^
 ||analytics.herm.app^
 ||analytics.hermesone.org^
@@ -50341,7 +50369,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||analytics.impressum-privatschutz.de^
 ||analytics.improvement.nhs.uk^
 ||analytics.improwiki.com^
-||analytics.in-reach.de^
 ||analytics.in2code.de^
 ||analytics.in4out.ch^
 ||analytics.in8.at^
@@ -50567,6 +50594,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||analytics.kapost.com^
 ||analytics.karakuri.ai^
 ||analytics.karamalnakhil.com^
+||analytics.karenmillen.com^
 ||analytics.karin-fischer-verlag.de^
 ||analytics.karis.nl^
 ||analytics.karli.ai^
@@ -50692,6 +50720,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||analytics.ksk-immobilien.de^
 ||analytics.ku.de^
 ||analytics.kubasta.net^
+||analytics.kugis.io^
 ||analytics.kuluttaja.fi^
 ||analytics.kumra-ksa.com^
 ||analytics.kunruch.com^
@@ -50906,6 +50935,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||analytics.lomar.sa^
 ||analytics.lomarengas.fi^
 ||analytics.lon.appsvc.an.adobe.com^
+||analytics.londontheatredirect.com^
 ||analytics.lonestar.co.nz^
 ||analytics.lookingforways.com^
 ||analytics.loop-cloud.de^
@@ -50967,12 +50997,14 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||analytics.maddesign.media^
 ||analytics.madeincookware.com^
 ||analytics.madeinfoot.com^
+||analytics.madeofzero.tech^
 ||analytics.madgex.com^
 ||analytics.maerz-services.de^
 ||analytics.magazvonit.pro^
 ||analytics.magicpin.in^
 ||analytics.magiline.fr^
 ||analytics.magnabytes.com^
+||analytics.magnic.com^
 ||analytics.maguone.de^
 ||analytics.maikel.pro^
 ||analytics.mail-corp.com^
@@ -50984,6 +51016,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||analytics.maiss.de^
 ||analytics.makeagency.ru^
 ||analytics.makeitmeme.com^
+||analytics.makeitsweet.de^
 ||analytics.makesmart.net^
 ||analytics.makeup.global^
 ||analytics.makro.be^
@@ -51128,6 +51161,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||analytics.mespoints.permisdeconduire.gouv.fr^
 ||analytics.message.ch^
 ||analytics.metadoll.to^
+||analytics.metaflow.de^
 ||analytics.metafox.bmw.com^
 ||analytics.metainvestimentosimobiliarios.com^
 ||analytics.metalbear.com^
@@ -51200,6 +51234,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||analytics.mise.gov.it^
 ||analytics.missmary.com^
 ||analytics.mitmore.com^
+||analytics.mittelalter.digital^
 ||analytics.mivocloud.com^
 ||analytics.mkuhlmann.org^
 ||analytics.ml.homedepot.ca^
@@ -51269,6 +51304,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||analytics.mrblithe.com^
 ||analytics.mrgeek.link^
 ||analytics.mrlokans.work^
+||analytics.mschlueter.net^
 ||analytics.msgforbanking.de^
 ||analytics.msk1.ru^
 ||analytics.msn.com^
@@ -51401,6 +51437,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||analytics.neuland.app^
 ||analytics.neumueller.org^
 ||analytics.neuralion.eu^
+||analytics.neutrogena.de^
 ||analytics.neverest.at^
 ||analytics.newdirectionsaromatics.ca^
 ||analytics.newdirectionsaromatics.com^
@@ -51578,6 +51615,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||analytics.omnimind.ai^
 ||analytics.omniscientai.com^
 ||analytics.omnisegment.com^
+||analytics.omnitok.com^
 ||analytics.omnivent.com^
 ||analytics.ompgroup.com^
 ||analytics.on24.com^
@@ -51659,6 +51697,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||analytics.oskelly.ru^
 ||analytics.ossupstream.org^
 ||analytics.ostr.io^
+||analytics.otc-service.com^
 ||analytics.ottoweb.ro^
 ||analytics.ouc.ac.cy^
 ||analytics.oui.do^
@@ -51873,6 +51912,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||analytics.pnw.appsvc.an.adobe.com^
 ||analytics.pobo.space^
 ||analytics.pocket-id.org^
+||analytics.pocketaustria.at^
 ||analytics.pocketfm.com^
 ||analytics.podtrac.com^
 ||analytics.podverse.fm^
@@ -51948,7 +51988,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||analytics.prng.co^
 ||analytics.pro-clima.cz^
 ||analytics.pro-discount.de^
-||analytics.procempa.com.br^
 ||analytics.prod.glera.cloud^
 ||analytics.prod.mdl.swisscom.ch^
 ||analytics.prod.mm.makingfun.com^
@@ -52055,6 +52094,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||analytics.qumucloud.com.cdn.cloudflare.net^
 ||analytics.qumucloud.com^
 ||analytics.quoli.app^
+||analytics.quoli.io^
 ||analytics.qushad.com^
 ||analytics.qzs-ksa.com^
 ||analytics.r-kom.de^
@@ -52170,6 +52210,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||analytics.rendin.co^
 ||analytics.reneelab.com^
 ||analytics.rennalabs.xyz^
+||analytics.rent-a-bulli.de^
 ||analytics.repath.studio^
 ||analytics.replayjeans.com^
 ||analytics.reporter.si^
@@ -52662,6 +52703,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||analytics.spy.de^
 ||analytics.squeaker.net^
 ||analytics.squidcode.com^
+||analytics.sre.gob.mx^
 ||analytics.srvnw.com^
 ||analytics.ssense.com^
 ||analytics.ssmas.com^
@@ -52723,7 +52765,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||analytics.strawberry.dk^
 ||analytics.strawberry.se^
 ||analytics.strawberryhotels.com^
-||analytics.strayer.edu^
 ||analytics.streamer.bot^
 ||analytics.streamfab.
 ||analytics.streamgaga.com^
@@ -53014,7 +53055,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||analytics.tiktok.com.ttdns2.com^
 ||analytics.tiktok.com^
 ||analytics.tiktokw.us^
-||analytics.tileshop.com^
 ||analytics.tilious.com^
 ||analytics.tillvaxtverket.se^
 ||analytics.timbertrove.com^
@@ -53136,7 +53176,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||analytics.truckmap.com^
 ||analytics.truckyapp.com^
 ||analytics.truewealth.ch^
-||analytics.trugreen.com^
 ||analytics.trumpf.com^
 ||analytics.trunzdigital.com^
 ||analytics.trust.page^
@@ -53464,6 +53503,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||analytics.waziz.xyz^
 ||analytics.wb.at^
 ||analytics.wbslaw.de^
+||analytics.wcp.workday.com^
 ||analytics.wealthcare.com^
 ||analytics.weareamaze.app^
 ||analytics.wearecommunity.io^
@@ -53588,6 +53628,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||analytics.wisdomir.com^
 ||analytics.wispbyte.com^
 ||analytics.witglobal.net^
+||analytics.withdesk.com^
 ||analytics.withgoogle.com^
 ||analytics.withkareem.com^
 ||analytics.withub.it^
@@ -53722,6 +53763,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||analytics.z24.de^
 ||analytics.z4merchants.com^
 ||analytics.zabanchi.info^
+||analytics.zafaco.de^
 ||analytics.zagg.com^
 ||analytics.zakiopticals.com.sa^
 ||analytics.zapps.me^
@@ -53776,6 +53818,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||analytics.zockly.app^
 ||analytics.zoff.me^
 ||analytics.zofiacodelabs.com.br^
+||analytics.zolenko.com^
 ||analytics.zollsoft.de^
 ||analytics.zoneadsl.com^
 ||analytics.zoom.com.br^
@@ -53798,6 +53841,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||analytics09.techsmith.com^
 ||analytics1.dev.grnet.gr^
 ||analytics1.dillards.com^
+||analytics1.hrm.visma.net^
 ||analytics1.istruzione.it^
 ||analytics1.myserverfarm.de^
 ||analytics1.seiermonitoring.at^
@@ -54058,6 +54102,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||andersenit.dk^
 ||andersonfborj.diowebhost.com^
 ||andertonindustries.com.cn^
+||andhrapanful.cfd^
 ||andlache.com^
 ||andlc.hoorayheroes.co.uk^
 ||andmlb.kshwtj.com^
@@ -54375,7 +54420,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||annaoutdoores.com^
 ||annas-archive.pm^
 ||annas-beauty.de^
-||annatesreicing.world^
 ||annawelpen.de^
 ||annbtexugthi.com^
 ||annelinterv.fun^
@@ -54921,6 +54965,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||aovk.cn^
 ||aovoasbmjf.com^
 ||aovzbznkyymow.top^
+||aowowvsdtebov.online^
 ||aowvrr.wemattchnow.com^
 ||aoxuanw.com/api/ad
 ||aoxvlbejkrvvh.online^
@@ -55244,6 +55289,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||api.amplitudeexperiment.com^
 ||api.anacorso.com.br^
 ||api.analebear.com^
+||api.analytics.in-reach.de^
 ||api.analytics.liefercon.de^
 ||api.analytics.ohi-s.com^
 ||api.analytics.omgpop.com^
@@ -58292,6 +58338,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||archspyandi.cfd^
 ||archswimming.com^
 ||archwaypikapleura.cfd^
+||arcidaemestees.cyou^
 ||arclet.net^
 ||arclight.vimeo.com^
 ||arclk.net^
@@ -58381,6 +58428,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||aresttuxes.cyou^
 ||aresweb.fr^
 ||aretesuneath.com^
+||arettemonton.qpon^
 ||areyouabot.net^
 ||areyouahuman.com^
 ||areyoutherenow.com^
@@ -58887,6 +58935,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||asbfala.com^
 ||asbgwhgj.com^
 ||asbhv.invictastores.eu^
+||asbolanablauts.shop^
 ||asc.asc-net.com^
 ||asc.e-conolight.com^
 ||asc.solidworks.com^
@@ -59035,6 +59084,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||ashcdn.com^
 ||ashemaletube.com/api/tiles
 ||ashemaletube.com/ast/b/
+||ashemaletube.com/ast/paysite
 ||ashenaletube.com^
 ||ashgame.top^
 ||ashgrrwt.click^
@@ -60877,6 +60927,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||auy07240km.com^
 ||auynumt.com^
 ||auypgtmvwerhh.store^
+||auyydavghsuox.site^
 ||auzrhbhbylxhy.site^
 ||auzsdkjb.com^
 ||auztzwjhpjwwm.site^
@@ -60945,6 +60996,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||avchmysuz.com^
 ||avcity.twavtv.com/iframe/
 ||avck.ws^
+||avcrsbfeawskd.online^
 ||avdao.pw/dist/js/sc_check
 ||avdego.net^
 ||avdludlmpseoe.space^
@@ -61097,6 +61149,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||avsrbqzidceec.site^
 ||avsrzobzacm.in^
 ||avsvmcloud.com^
+||avsz-matomo.kh.gov.hu^
 ||avtb2264.com^
 ||avtb2283.com^
 ||avtb2286.com^
@@ -61340,6 +61393,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||awwqatjip.com^
 ||awxdlwbxqjnoi.online^
 ||awxymatkud.com^
+||awykdvwxsvxxd.space^
 ||awywlb89y.com^
 ||awyyzx.com^
 ||awzbijw.com^
@@ -61361,7 +61415,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||ax4.xmoviesland.com^
 ||axabpelvjfqav.site^
 ||axacqy.henderson.ru^
-||axaimarketfx.com^
 ||axar.az/axar*.php^$domain=axar.az
 ||axatechviewou.com^
 ||axb4.vivabox.it^
@@ -61454,6 +61507,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||axoqvl.daf-shoes.com^
 ||axorawebnet.com^
 ||axotrade.com^
+||axouuokgbpcdq.space^
 ||axoxktmvnhtav.site^
 ||axp.2822news.com^
 ||axp.8newsnow.com^
@@ -61816,6 +61870,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||azulcw7.com^
 ||azurapoolcare.com^
 ||azure-docu-analytics.azurewebsites.net^
+||azureedge-global-fastly-cloudfront-ondigitalocean-stackpathcdn.buzz^
 ||azureedge.net/adtags/
 ||azureedge.net/wp-content/cache/minify/3c6d7.js
 ||azureedge.net/wp-content/cache/minify/d2299.js
@@ -62117,7 +62172,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||b51f251b31.com^
 ||b52.club^
 ||b523b52c235.shop^
-||b52hay.cc^
 ||b54.bude54.de^
 ||b586.lansivayla.fi^
 ||b58ncoa1c07f.com^
@@ -62256,6 +62310,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||babng.com^
 ||baboe.steinhafels.com^
 ||baboktransports.com^
+||baboolpeenge.qpon^
 ||baboon.namegen.app^
 ||baboon.naxon.dev^
 ||baboon.vacanti.com^
@@ -62705,6 +62760,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||bakteso.ru^
 ||bakulatroolie.shop^
 ||bakupost.az/banner
+||bakuronel-ai.net^
 ||bal.balciselahattin.com^
 ||balabass.peerserver.com^
 ||balajiparking.com^
@@ -64469,6 +64525,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||beatentransfer.com^
 ||beatenunfinishedguarantee.com^
 ||beatforumsubstitute.com^
+||beatifykinbot.cyou^
 ||beatingvoid.com^
 ||beatricecandanceyd.com^
 ||beatricecathy.com^
@@ -64580,6 +64637,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||becorsolaom.com^
 ||becreepcartway.cyou^
 ||becrybotonnysyriac.cyou^
+||becuibabrooks.cyou^
 ||becutdubbed.shop^
 ||bed.bedkingdom.co.uk^
 ||bedaffyamen.cfd^
@@ -64912,6 +64970,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||bellowassumption.com^
 ||bellowbackyard.com^
 ||bellowframing.com^
+||bellows83.top^
 ||bellsecuredloginfom-net.vercel.app^
 ||bellssale.com^
 ||bellsyscdn.com^
@@ -64969,6 +65028,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||bemiresunlevel.com^
 ||bemireulling.com^
 ||bemixdare.qpon^
+||bemixunwwove.cfd^
 ||bemmo.net^
 ||bemoatenform.qpon^
 ||bemobpath.com^
@@ -65027,6 +65087,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||benefitssense.com^
 ||benefitw.com^
 ||benelux2.secureforms.mcafee.com^
+||beneluxfreshed.shop^
 ||benesfumous.cfd^
 ||benesse.ne.jp/*/banner/line_account_2111_600x514
 ||benettonaustria.at^
@@ -65772,7 +65833,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||beworryregive.cfd^
 ||bewreakaglossaberchta.cyou^
 ||bewsgxy.solidandstriped.com^
-||bexmor.click^
 ||bextra-store.shengen.ru^
 ||bextra.ourtablets.com^
 ||bextradefx.online^
@@ -65809,6 +65869,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||bf41c496e6de.top^
 ||bf46dd419c.com^
 ||bf579f00c3d3.top^
+||bf608c30c9.com^
 ||bf6180803d6d.top^
 ||bf6b9225a4.857a41603f.com^
 ||bf700890702a0dfd.com^
@@ -65973,6 +66034,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||bgrel.bonedmilfs.com^
 ||bgrpv.mymedic.com^
 ||bgrukidu.com^
+||bgruomrlzqpxv.space^
 ||bgsgu.whitleyspeanut.com^
 ||bgsjz.universalstandard.com^
 ||bgsku.stemregen.co^
@@ -66455,6 +66517,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||bikeconcepto.shop^
 ||bikecube.de^
 ||bikedealfactory.com^
+||bikedhoedown.cyou^
 ||bikeeinnertubede.com^
 ||bikeexerciser.com^
 ||bikefactoryplus.shop^
@@ -66573,7 +66636,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||billjt.icu^
 ||billonhails.qpon^
 ||billoreilly.com/global/jquery/plugins/fancybox/jquery.fancybox.css
-||billothummock.life^
 ||billowybead.com^
 ||billowybelief.com^
 ||billowydurum.qpon^
@@ -66709,6 +66771,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||binomo.vip^
 ||binomo1.com^
 ||binomo2.zendesk.com^
+||binomogoo.com^
 ||binomoidr.com^
 ||binomotop.com^
 ||binomoweb.org^
@@ -66780,7 +66843,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||biopsyardoursheriff.com^
 ||biopsybookshelf.com^
 ||biopsypainless.com^
-||biopyrenees.fr^
 ||biorad-ads.com^
 ||biosagentplus.com^
 ||biosomerefed.cyou^
@@ -66940,7 +67002,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||bitcoin-primeapp.com^
 ||bitcoin-revolution.software^
 ||bitcoin-trader.net^
-||bitcoin-up.io^
 ||bitcoin-upappl.com^
 ||bitcoin-xact.fr^
 ||bitcoin360ai.com^
@@ -67231,6 +67292,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||bjk08261ip.com^
 ||bjk3irj9inujonozb9k3qygw.cfd^
 ||bjkedv*.xyz^
+||bjknycplkbyse.site^
 ||bjkoi.incommonbeauty.com^
 ||bjl.2jiagong.com^
 ||bjl.worldprintech.com^
@@ -67262,6 +67324,8 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||bjsmbnbo.com^
 ||bjsr03odzu.com^
 ||bjsvp*.space^
+||bjsvp11.space^
+||bjsvp13.space^
 ||bjsvp33.space^
 ||bjsvp49.space.edgesuite.net^
 ||bjsvp49.space^
@@ -67983,6 +68047,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||bluemediafiles.com^
 ||bluenest.net^
 ||blueoceanproject.de^
+||blueoriontrade.com^
 ||blueoyster.click^
 ||bluepanda.bike-mailorder.com^
 ||bluepanda.contorion.at^
@@ -68070,6 +68135,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||blusterflintbig.com^
 ||blusterhawspontaneous.com^
 ||blutrumpet.com^
+||bluttestzuhause.com^
 ||bluvenie.com^
 ||bluza3d.pl^
 ||blvdstatus.com^
@@ -68600,6 +68666,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||bohobike.shop^
 ||bohtf.beardbrand.com^
 ||bohubrihi.com^
+||bohunkslitotes.cfd^
 ||boil.toshibavarmepumper.no^
 ||boiledegglabs.com^
 ||boilerefforlessefforlessregistered.com^
@@ -68698,7 +68765,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||boltepse.com^
 ||boltsafeway.cfd^
 ||bolussprugpupulo.qpon^
-||bolvant.click^
 ||bolxemu.net^
 ||bomain.ru^
 ||bombardina.de^
@@ -69955,7 +70021,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||breka.fit^
 ||brekdok.com^
 ||brekkychukars.cyou^
-||brekton.click^
 ||brekus.org^
 ||bremberbiaural.cfd^
 ||bremberkeidolga.qpon^
@@ -69996,7 +70061,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||brennholzwerner.de^
 ||brennstoffe-versand.de^
 ||brenstoffe-versand.de^
-||brentox.digital^
 ||brenuingerde.com^
 ||brenwendingcupania.cyou^
 ||brenz.pl^
@@ -70269,6 +70333,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||brllanesrentacar.eccocar.com^
 ||brlliiantsdates.com^
 ||brllllantsdates.com^
+||brluhyuqqizos.space^
 ||brlyvtjfor.com^
 ||brm68.xnxx-hindi.com^
 ||brmbrenting.eccocar.com^
@@ -70414,7 +70479,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||broughtcontract.com^
 ||broughtkittock.qpon^
 ||brounelink.com^
-||broventi.click^
 ||brovia.co^
 ||browbeatcaramelstole.com^
 ||browdcelaeno.cfd^
@@ -70730,6 +70794,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||bsptcqnovtxdq.site^
 ||bsptz.shopthemint.com^
 ||bsqbgspa.com^
+||bsqvmdbkmeyte.website^
 ||bsrv.qq.com^
 ||bss.pandora.xiaomi.com^
 ||bssgnowkrcjpm.online^
@@ -70815,6 +70880,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||btc.com/v1/poster/production/explorer-banner.
 ||btc8886.com^
 ||btccasinoexpert.com^
+||btcclarixon.com^
 ||btcclicks.com^
 ||btcfans.com/template/comiis_lssy/ad/
 ||btcfbr.mejshop.jp^
@@ -71856,6 +71922,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||bwkpkx.projectxparis.com^
 ||bwlbtup186j2pmnetqcmxgwcynnr9neecui7i.rest^
 ||bwlfhhnlsvljs.online^
+||bwlnnrdsqondjy.com^
 ||bwlwbt.rbarevistas.com^
 ||bwmetrics.jegy.hu^
 ||bwmm4ep65y7i751j.cfd^
@@ -71863,6 +71930,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||bwngwridgzuvl.website^
 ||bwntyd.neuve-a.net^
 ||bwnxh.peaceoutskincare.com^
+||bwoaqpffevm.in^
 ||bwodskyelhpbn.space^
 ||bwofuzfzhgqnp.website^
 ||bwonline.eurosale.shop^
@@ -71994,6 +72062,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||bxwwtoeemvgrq.website^
 ||bxwzcnwycuvbc.world^
 ||bxwzds.spartoo.hu^
+||bxxfjlqlpprrq.online^
 ||bxxlfsdyftsxt.online^
 ||bxyaqdyougmac.website^
 ||bxynquktjxiqi.website^
@@ -72115,6 +72184,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||byrlawaeratedtensile.qpon^
 ||byrlawpargo.com^
 ||byrniessilky.com^
+||byrpspiwbqiim.space^
 ||byrristrowed.cfd^
 ||byryqaysgfpwz.website^
 ||bysbpc.teufelaudio.nl^
@@ -73570,7 +73640,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||capacityk.com^
 ||capath.com^
 ||capawhile.com^
-||capborg.digital^
 ||capchabot.cc^
 ||capcush.net.anwalt.de^
 ||capcutdv.shop^
@@ -74035,6 +74104,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||captureukdmyatyten.org^
 ||capulinhalva.qpon^
 ||capvfqitychla.online^
+||capwalahee.com^
 ||capybara.civicsoftwarefoundation.org^
 ||capybara.randyhamiltonelectric.com^
 ||capyrd.yochika.com^
@@ -74208,6 +74278,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||cariribef.uno^$~third-party
 ||caririfondon.qpon^
 ||caririlawmen.com^
+||carisatamanac.shop^
 ||carisini.co^
 ||carisoprodol.1.p2l.info^
 ||carisoprodol.ourtablets.com^
@@ -74423,7 +74494,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||caseatetamed.cfd^
 ||casee.cn^
 ||caseetepen.com^
-||caseflo.rest^
 ||casefollowup.com^
 ||casegenetically.com^
 ||caseours.com^
@@ -74485,7 +74555,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||casinadoglike.cfd^
 ||casino-ad-mediation.me2zengame.com^
 ||casino-amonbet.fr^
-||casino-divaspin.fr^
 ||casino-dragonia-online.de^
 ||casino-elslots.net^
 ||casino-friday-roll.fr^
@@ -76089,6 +76158,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||ce6b6837ab.com^
 ||ce6fc56927.com^
 ||ce6fdab0f2.com^
+||ce9be386c2.com^
 ||ce9qb0h4v.com^
 ||cea95c1acd.com^
 ||ceaecinzktzcm.online^
@@ -76103,6 +76173,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||cebjrqvyienhy.site^
 ||cebnovoscizrj.online^
 ||cebocom.de^
+||cebubestbuy.com^
 ||cebue.magmafurnace.top^
 ||cec8fcac3f1d0232d9b71bbb295073c52d2b1ca6bbe711fbc8020f4a.com^
 ||cecalcowiest.com^
@@ -76308,7 +76379,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||centralonline.shop^
 ||centralparkebikerentals.com^
 ||centralpharma.de^
-||centralsave.com^
 ||centralsport.nl^
 ||centrastarkenmigrant.cfd^
 ||centreforhealingarts.com^
@@ -77086,7 +77156,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||cheatingagricultural.com^
 ||cheatnhack.com^
 ||cheatsanabas.shop^
-||cheatspcgames.net^
 ||chebfqsmfwovu.online^
 ||cheboksar.ru^
 ||chebradio.ru^
@@ -77278,6 +77347,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||chevalneavil.cyou^
 ||chevinmusit.cyou^
 ||chevronmislain.cyou^
+||chewinksanify.qpon^
 ||chewsever.com^
 ||chewygame.com^
 ||chexing.net^
@@ -77655,6 +77725,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||chorizofict.com^
 ||chorleybreakdownrecovery.com^
 ||chorotichokies.cfd^
+||chorumebbbbgoza.xyz^
 ||choruscompanion.com^
 ||chorwatortygan.cfd^
 ||choseing.com^
@@ -77781,6 +77852,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||chs-matomo-1238305517.eu-west-2.elb.amazonaws.com^
 ||chsdisbindcream.cfd^
 ||chshcms.net^
+||chsoop.robinhoodproz.com^
 ||chsrkred.com^
 ||chtintr.com^
 ||chtntr.com^
@@ -77833,7 +77905,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||chunkyaward.cfd^
 ||chunkycactus.com^
 ||chunmiaosh.com^
-||chunqi.net^
 ||chunyuqiufeng.com^
 ||chunyuqiufeng.com^$third-party
 ||chuongtrinhgionghaatvietnhii2021.weebly.com^
@@ -78111,7 +78182,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||ciscrdwaxhbsh.site^
 ||cisdvwwgkkjnb.website^
 ||cissiesserfismuproom.help^
-||cistaxreturns.com^
 ||ciszhp.finanzfrage.net^
 ||ciszhp.gesundheitsfrage.net^
 ||ciszhp.motorradfrage.net^
@@ -78363,6 +78433,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||ckrosvsppslck.site^
 ||cksfgh.jaycar.com.au^
 ||cksno.eczemamitten.com^
+||ckubjahpwqzsc.online^
 ||ckvjaknqy.com^
 ||ckxxbao.com/templets/default/js/wx.js
 ||ckygge.mohd.it^
@@ -78458,7 +78529,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||clarity.blockbooster.shop^
 ||clarity.charlieyat.es^
 ||clarity.cloud.tibco.com^
-||clarity.co.kr^
 ||clarity.dentalbohrer.shop^
 ||clarity.dexcom.jp.cdn.cloudflare.net^
 ||clarity.dexcom.jp^
@@ -78472,7 +78542,9 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||clarity.ms^
 ||clarity.ms^|
 ||clarity.noblesworld.com.ng^
+||clarity.pactflow.io^
 ||clarity.rahul.gs^
+||clarity.slidesai.io^
 ||clarity.zepp.com^
 ||clarityid.top^
 ||claritytag.com^
@@ -78559,6 +78631,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||claudiaundweiss.at^
 ||claudio.treintastudios.com^
 ||clausing-advies.nl^
+||clauzmknmsmfh.online^
 ||clavecin.taokids.be^
 ||clavecin.taokids.com^
 ||claverssupari.cfd^
@@ -79358,7 +79431,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||clixgalore.com^
 ||clixportal.com^
 ||clixsense.com^
-||clixtk.com^
 ||clixtrac.com^
 ||clixtrac.com^$third-party
 ||clixvista.com^
@@ -80433,6 +80505,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||coastalbloom.xyz^
 ||coastalresin.store^
 ||coastalscontractors.com^
+||coastaxprotechtrade.com^
 ||coastersim.com^
 ||coastuniversalintroducing.com^
 ||coastweightfastidious.com^
@@ -81352,7 +81425,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||coloradoserves.com^
 ||coloradosoccerbuddies.acemlna.com^
 ||colorandcotton.com^
-||colorato.net^
 ||colordownbye.com^
 ||colore.at^
 ||coloredsecretlydia.com^
@@ -81438,6 +81510,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||com495.ru^
 ||comalesmirled.com^
 ||comalonger.com^
+||comanicilikeiste.com^
 ||comarind.com^
 ||comaruminburst.cfd^
 ||comaticteuton.cyou^
@@ -82410,6 +82483,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||conradthimm.de^
 ||conreyacrania.qpon^
 ||consali.com^
+||consarnleafen.cyou^
 ||conscience34.top^
 ||conscientiouscabbageadrift.com^
 ||conscious-floor.pro^
@@ -83390,7 +83464,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||coqaahrmahfko.online^
 ||coqce.lyfe.com^
 ||coqivmhwkcywq.online^
-||coquelicot-scarf.shop^
 ||coquetdqai.cc^
 ||coquetteboutiquehouston.com^
 ||coquettewomanshop.com^
@@ -84590,6 +84663,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||cr173.com/skinb/
 ||cr34qzn92qj644uumvc2u1.cfd^
 ||cr4t11izb8iwl867h.rest^
+||cr92xhpt372ymbu.rest^
 ||cra-arc-gc-ca.noads.biz^
 ||cra-documents.ca^
 ||cra-etransfer.online^
@@ -84973,6 +85047,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||crescentnoise.com^
 ||crescentstocky.com^
 ||cresfpho2ntesepapillo3.com^
+||cresoxyformicmunandi.cyou^
 ||cressbank.com^
 ||crestfidubank.com^
 ||crestregistered.com^
@@ -84996,7 +85071,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||crhhiczgguiif.site^
 ||crhvgfrhzsxmu.site^
 ||crianceabr.shop^
-||criativapapelaria.com^
 ||cribauthorproficient.com^
 ||criblarkscores.cyou^
 ||cribthyclose.com^
@@ -85111,6 +85185,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||croakglanceskier.com^
 ||crobotb.com^
 ||crocarddoty.shop^
+||croccaird.shop^
 ||crocetta.viessmann.it^
 ||crochetdivas.com^
 ||crockadilla.com^
@@ -86268,6 +86343,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||curvycord.com^
 ||curvycry.com^
 ||curvythanks.pro^
+||curyingarvernisuints.cyou^
 ||curyrentattri.com^
 ||curyrentattributo.org^
 ||cusb4.com^
@@ -86590,6 +86666,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||cvzvun.vidaxl.de^
 ||cw.hemalnihils.shop^
 ||cw.nu^
+||cw4gh9vcnhvthkf5wihv8ut.cfd^
 ||cw9twua9.shop^
 ||cw9twuas.xyz^
 ||cwandlf.top^
@@ -86996,6 +87073,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||cznratophrtou.website^
 ||cznzorthcvkvi.online^
 ||czofrrdmzszbd.site^
+||czoquowdqbtjr.online^
 ||czozahgihazp.in^
 ||czpidg.unisportstore.fr^
 ||czqchyyuwbpbo.site^
@@ -88860,6 +88938,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||d6gsujd8v.com^
 ||d6hvvn5jvc.com^
 ||d6l5p6w9iib9r.cloudfront.net^
+||d6odox96rf.com^
 ||d6rak4b14t5gp.cloudfront.net^
 ||d6sav80kktzcx.cloudfront.net^
 ||d6swopgiplmy0.cloudfront.net^
@@ -88937,6 +89016,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||d984u5wqh.com^
 ||d985a9d2clzq5.cloudfront.net^
 ||d99b2e7693.com^
+||d9a18cf497.com^
 ||d9b5gfwt6p05u.cloudfront.net^
 ||d9c5dterekrjd.cloudfront.net^
 ||d9cshxmf0qazr.cloudfront.net^
@@ -89570,6 +89650,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||daohan3.com^$~third-party
 ||daohannganhang.click^
 ||daoicom.bond^
+||daoinelupulic.qpon^
 ||daoteams.com^
 ||daovisx.com^
 ||daoxo.bond^
@@ -89708,6 +89789,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||das-home.com^
 ||das-kind-world.de^
 ||das-montessori-spielzeug.de^
+||das.deepsnitch.ai^
 ||dasbeautykollektiv.de^
 ||dasbuchdeslebens.at^
 ||daschachten.de^
@@ -93445,6 +93527,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||dataoke.com/api/component/code-info/v1?
 ||dataperforma.com^
 ||datapickles.com^
+||dataplane.rum.us-west-1.amazonaws.com^
 ||datarangers-event.myrightone.com^
 ||datarating.com^
 ||datareportapi.hbooker.com^
@@ -94460,6 +94543,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||debasketball.com^
 ||debateshindiganymore.com^
 ||debaucky.com^
+||debbiesmurexacknew.cfd^
 ||debbiestabenowforsenate.org^
 ||debbihwarren.com^
 ||debclefindy.com^
@@ -94520,7 +94604,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||decemnylgau.cyou^
 ||decencycrock.com^
 ||decencytopmost.com^
-||decent-midnight.pro^
 ||decent-negative.com^
 ||decentake.com^
 ||decentbunker.com^
@@ -94543,6 +94626,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||decidesqueak.com^
 ||decimal-plan.pro^
 ||decimal-reward.pro^
+||decimal-soft.com^
 ||decimalair.com^
 ||decimalclawkidding.com^
 ||decimalcollection.pro^
@@ -94765,7 +94849,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||deepseik.com.cn^
 ||deepsesk.com.cn^
 ||deepsiek.com.cn^
-||deepsnitch.ai^
 ||deepssek.com.cn^
 ||deeptack.com^
 ||deepweblinks.live^
@@ -95161,6 +95244,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||deltoidretapetriazo.cfd^
 ||deltraff.com^
 ||deludepause.com^
+||deludertinkles.cfd^
 ||delugededicatedecipher.com^
 ||delugemuntjak.qpon^
 ||delugerefluxunpinned.com^
@@ -96025,7 +96109,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||dexchangeinc.com^
 ||dexer-handel.de^
 ||dexesangers.cfd^
-||dexfnd.site^
 ||dexian.site^
 ||dexinqa.com^
 ||dexinyi.cn^
@@ -96354,6 +96437,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||dhcmni6m2kkyw.cloudfront.net^
 ||dhcpserver.net^
 ||dhcqlbteygqeg.site^
+||dhctewhfruiut.website^
 ||dhdaa.duke.edu^
 ||dhddv.rarevinyl.com^
 ||dhdebdmvzljbk.site^
@@ -96476,6 +96560,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||diabetdoc.ru^
 ||diabetesickness.com^
 ||diacocamammey.cyou^
+||diadomudsi.cyou^
 ||diaetolin.com^
 ||diaetoxil.de^
 ||diag-wagen.de^
@@ -98001,6 +98086,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||djmtgnkdkxshd.site^
 ||djmzap.gamivo.com^
 ||djnaivalj34ub.cloudfront.net^
+||djname.info^
 ||djncmafidfcpm.online^
 ||djnezvbvenyrm.website^
 ||djnf6e5yyirys.cloudfront.net^
@@ -98040,6 +98126,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||djxyosopnferfdm.com^
 ||djyokoo.com^
 ||djz9es32qen64.cloudfront.net^
+||djzxoqkezic.com^
 ||dk-ad-lgsmartad-com.aws-prd.net^
 ||dk-fornysundhed.com^
 ||dk-go.experian.com^
@@ -98748,6 +98835,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||dobiez.com/statics/wap_v1/js/qwd.
 ||doblaidmen.com^
 ||doblazikena.com^
+||dobldiaene.qpon^
 ||doblonfedia.cyou^
 ||dobre-programy.pl^
 ||dobre-programy.xyz^
@@ -99709,6 +99797,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||dpuxtqqajzwam.store^
 ||dpuz3hexyabm1.cloudfront.net^
 ||dpvowksnrdhxv.site^
+||dpvrwzuftfajb.website^
 ||dpvztnqfkmlbs.store^
 ||dpw202501.com^
 ||dpw202504.com^
@@ -99745,6 +99834,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||dqjojx.xyz^
 ||dqjrxj.icu^
 ||dql2sdu63f1cw.cloudfront.net^
+||dqmgvcgaghhww.online^
 ||dqmop.com^
 ||dqnajb.icu^
 ||dqnsju.com^
@@ -99875,7 +99965,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||draussenfeet.de^
 ||draussenmenschen.de^
 ||drav.vn^
-||dravmon.click^
 ||dravoks.com^
 ||drawbrid.ge^
 ||drawbut.com^
@@ -99894,7 +99983,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||drawnlygordius.cyou^
 ||drawpacketlanguage.com^
 ||drawx.xyz^
-||draxmon.click^
 ||draxu.com^
 ||draythoraxherms.space^
 ||drbbzzs.xyz^
@@ -100271,6 +100359,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||drumcash.com^
 ||drumcovere.com^
 ||drumlikeag.com^
+||drummersdream.com.au^
 ||drummyangliae.cfd^
 ||drumpriorityreseptivereseptive.com^
 ||drumsitoldfashioned.com^
@@ -100455,6 +100544,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||dsfjcz.com^
 ||dsfkry.com^
 ||dsfksr.com^
+||dsfnvh.com^
 ||dsfondues.cyou^
 ||dsfsfp.com^
 ||dsftcd.com^
@@ -100561,6 +100651,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||dsnroi.com^
 ||dsnsjj.com^
 ||dsntah.com^
+||dsnucs.com^
 ||dsnurj.nissan-rentacar.com^
 ||dsnvs.com^
 ||dsnymrk0k4p3v.cloudfront.net^
@@ -100816,6 +100907,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||dt71.net^
 ||dta.apploye.com^
 ||dtabauto.de^
+||dtabcyojd.in^
 ||dtadnetwork.com^
 ||dtag.breadfinancial.com^
 ||dtakdb1z5gq7e.cloudfront.net^
@@ -100963,7 +101055,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||dualstack-collection.rong-edge.com^
 ||dualstack-logs.amap.com^
 ||dualstack.adbert-web-lbs-*.elb.amazonaws.com^
-||dualstack.analytics-alb-269776019.us-east-1.elb.amazonaws.com^
 ||dualstiff.com^
 ||dualsuns.com^
 ||dualtron-scooters.com^
@@ -101170,6 +101261,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||duonium.com^
 ||duosatshop.com.br^
 ||duospin-casino.fr^
+||duotonebusaos.qpon^
 ||duouoo.com/vss/right-ssd.js
 ||duouoo.com/vss/wz
 ||duovd.simmonsfirm.com^
@@ -101870,6 +101962,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||dzrs3yuexz.com^
 ||dzs55b7slwyx.cloudfront.net^
 ||dzsevh.voyage-prive.com^
+||dzsmttqoqvscf.site^
 ||dzszbb.homes.co.jp^
 ||dzt.germany.travel^
 ||dzt3uyxd69um2.cloudfront.net^
@@ -102137,6 +102230,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||e4577d6fef.com^
 ||e459.kcci.com^
 ||e468aaeee7.com^
+||e487fjemkl94zhnpxmq7yjumpl.rest^
 ||e488.macombdaily.com^
 ||e49.xyz^
 ||e49638124f.com^
@@ -104432,6 +104526,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||ekzsale.shop^
 ||ekzwoygfoevjf.online^
 ||ekzyqldtqnnth.online^
+||ekzzgfqnbqvar.website^
 ||el.quizlet.com^
 ||el.williamhillcasino.com^
 ||el2m3qr7v.com^
@@ -104735,6 +104830,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||eliteai-t.com^
 ||eliteappgrade.com^
 ||eliteautosalesia.com^
+||elitebabes.com/panel8vz3/
 ||elitebidder.com^
 ||eliteclng.ericksonbuilt.com^
 ||elitedentalplano.com^
@@ -105528,7 +105624,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||emamold.com^
 ||emamz.sunstrucktm.com^
 ||emanatelaxism.com^
-||emanjunot.com^
 ||emaratghajari.com^
 ||emarbox.com^
 ||emarketer.com^
@@ -106423,6 +106518,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||enread.com/img/185-50.gif
 ||enrfuklwccrp.com^
 ||enrgbroywf.xyz^
+||enrichbovate.cyou^
 ||enricher.stape.beer^
 ||enrichor.com^
 ||enrickerpo.life^
@@ -106846,6 +106942,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||epidermkerns.cfd^
 ||epidzasjhnzoi.site^
 ||epigealganosis.website^
+||epigoniincaspushily.qpon^
 ||epigontinny.shop^
 ||epigynylirate.cyou^
 ||epihyalkittle.cfd^
@@ -107000,9 +107097,11 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||eqmx04n5s0.ru^
 ||eqnvddxleryews.com^
 ||eqocincfsnhdx.online^
+||eqopjhwscxwvu.website^
 ||eqpaulxcpirir.site^
 ||eqpegetkd.com^
 ||eqpmzcorwgnda.store^
+||eqpqaosfx.com^
 ||eqpuvcjjipmjn.space^
 ||eqqi.cn^
 ||eqqp.cn^
@@ -107034,6 +107133,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||equatorspitefulbilliards.com^
 ||equatorstayslang.com^
 ||equi-shop.cz^
+||equibeyhhjmuv.com^
 ||equides.pro^
 ||equidistant19.com^
 ||equilibrios.ga^
@@ -107601,6 +107701,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||estore.biscoind.com^
 ||estrack.net^
 ||estrangeoverrated.com^
+||estransportundlogistik-gmbh.de^
 ||estrategen.de^
 ||estrepethralls.cfd^
 ||estrumarawak.qpon^
@@ -107717,6 +107818,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||etarg.ru^
 ||etargetnet.*.hu^
 ||etargetnet.com^
+||etasscoffstopers.cfd^
 ||etatistreown.qpon^
 ||etbbvbulyhyyo.space^
 ||etbgc71fv2p3lor6cz.cfd^
@@ -107839,6 +107941,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||etlanaberez.fun^
 ||etlcj.sempersolaris.com^
 ||etllvg.szallasguru.hu^
+||etmke315cfnqqoqwl.cfd^
 ||etndi.charleskeith.com^
 ||etneanlaos.cfd^
 ||etnet.com.hk/ad/
@@ -108015,6 +108118,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||eu.ekatox.com^
 ||eu.enchymabeflag.com^
 ||eu.gldn.io^
+||eu.goldengoosediscount.com^
 ||eu.groupondata.com^
 ||eu.ironmountain.com^
 ||eu.jutsrim.shop^
@@ -108188,6 +108292,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||euphoric-nature.com^
 ||euphoric-square.com^
 ||euphoricblow.com^
+||euphroeandrite.cfd^
 ||euphuescaamapaschal.cyou^
 ||eupills.com^
 ||euprod-knoxlog.secb2b.com^
@@ -108517,6 +108622,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||event.seatradecruiseevents.com^
 ||event.seatradecruiseglobal.com^
 ||event.shl.com^
+||event.shoplive.cloud^
 ||event.spektare.com^
 ||event.stat.wedobest.com.cn^
 ||event.syftdata.com^
@@ -109478,6 +109584,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||exoclick.com^$third-party
 ||exodermin.com^
 ||exodermin.eu^
+||exodiumriveter.com^
 ||exodosjaunty.cyou^
 ||exodus-wallets.io^
 ||exodus.com.ag^
@@ -110834,6 +110941,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||fancifuidates.net^
 ||fancyactivity.com^
 ||fancyapi.com^
+||fancybar.net/ac/fancybar.js?zoneid
 ||fancyclothing.de^
 ||fancycolorlist.net^
 ||fancydsp.com^
@@ -112484,6 +112592,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||fgxsmuyzcrshu.space^
 ||fgxuxjsfbhhnd.space^
 ||fgyhvzvoxlyvs.space^
+||fgzcklvmtptvv.space^
 ||fgzczmbjzeqfi.space^
 ||fgzjcspcnzrhf.store^
 ||fh-dxy.com^
@@ -112749,7 +112858,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||field-garnet-duckling.glitch.me^
 ||fieldconfig.com^
 ||fieldedtieback.cyou^
-||fieldscrisp.xyz^
 ||fieldtinypirate.com^
 ||fiendchewing.com^
 ||fiendlyoxhouse.cyou^
@@ -112879,6 +112987,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||fileparade.com^
 ||fileplanet.com^
 ||filepost.ru^
+||filepress.baby/js/fit.js
 ||filepress.cfd^
 ||filerquipus.qpon^
 ||files-downloads.com^
@@ -113336,7 +113445,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||finosso.com^
 ||finovesta-france.com^
 ||finpari.com^
-||finplex.site^
 ||finprofm.com^
 ||finrally.com^
 ||finreporter.net^
@@ -113351,6 +113459,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||finvest.care^
 ||finvestai.org^
 ||finvoire.com^
+||finvorium.net^
 ||fionamignon.com^
 ||fiordedreddled.shop^
 ||fiorelach.top^
@@ -113617,6 +113726,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||fitgirl-repacks.pk^
 ||fitgirl-repacks.proxyninja.org^
 ||fitgirl-repacks.to^
+||fitgirl-repacks.vip^
 ||fitgirl-repacks.website^
 ||fitgirlrepack.games^
 ||fitgirlrepacks.co^
@@ -113892,6 +114002,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||fkrwxzvxljbyh.website^
 ||fksngj.bonnyread.com.tw^
 ||fksnk.com^
+||fktbxxetdbrrj.website^
 ||fktds.uromend.com^
 ||fktdvpuptvcsv.com^
 ||fkuotemqjqirnv.com^
@@ -114586,6 +114697,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||flytteregister.no^
 ||flyturkmenistanairlines.eu^
 ||flywithexecutors.net^
+||flywortartize.qpon^
 ||flyxutjhemkgg.space^
 ||flyye.cn^
 ||flyzy2005.com/wp-content/*/bandwagonhost-top.
@@ -114994,6 +115106,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||foneeckeexee.com^
 ||fongumporg.net^
 ||foniuhuuwwnhm.tech^
+||fonkelkapithof.net^
 ||font.liquidus.net^
 ||fontancasino-online.de^
 ||fontdeterminer.com^
@@ -115592,6 +115705,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||foxcounter.com^
 ||foxdeportes.com/_astro/StickyVideo.*.js
 ||foxhandel.de^
+||foxhavenpro.com^
 ||foxheadquarter.com^
 ||foxiceberg.com^
 ||foxijcxwck.com^
@@ -115648,6 +115762,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||fp.mandatumlife.fi^
 ||fp.mandatumtrader.fi^
 ||fp.measure.office.com^
+||fp.mediaintelliview.com^
 ||fp.moosrubble.com^
 ||fp.nanrenwo.net^
 ||fp.nphub.com^
@@ -115907,6 +116022,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||fqquzqd.top^
 ||fqrghb.hotcircle.net^
 ||fqrpcd.com^
+||fqrukpjaahukp.com^
 ||fqtag.com^
 ||fqthetotf.com^
 ||fqtmnnxabkkud.space^
@@ -116051,7 +116167,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||franchising.pizzapizza.ca^
 ||franchising.toppers.ca^
 ||francisco.cc^
-||franckprovost.fr^
 ||franecki.net^
 ||franeski.net^
 ||frankcivic.com^
@@ -116084,6 +116199,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||frat-dws-matomo.mehrkanal.com^
 ||fraternityammoniabeaver.com^
 ||fraternityhoweverelapse.com^
+||fratryvitialracemed.cfd^
 ||fraud.adjoe.zone^
 ||fraudandcyberawareness.safeguard.hsbc.com^
 ||fraudbreakdown.com^
@@ -116100,6 +116216,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||frayedpause.com^
 ||frayedpizza.pro^
 ||frayingfilmize.cyou^
+||fraynchasty.cyou^
 ||fraynrills.cyou^
 ||fraysystems.com^
 ||fraytreasure.com^
@@ -116396,6 +116513,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||freeuseporn.com/player/videojsx.vast.
 ||freeuseporn.com/templates/frontend/fulltheme/js/combined.js
 ||freeusersonline.com^
+||freeuspsnabsbpost.top^
 ||freevbucks2022.online^
 ||freevbucksgenerator.online^
 ||freeviagranow.com^
@@ -116461,7 +116579,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||frenumsveined.cfd^
 ||frenzyfoodie.com^
 ||frenzyhateful.qpon^
-||freplix.click^
 ||freqmedicine.com^
 ||freqspait.cfd^
 ||frequencyads.com^
@@ -116621,6 +116738,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||friscofellowship.com^
 ||friscooutrant.cfd^
 ||friseurash.com^
+||friseurataraxy.cfd^
 ||frisketposses.cfd^
 ||friskydoweral.com^
 ||frisonschloss.cfd^
@@ -116858,6 +116976,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||fsdzafmzbdyan.store^
 ||fse.net.anwalt.de^
 ||fsegfy.lepoint.fr^
+||fseoxnxjrtytt.site^
 ||fserver.a1solarstore.com^
 ||fservr.com^
 ||fsfibjccvgkki.site^
@@ -117723,6 +117842,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||fxsupzozeialv.online^
 ||fxtchw.com^
 ||fxthjlhiybnyf.space^
+||fxthmytghvvrx.online^
 ||fxtqgkzezrgbx.website^
 ||fxtzlx.icu^
 ||fxucecy.in^
@@ -118063,6 +118183,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||g7htk7ls7.com^
 ||g8715710740.co^
 ||g8913795075.co^
+||g89eyc8a1.com^
 ||g8hi6r3odr.com^
 ||g8nqh7.com^
 ||g8nwdolod.com^
@@ -118351,7 +118472,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||gallupnet.fi^
 ||gallusbisley.com^
 ||gallys.scoreland.com^
-||galmov.click^
 ||galop.leferacheval-saintcloud.com^
 ||galopelikeantelope.com^
 ||galopscoynye.qpon^
@@ -118381,6 +118501,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||gamblingrootninety.com^
 ||gamblingsyndication.com^
 ||gambo-ad.com^
+||gambogecringedresh.cfd^
 ||gambol.link^
 ||gambystudios.com^
 ||gamcore.com/ajax/abc?
@@ -118522,6 +118643,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||gamesbannernet.com^
 ||gamescape.site^
 ||gamescdnfor.com^
+||gamescrack.org^
 ||gamesgeneralize.com^
 ||gameshopvn.com^
 ||gameshopvn.net^
@@ -118786,6 +118908,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||garn.garnspecialisten.dk^
 ||garn.garnspecialisten.se^
 ||garn.garnspesialisten.no^
+||garnetzexegete.cfd^
 ||garnierfructisusa.com^
 ||garnishdecoction.com^
 ||garonvizor.cyou^
@@ -119132,6 +119255,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||gazia.fr^
 ||gaziantepsauna.com^
 ||gaziemir-blog.com^
+||gazinvest.quest^
 ||gazkohjzcdbty.online^
 ||gazmoons.com^
 ||gb-ad-lgsmartad-com.aws-prd.net^
@@ -119700,6 +119824,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||generic4all-global.com^
 ||generic4allglobal.com^
 ||genericdianawitty.com^
+||genericdoctor.com^
 ||genericeupills.com^
 ||genericlink.com^
 ||genericsbot.com^
@@ -121254,6 +121379,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||girlfriendwisely.com^
 ||girlgamingempire.org^
 ||girlgaminghq.org/iframe/*?iframe&xapp=*&ag_custom_domain$third-party
+||girliepolyve.cyou^
 ||girlieturtle.com^
 ||girllsforyou.com^
 ||girlmattch.com^
@@ -121433,6 +121559,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||gjtrack.ucweb.com^
 ||gjttaamibpysxadlgatx.com^
 ||gjubvembrxsot.space^
+||gjuiepjg.com^
 ||gjusvoqmkddfahvoccst.com^
 ||gjusvoqmkddfahvoccsx.com^
 ||gjv7fg.ru^
@@ -122277,6 +122404,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||gntwuwuetfkzg.space^
 ||gnutplhbojrfe.site^
 ||gnuzwzdkplpqu.space^
+||gnvacuqpujoaq.online^
 ||gnvpzgnvkvnfn.website^
 ||gnxfrlfjfbvel.website^
 ||gnxrcmngxiak.com^
@@ -123985,7 +124113,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||goutong.baidu.com^
 ||goutspunctus.click^
 ||gouttemittenecderon.cfd^
-||gouwubang.com^
 ||gov-cn.website^
 ||gov-dyvc.shop^
 ||gov-hjn.help^
@@ -124073,6 +124200,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||gpiyhj.leopalace21.com^
 ||gpkbyhhxhpzod.space^
 ||gpkrolnkolc.com^
+||gpkumpfwaoetr.space^
 ||gplate.de^
 ||gplayer.kmpmedia.net^
 ||gplinks.in^
@@ -124802,12 +124930,10 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||groinenamel.com^
 ||groinfont.com^
 ||groleegni.net^
-||grolvex.click^
 ||gromoboyara.link^
 ||gromore.pangolin-sdk-toutiao.com.230b2a2545cfa773.queniuck.com^
 ||gromore.pangolin-sdk-toutiao.com.bytedns1.com^
 ||grompokerua33.com^
-||grondex.digital^
 ||grookilteepsou.net^
 ||groomifypetsstore.com^
 ||groomsepursegn.net^
@@ -125038,7 +125164,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||grumpydrawer.com^
 ||grumpyhopesucceeding.com^
 ||grumpysink.pro^
-||grundal.click^
 ||grundbuch-portal.at^
 ||grundbuch.zentraler-antragsservice.com^
 ||grundbuchauszug-plattform.de^
@@ -129842,6 +129967,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||gxbpiovpukbaq.website^
 ||gxbrh.com^
 ||gxbrowser.net^
+||gxbswzaseqjgz.space^
 ||gxcaxz.cresus.fr^
 ||gxcbqmwswtavu.website^
 ||gxcizcxyzjnpb.website^
@@ -129999,6 +130125,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||gysfelkqbm.com^
 ||gysn001.com^
 ||gyspsffbmfefx.space^
+||gysqsokhnysqp.space^
 ||gytfpn.thdamshoes.com^
 ||gytujflc.biz^
 ||gyunqnwvqvooi.online^
@@ -131200,6 +131327,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||hausgeek.com^
 ||hausgerat.com^
 ||hausgerateshop.com^
+||hausgeratewelt.com^
 ||haushalt-de.com^
 ||haushalt-jansen.net^
 ||haushalt-plan.com^
@@ -132300,6 +132428,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||hellporno.com/adman_ai/s/s/su.php
 ||hellporno.com^$subdocument,~third-party
 ||hellpostagepedigree.com^
+||helltailer.cyou^
 ||helltraffic.com^
 ||hellweg-bikes.de^
 ||hellyhansenargentina.net^
@@ -132753,6 +132882,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||hffxfbuartqzw.online^
 ||hfgno.happyhairbrush.com.au^
 ||hfgvzpatnjoti.website^
+||hfhj227m692nfyr5qlwg.rest^
 ||hfhmqcggyjcne.online^
 ||hfi.me^
 ||hfihifxagw.com^
@@ -132792,6 +132922,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||hftzrg.123pneus.be^
 ||hfucdcmuurafe.website^
 ||hfulicte.com^
+||hfusiuuqknbwy.site^
 ||hfvkn.dalstrong.com^
 ||hfvn6kcfykruk79p337e69h8pnrw.cfd^
 ||hfvura.noriel.ro^
@@ -133765,6 +133896,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||hkplzozwl.com^
 ||hkpride.net^
 ||hkpwrpfqmkllb.online^
+||hkq1b3v4wiwzo9zi77.cfd^
 ||hkqlh.tailgatefix.com^
 ||hkrevolt.com^
 ||hkrfgftejavrud.com^
@@ -134615,7 +134747,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||hoojts.demmelhuber.net^
 ||hook.gitv.pandora.xiaomi.com^
 ||hook.integromat.com^
-||hookahheroes.com^
 ||hookconference.com^
 ||hookducksboastful.com^
 ||hookerafrits.cfd^
@@ -134711,7 +134842,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||hoppylu.com^
 ||hopquafreefire2021.com^
 ||hopquavn.com^
-||hopsageforms.cyou^
 ||hopsysdhmstab.online^
 ||hoptopboy.com^
 ||hoqagfdlnizuh.online^
@@ -135087,6 +135217,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||hostingcloud.party^
 ||hostingcloud.racing^
 ||hostingcloud.science^
+||hostingcloud.xyz^
 ||hostingfatties.cyou^
 ||hostingfile.live^
 ||hostingfreelife.com^
@@ -135316,6 +135447,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||householdjeopardy.com^
 ||housejomadkc.com^
 ||houselar.com.br^
+||houselytouchspace.com^
 ||housemaiddevolution.com^
 ||housemoneymedia.com^
 ||houseofbuys.de^
@@ -135356,6 +135488,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||how2crypto.com^
 ||howboxmaa.site^
 ||howcircus.com^
+||howclpovwdpuc.site^
 ||howdahbange.cfd^
 ||howderyeuks.shop^
 ||howdoesin.net^
@@ -136064,6 +136197,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||huffson-delivery.com^$third-party
 ||huffson-derivery.com^
 ||hufhqultarufi.online^
+||huforiumiqtrade.com^
 ||hufskiwuho.com^
 ||hugazdazst.com^
 ||hugdancing.com^
@@ -136519,6 +136653,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||hwa.his.huawei.com^
 ||hwaeedeubzizd.space^
 ||hwbjer.jjunheating.com^
+||hwbsseqjpyfnd.space^
 ||hwbyspodhwjsf.online^
 ||hwcdn.net^*.mp4|$domain=pornchimp.com
 ||hwcias.medpets.be^
@@ -136606,6 +136741,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||hxjhfqrolubqs.space^
 ||hxjrxfwgbwlvk.online^
 ||hxjs.tool.hexun.com$domain=~quote.hexun.com
+||hxjwiwl6j6hc8yb.cfd^
 ||hxk8yvpuyzcv56fm6llwtmuyzc2wh9.cfd^
 ||hxmanga.com^
 ||hxmcaugiqijkz.store^
@@ -137488,6 +137624,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||ichulleroutes.cyou^
 ||ichwteqdufxed.website^
 ||iciakrqnrmwrl.online^
+||iciapyduboymc.space^
 ||iciba.com/www/img/activity/common/active-11-11.js
 ||iciclle.com^
 ||icilfj.com^
@@ -137825,6 +137962,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||idylsrebank.com^
 ||idynbff.cn^
 ||idysuk.com^
+||idyyfyfjwydte.space^
 ||idyzvclzesbnu.website^
 ||idzdsbanio.com^
 ||idzqgefpisizq.website^
@@ -138374,6 +138512,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||ijarwjciakkmj.space^
 ||ijbpo.hustlerhollywood.com^
 ||ijcvxwzkdfswr.website^
+||ijdapeblkrjiq.website^
 ||ijdbmjqwzrcdw.website^
 ||ijdfchxgvhxvf.com^
 ||ijdfh.meetlalo.com^
@@ -138542,6 +138681,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||ilce.alicdn.com^
 ||ilcrl.franklin-leatherworks.com^
 ||ilcstuywgiayu.com^
+||ildcsncf.shop^
 ||ildopxge.com^
 ||ildr3vij.xyz^
 ||ildrenastheycam.org^
@@ -140081,6 +140221,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||imr5d.com^
 ||imran.techmentorbd.com^
 ||imrhyzgb.revelo.bg^
+||imri-jewelry.co.il^
 ||imrk.net^
 ||imrtrack.com^
 ||imrworldwide.com^
@@ -140175,6 +140316,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||in24.at^
 ||in2date.com^
 ||in3x.net^
+||inablemoas.shop^
 ||inabsolor.com^
 ||inaccessibledipperforemost.com^
 ||inaccuratedictionary.com^
@@ -140314,7 +140456,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||increasinglyhermit.com^
 ||increasinglyirritationecstatic.com^
 ||increasinglypatientstared.com^
-||incredibbble.com^
 ||incredibledate.net^
 ||incrediblemeanwhile.com^
 ||incs-xa.online^
@@ -143092,6 +143233,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||inwardupsettingcudgel.com^
 ||inweedapili.cyou^
 ||inwhcaanqt.com^
+||inwithpulingdeia.cyou^
 ||inwmizqchqjlk.space^
 ||inwrapswint.shop^
 ||inwucno.top^
@@ -143187,6 +143329,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||ionuiphcmzfhy.online^
 ||ionvictoriesin.cfd^
 ||ioo2ypx31xfwnck285w5n8.cfd^
+||ioobtchinryox.online^
 ||iooecb.bergzeit.de^
 ||ioovmg.flexicar.es^
 ||ioovrf.coen.co.jp^
@@ -143452,6 +143595,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||ipwfxgwjrlrfa.site^
 ||ipwwaxosr.com^
 ||ipwyyaiewuzfq.online^
+||ipxnpfcrokzfy.site^
 ||ipybks.icu^
 ||ipyjxs.chowsangsang.com^
 ||ipyolmutfxlsv.website^
@@ -143460,7 +143604,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||iq-metric.com^
 ||iq-minute.com^
 ||iq-online-test.com^
-||iq-research.info^
 ||iq.afterpay.com^
 ||iq.gizzwirings.rest^
 ||iq.hacksawanconal.shop^
@@ -143645,6 +143788,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||iridialachkan.com^
 ||iridium.services^
 ||iridologykamera.com^
+||iridousmutive.cfd^
 ||irie3.net^
 ||irina-liebmann.de^
 ||irinaparaschiv.com^
@@ -143664,6 +143808,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||irkdijxfcxgwg.site^
 ||irkingpepseucone.qpon^
 ||irkkwe.mojeelektro.cz^
+||irknpnfdnonck.website^
 ||irkqs.mypure.co.uk^
 ||irksomegrateindustrious.com^
 ||irksomereplica.com^
@@ -144612,6 +144757,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||iyisayfa.net^
 ||iyisxchvajdxu.website^
 ||iyjfideltmcwl.online^
+||iyjnlvwxkmipw.online^
 ||iyjpqf.speaking-agency.com^
 ||iyjrnxbuxaici.store^
 ||iyjuhyvsixkkx.online^
@@ -144624,6 +144770,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||iymvmpyfsqnui.site^
 ||iynzotcghpkur.space^
 ||iyogo.shop^
+||iyoichdqacalu.website^
 ||iyotnw.mameluko.com.br^
 ||iypoppfameftg.space^
 ||iypxxhjdiwggg.website^
@@ -144638,7 +144785,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||iyuedu.cn.com^
 ||iyvlwbhwfe.com^
 ||iyvzqt.agabangmall.com^
-||iyww.cn^
 ||iyxdm.*/js/gad_
 ||iyxdm.one/js/bottom_dk.js
 ||iyxkoshoagpfc.website^
@@ -144660,6 +144806,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||izccryctmxtwb.website^
 ||izcfq.haverhill.com^
 ||izcftgjuemufo.site^
+||izchmydrokftv.site^
 ||izcjyeehxaesm.online^
 ||izcle.com^
 ||izdonegkaboga.website^
@@ -144670,6 +144817,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||izeeto.com^
 ||izegag.shop24direct.de^
 ||izerokoi.jp^
+||izfmabddupcbd.space^
 ||izfogaydloceo.site^
 ||izgfa.visitorpixel.com^
 ||izgk.top^
@@ -145003,6 +145151,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||jampredestination.com^
 ||jamsalon.com^
 ||jamshidectypalduper.cfd^
+||jamxwvtbcgivl.website^
 ||jana1.jeoway.net^
 ||janapi.jd.com^
 ||janasarokarpost.com^
@@ -145092,6 +145241,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||jashz.crateandbarrel.com^
 ||jasiespremie.cfd^
 ||jasjas.xyz^
+||jask.powerforxes.shop^
 ||jaskhuczzexoh.site^
 ||jaskolski.biz^
 ||jasmin-cams-live.com^
@@ -145295,6 +145445,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||jbdbxwwuxhwfa.online^
 ||jbddm.broadwayintucson.com^
 ||jbdijlqfuxlnlbn.com^
+||jbdwcucmcuowz.website^
 ||jbejv.katieloxton.com^
 ||jbezdi.ilsole24ore.com^
 ||jbgimaqnklxyfpj.com^
@@ -145671,6 +145822,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||jdsportsoutlet.de^
 ||jdssykdlwygwj.site^
 ||jdt8.net^
+||jdtulgfgexwyw.site^
 ||jduvha.lamartina.com^
 ||jdvncnlwf.net^
 ||jdvnpqubqzzae.site^
@@ -146112,6 +146264,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||jhmc168.com^
 ||jhmkopen.minortom.net^
 ||jhncmokruwmhd.website^
+||jhnlbryuueowg.online^
 ||jhnmpm.kiwoko.com^
 ||jhnvsxmcitxye.site^
 ||jhnwr.com^
@@ -146390,6 +146543,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||jitsu.ixbt.site^
 ||jitsu.www1.ru^
 ||jitterendeavour.com^
+||jittersmenic.shop^
 ||jitterspauperusher.com^
 ||jitterycoffee.pro^
 ||jitterystation.com^
@@ -146779,6 +146933,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||jnoknz.bradfordexchange.ca^
 ||jnp0kmm.icu^
 ||jnqbkpsymoads.site^
+||jnqegoqe.com^
 ||jnqus.essentialelementsnutrition.com^
 ||jnqv.top^
 ||jnros.fresh.com^
@@ -147087,6 +147242,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||jolhghbdjayis.website^
 ||jolifm.com^
 ||jollilybrannywaragi.cyou^
+||jollopindult.cyou^
 ||jolly.treasure-pleasure.com^
 ||jollydeductsummon.com^
 ||jollylol.com^
@@ -147296,6 +147452,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||joyouspool.com^
 ||joyoussurprise.com^
 ||joypopsbrooky.cfd^
+||joyreels-ad-api.supnovel.com^
 ||joyridewhump.qpon^
 ||joyshoetique.com^
 ||joysporn.com/js/pj.js
@@ -147379,6 +147536,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||jpoaih.theyufit.co.kr^
 ||jpojrkwzofpxn.space^
 ||jponmlkj.carte-gr.total.fr^
+||jpopsingles.eu/ddl/dl-get.png
 ||jpoqotqyjhqqz.space^
 ||jppeqz.ishin.jp^
 ||jppol.coronadoleather.com^
@@ -148357,6 +148515,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||juxia.com/jxtp/indexbg.jpg
 ||juxnalovgqit.in^
 ||juxpdnekqdmka.space^
+||juyhtjlyehgcl.website^
 ||juymjvrjpbdpg.site^
 ||juywkhbpmswmq.website^
 ||juzaugleed.com^
@@ -148474,6 +148633,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||jwsknennvlfqdde.com^
 ||jwsltekcmzhkj.store^
 ||jwt18trhq.com^
+||jwtnkxjxyphes.site^
 ||jwtnmo.promovacances.com^
 ||jwuawrabqsre.com^
 ||jwube4zf2ffv6o4j.cfd^
@@ -148488,6 +148648,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||jwxlupfcsmlkb.online^
 ||jwxqmj.thediamondstore.co.uk^
 ||jwycckadkimti.online^
+||jwyheqavvgolm.website^
 ||jwylcrb.cn^
 ||jwyvtewajahc.in^
 ||jwz.3conline.com^
@@ -148991,6 +149152,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||kahjmiaz.com^
 ||kahmannskaffee.de^
 ||kahrmannsown.de^
+||kahrucmzafqan.online^
 ||kai-safari.net^
 ||kaidee.info^
 ||kaidop.com^
@@ -149092,6 +149254,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||kamagra-premium.net^
 ||kamagra-pro.com^
 ||kamagra-pro.net^
+||kamagra-pro.online^
 ||kamagra-prodej-online.eu^
 ||kamagra-prodej.cz^
 ||kamagra-prodej.online^
@@ -149595,6 +149758,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||kbox-analytics-backup.s3.amazonaws.com^
 ||kbox-analytics-prod.s*.amazonaws.com^
 ||kbox-analytics-prod.s3-accelerate.amazonaws.com^
+||kbox-analytics-prod.s3.amazonaws.com^
 ||kbpdm.manscaped.com^
 ||kbpdm.manscaped.io^
 ||kbpljd.aydin.edu.tr^
@@ -149736,6 +149900,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||kdisbgxtxiyru.online^
 ||kdiwpsdrk.com^
 ||kdjjkg.rajapack.pl^
+||kdjoidndjhzaf.site^
 ||kdkgorjbvlxjrnv.com^
 ||kdkhip.bookoffonline.co.jp^
 ||kdkpsqklemvnu.site^
@@ -149797,6 +149962,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||ke.hl.cn^
 ||ke.minterhazes.com^
 ||ke12310.com^
+||keaantirun.cyou^
 ||keafyy.onlinecomponents.com^
 ||keajs.com^
 ||keatumist.qpon^
@@ -149925,7 +150091,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||kekrouwi.xyz^
 ||kektds.com^
 ||kelansu.com^
-||kelascinta.com^
 ||kelatv.com/ad/
 ||kelder.nl^
 ||kelehut.cc/js/m.
@@ -150150,11 +150315,13 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||kfap.xyz^
 ||kfazkior.com^
 ||kfbjqsqbvnmrj.site^
+||kfbmswmmo.com^
 ||kfc.com.cn^$domain=iqiyi.com
 ||kfcu.fmservice.com^
 ||kfdduc.superstari.co.kr^
 ||kfdg22.com^
 ||kfdg55.com^
+||kfdjjedtasohc.website^
 ||kfe0mn.ru^
 ||kfeel.modaoperandi.com^
 ||kfeiovrksdezl.online^
@@ -150270,7 +150437,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||kgnejmrvvveri.website^
 ||kgnpkgqelpr.net^
 ||kgo.stske.net^
-||kgoakhpnm.xyz^
 ||kgodwm.want2datee.com^
 ||kgoj4nrhe.com^
 ||kgorilla.net^
@@ -150319,6 +150485,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||khajurzeolitevicary.cfd^
 ||khakiroute.cyou^
 ||khalalnixes.cyou^
+||khalatisort.cyou^
 ||khaledayesh.org^
 ||khaleejtimes.online^
 ||khamalbesaint.cyou^
@@ -150760,7 +150927,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||kippb.opticsplanet.com^
 ||kippingfissura.shop^
 ||kippomovie.com^
-||kippsmart.com^
 ||kipvptyusewoq.space^
 ||kipyn.com^
 ||kiqglpbntlqbu.online^
@@ -150958,6 +151124,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||kjmaoi.babor.com^
 ||kjmrldarxadmw.online^
 ||kjolirgon.com^
+||kjoplybvqyrsw.space^
 ||kjosddyimi.com^
 ||kjpfxbojgminv.site^
 ||kjpiug.whatgoesaroundnyc.com^
@@ -151172,7 +151339,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||klik4.me^
 ||klik66.co^
 ||klikajadeh.com^
-||klikanggaran.com^
 ||klikasz-i-masz.com^
 ||klikbonus.com^
 ||klikivabrik.ee^
@@ -151270,6 +151436,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||klwwxepxnqnhr.website^
 ||klxfmolddnlpl.website^
 ||klxlhanifrrzx.site^
+||klyaryibsa.com^
 ||klynu.com^
 ||klytheron.com^
 ||klzj.com.cn^
@@ -151876,6 +152043,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||koryakyjpoprw.space^
 ||korzectussors.cyou^
 ||kos.interseek.si^
+||kosalansidder.cfd^
 ||kosanahtapwhm.site^
 ||kosatec.fr^
 ||kosecikva.com^
@@ -152163,7 +152331,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||kreomfoq.com^
 ||kreps.xyz^
 ||krevn0cq4.com^
-||krevolt.click^
 ||krexihkpfgpid.website^
 ||krf-mbh.com^
 ||krfaqjqbaeosf.online^
@@ -152320,6 +152487,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||kshfrhfemx.com^
 ||kshop2.biz^
 ||kshop3.biz^
+||kshqjzgysdqyz.website^
 ||kshtn.red-equipment.com.au^
 ||kshuiz.top^
 ||ksi2trk.com^
@@ -152371,6 +152539,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||ksvjmvrjjo.com^
 ||ksvnwdhtvndeq.site^
 ||kswaskvtvqae.net^
+||ksxdvyyzyswvs.website^
 ||ksxteldtlbtss.website^
 ||kszc.j1evtmx.xyz^
 ||kszpsc.waschbaer.ch^
@@ -152922,6 +153091,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||kxfimwhpd.com^
 ||kxfnuquwjicjt.site^
 ||kxfvdkxarxejz.space^
+||kxfvjpivboxjv.com^
 ||kxg49cluu2t3g7.rest^
 ||kxgteafuhnpoz.online^
 ||kxiobdzb.com^
@@ -153598,6 +153768,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||lagioiaitalia.com^
 ||laglyage.com^
 ||lago-trading.com^
+||lagoonscandaisy.qpon^
 ||lagou.com/js/cooperation/
 ||lagranderecr.fr^
 ||lahar.com.br^
@@ -154562,6 +154733,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||lctaidhfetp.com^
 ||lctfgw.evernew.ca^
 ||lctnodl.top^
+||lctpvmaxz.icu^
 ||lctzboehifdrr.space^
 ||lcuaerlknisgy.space^
 ||lcubwmhoowyqv.site^
@@ -155373,6 +155545,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||lericettedifrancy74.com^
 ||lerline.com^
 ||lern.jobfinderportal.de^
+||lernenalltagsaiten.com^
 ||lernerei.at^
 ||lernkompass24.de^
 ||lernodydenknow.info^
@@ -156483,6 +156656,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||linderhoff.com^
 ||lindmayas.qpon^
 ||lindner-sonnenschutz.de^
+||lindnerve.shop^
 ||lindychat.com^
 ||lindywel.com^
 ||line-channel-info.com^
@@ -156574,6 +156748,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||link-ccontact.focuscura.com^
 ||link-chrome.com^
 ||link-crawler.com^
+||link-dana-kagett.rilx.me^
 ||link-debug.killi.io^
 ||link-dev.fandompay.com^
 ||link-dev.gem.co^
@@ -157520,7 +157695,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||links.younify.tv^
 ||links.younow.com^
 ||links.yummly.com^
-||links1.nar.realtor^
 ||links2.chownowmail.com^
 ||links2.fluent-forever.com^
 ||links2.pillar.app^
@@ -157533,6 +157707,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||linkshe.com^
 ||linkslot.ru^
 ||linkslot.ru^$third-party
+||linksnavi.com^
 ||linksoutside.com^
 ||linkspine.insights.md^
 ||linkspinedev.insights.md^
@@ -158005,10 +158180,12 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||livestockabdicate.com^
 ||livestt.co^
 ||livesurf.ru^
+||livetech.shopee.co.id.c.byteplusfcdn-oversea.com^
 ||livetech.shopee.co.id.cdn20.com^
 ||livetech.shopee.co.id.txlivecdn.com^
 ||livetech.shopee.co.id^
 ||livetech.shopee.co.th^
+||livetech.shopee.com.br.c.byteplusfcdn-oversea.com^
 ||livetech.shopee.com.br.cdn20.com^
 ||livetech.shopee.com.br.tlivecdn.com^
 ||livetech.shopee.com.br.txlivecdn.com^
@@ -158303,8 +158480,10 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||llet787bww.com^
 ||lletsvpn.hl.cn^
 ||lleusudoral.shop^
+||llezkzqtiovyb.website^
 ||llfflvfhor.com^
 ||llfmhykgqdue.com^
+||llfmxhzzfizze.website^
 ||llfpaondsunun.site^
 ||llfvusbsdffxr.website^
 ||llfyjvskyxnsv.site^
@@ -163339,7 +163518,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||lockview.cn^
 ||lockvisitingdisprove.com^
 ||loclne.24shop.by^
-||loclog.cn^
 ||locmomo.com^
 ||locmyparcel.com^
 ||locnbrochanvenerer.cfd^
@@ -163441,6 +163619,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||log-*.zadn.vn^
 ||log-01c54544.bee-flame.com^
 ||log-185a61e7.bendigobank.com.au^
+||log-2ffe60ee.stgeorge.com.au^
 ||log-2ffe60ee.westpac.com.au^
 ||log-abroad-ups.submitdata.top^
 ||log-ads.r7.com^
@@ -163610,6 +163789,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||log.cleanerwish.live^
 ||log.cleansweepplu.com^
 ||log.clearcleanerpro.live^
+||log.clearwatersecurity.com^
 ||log.cloud.sbs.co.kr^
 ||log.cmbchina.com^
 ||log.codemarketing.cloud^
@@ -163934,6 +164114,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||log19-normal-alisg.tiktokv.com^
 ||log19-normal-useast1a.tiktokv.com^
 ||log19-normal-useast2a.tiktokv.com^
+||log19-normal-useast8.tiktokv.us^
 ||log19-normal.tiktokv.com^
 ||log2.51changdu.com^
 ||log2.abyok.com^
@@ -164097,7 +164278,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||logger.zenmatchgame.com^
 ||logger007.cam4.com^
 ||logger2.playablefactory.app^
-||logger2.sorenson.com^
 ||loggiawelt.com^
 ||loggiazamousecarve.cfd^
 ||logging-api.markitdigital.com^
@@ -164727,6 +164907,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||lorybnfh.com^
 ||lorymo.online^
 ||los.2hisnd.com^
+||losangeles-ads.com^
 ||losangelesangels.net^
 ||losangelescriminalattorneys.com^
 ||losangelesfamilylawlawyer.com^
@@ -165983,7 +166164,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||lumtjt.plumbingonline.ca^
 ||lumujmndxyyzm.website^
 ||lumupu.xyz^
-||lumyrixscalarai-gpt.org^
 ||luna-aggregated-metrics-prod.s3.amazonaws.com^
 ||luna-boutique-berlin.com^
 ||luna-ria.jp^
@@ -166485,6 +166665,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||lyfrsrimetmxa.online^
 ||lyftcapitalfloridahq.com^
 ||lygjgzc.com^
+||lygjhacpakiiw.space^
 ||lygwsxh.com^
 ||lyhsallccctlwah.com^
 ||lyhuuplvlsuii.site^
@@ -167646,6 +167827,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||mailboxleadsphone.com^
 ||mailcoupletime.net^
 ||mailderef.mail.com^
+||maile-ad.linkedin.com^
 ||mailedbardism.shop^
 ||mailer.bennubunnies.com^
 ||mailer.carte-gr.total.fr^
@@ -167796,6 +167978,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||makafdsugxco.com^
 ||makaidong.com/img/
 ||makanigermanyshop.shop^
+||makaraelfkindaiva.cfd^
 ||makarireimply.qpon^
 ||makbti.bandofboats.com^
 ||make-money.shengen.ru^
@@ -168107,6 +168290,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||manlyhost.com^
 ||mannasgeraticdilli.cfd^
 ||mannaton.com^
+||mannedrundles.shop^
 ||mannerapotheke24.com^
 ||mannersportalchart.com^
 ||mannheimmodehaus.com^
@@ -168233,6 +168417,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||mapsgalaxy.com^
 ||mapslob.com^
 ||mapsmnx.cyou^
+||mapssufeism.com^
 ||mapupdatezone.com^
 ||mapwisemulder.qpon^
 ||mapxdidwwp.com^
@@ -168326,7 +168511,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||margueritenice.com^
 ||mariaeva-wien.at^
 ||mariage-inc.com^
-||mariahcarey.cn^
 ||marialina-juwelen.de^
 ||mariandmaison.com^
 ||marianneperiod.com^
@@ -170604,6 +170788,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||mathtag.com^
 ||mathtype.cn^
 ||maticooads.com^
+||matiesyacare.cyou^
 ||matildawu.online^
 ||matimati.site^
 ||mationwind.com^
@@ -170838,6 +171023,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||matomo.analytics.standpunkt-hosting.de^
 ||matomo.analytics.svc.wolf.eu^
 ||matomo.ancient-origins.net^
+||matomo.andersundseim.net^
 ||matomo.andersweb.de^
 ||matomo.andgosystems.dev^
 ||matomo.android-digital.de^
@@ -170848,7 +171034,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||matomo.ansbach.de^
 ||matomo.antee.cz^
 ||matomo.antidots.net^
-||matomo.anywhere.gooddata.com^
 ||matomo.apartamentmielenko.pl^
 ||matomo.apartamenty-zielonagorka.pl^
 ||matomo.apc.org^
@@ -171156,6 +171341,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||matomo.ceci-bielefeld.de^
 ||matomo.cect.org^
 ||matomo.ceecee.cc^
+||matomo.celax.asia^
 ||matomo.cenosco.com^
 ||matomo.censorship.guide^
 ||matomo.centroapiservizi.it^
@@ -171297,6 +171483,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||matomo.datack.fr^
 ||matomo.datafactory.la^
 ||matomo.datago.ru^
+||matomo.datan.fr^
 ||matomo.datasanalytics.com^
 ||matomo.datazone.de^
 ||matomo.datenkollektiv.net^
@@ -171377,6 +171564,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||matomo.die-kartoffel.de^
 ||matomo.die-region.de^
 ||matomo.die-zukunft-steuern.nrw^
+||matomo.diemarketingfee.at^
 ||matomo.digidemlab.org^
 ||matomo.digifinland.fi^
 ||matomo.diginauten.tools^
@@ -171864,6 +172052,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||matomo.harfington.com^
 ||matomo.harz-history.de^
 ||matomo.hashtag-plus.agency^
+||matomo.hausder1000uhren.de^
 ||matomo.haushirsch.de^
 ||matomo.havehalalwilltravel.com^
 ||matomo.havochvatten.se^
@@ -171998,6 +172187,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||matomo.imagetools.com^
 ||matomo.imagile.fr^
 ||matomo.imascono.com^
+||matomo.imbus.de^
 ||matomo.img.webvariants.de^
 ||matomo.implaneum.clinic^
 ||matomo.implantate.com^
@@ -172339,6 +172529,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||matomo.luthermuseen.de^
 ||matomo.lv1871.de^
 ||matomo.lwk-niedersachsen.de^
+||matomo.lwk.siwa.cloud^
 ||matomo.lyoncapitale.fr^
 ||matomo.lz.de^
 ||matomo.m-r-n.com^
@@ -172373,6 +172564,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||matomo.markusbopp.com^
 ||matomo.marmara.at^
 ||matomo.marmosetbrain.org^
+||matomo.martini-klinik.de^
 ||matomo.massiveart.cloud^
 ||matomo.master-mineral.org^
 ||matomo.matbra.com^
@@ -172410,6 +172602,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||matomo.medsolut.com^
 ||matomo.megalis.bretagne.bzh^
 ||matomo.mehr-demokratie.de^
+||matomo.mehr-internet24.de^
 ||matomo.mein-bobs.de^
 ||matomo.mein-coburg.de^
 ||matomo.mein-medcampus.de^
@@ -172448,6 +172641,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||matomo.mimann.net^
 ||matomo.min-agentur.de^
 ||matomo.min-saude.pt^
+||matomo.minap.hu^
 ||matomo.mindbaz.org^
 ||matomo.mindbite.cloud^
 ||matomo.mineralogisches-museum.uni-bonn.de^
@@ -172545,6 +172739,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||matomo.nebelung.de^
 ||matomo.nees.de^
 ||matomo.nessy.app^
+||matomo.nessyshop.pl^
 ||matomo.net-box.ir^
 ||matomo.net-studio.fr^
 ||matomo.netcom-bw.de^
@@ -172817,6 +173012,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||matomo.prod.hansefit.de^
 ||matomo.prod.portal.ams.at^
 ||matomo.prod.swift.cloud.intracto.com^
+||matomo.prod.swift.hosted-temp.com^
 ||matomo.production.ads1.itpartner.no^
 ||matomo.profiweb.de^
 ||matomo.progroup.ag^
@@ -172893,7 +173089,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||matomo.rauwolf-coffee.at^
 ||matomo.ravensburger.com^
 ||matomo.rayher.com^
-||matomo.rd.net^
 ||matomo.rdtalents.eu^
 ||matomo.re.photos^
 ||matomo.realeyes.de^
@@ -172971,6 +173166,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||matomo.rtvslo.si^
 ||matomo.rub.de^
 ||matomo.rubemlrm.com^
+||matomo.rubicon-koeln.de^
 ||matomo.ruedesecoles.com^
 ||matomo.ruegenwalder.de^
 ||matomo.ruffmarketing.de^
@@ -173384,6 +173580,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||matomo.triesdorf.de^
 ||matomo.triii.org^
 ||matomo.trilist.eu^
+||matomo.trimet.eu^
 ||matomo.trinicum.com^
 ||matomo.triple-ds.de^
 ||matomo.tripleperformance.fr^
@@ -173439,6 +173636,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||matomo.unicaf.org^
 ||matomo.unicas.it^
 ||matomo.uniki.de^
+||matomo.uniklinikffm.de^
 ||matomo.union-habitat.org^
 ||matomo.uniplus-software.de^
 ||matomo.unique-personal.de^
@@ -173477,6 +173675,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||matomo.vanalp.pl^
 ||matomo.vanlaack.com^
 ||matomo.vantruckmedia.de^
+||matomo.vapingpost.com^
 ||matomo.varldskulturmuseerna.se^
 ||matomo.vasyd.se^
 ||matomo.vav.at^
@@ -173760,7 +173959,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||matomy.com^
 ||matreedfelahin.qpon^
 ||matri.eu^
-||matrics.ro^
 ||matriell.dm-storage.no^
 ||matrimoniale3x.ro^
 ||matrimonyfeudboss.com^
@@ -173890,6 +174088,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||mavyella.com^
 ||mawanvfwe.in^
 ||mawean.espoo.fi^
+||mawedmufflesceboid.cfd^
 ||mawhyzaxo.com^
 ||mawkybalontilsit.cyou^
 ||mawlaybob.com^
@@ -174113,6 +174312,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||mbg06261pg.com^
 ||mbg06270pg.com^
 ||mbg06271pg.com^
+||mbgrgkhawfpyo.website^
 ||mbi3.kuicr.kyoto-u.ac.jp^
 ||mbibf.healthbeauty-trends.com^
 ||mbid.marfeelrev.com^
@@ -176191,6 +176391,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||metircs.ka-ex.ch^
 ||metis.truecaller.com^
 ||metis.voysaude.com.br^
+||metisleacher.cyou^
 ||metok.sys.miui.com^
 ||metolautomatvinery.cyou^
 ||metoliussale.com^
@@ -176714,6 +176915,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||metrics.apet.org.br^
 ||metrics.api.nasuni.com^
 ||metrics.api.yle.fi^
+||metrics.api4pw.com^
 ||metrics.apna.co^
 ||metrics.apoteket.se^
 ||metrics.apotekhjartat.se^
@@ -177944,6 +178146,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||metrics.kickfin.com^
 ||metrics.kid.no^
 ||metrics.kidney.org^
+||metrics.kidsaround.com^
 ||metrics.kidsnews.com.au^
 ||metrics.kidspot.com.au^
 ||metrics.kimberly-clark.com^
@@ -178057,6 +178260,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||metrics.lu.ke^
 ||metrics.lucentis.com^
 ||metrics.lucrin.de^
+||metrics.lucrin.fr^
 ||metrics.lucrin.ie^
 ||metrics.lululemon.ch^
 ||metrics.lululemon.cn^
@@ -178167,6 +178371,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||metrics.mhn.com^
 ||metrics.mhngs.com^
 ||metrics.mibcookies.rbs.com^
+||metrics.microbit.org^
 ||metrics.microlease.dk^
 ||metrics.micromania.fr^
 ||metrics.midatlantic.aaa.com^
@@ -178406,6 +178611,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||metrics.optimum.net^
 ||metrics.optum.com^
 ||metrics.opuscamper.com.au^
+||metrics.orchestra.ma^
 ||metrics.oreck.com^
 ||metrics.oregonlive.com^
 ||metrics.oreilly.com^
@@ -178522,6 +178728,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||metrics.prenew.com^
 ||metrics.priceless.com^
 ||metrics.priceline.com.au^
+||metrics.pricewise.nl^
 ||metrics.primeo-energie.fr^
 ||metrics.princess.com^
 ||metrics.priorist.com^
@@ -178641,6 +178848,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||metrics.renfe.com^
 ||metrics.rent.com^
 ||metrics.reseguiden.se^
+||metrics.residentevil.movie^
 ||metrics.resound.com^
 ||metrics.restaurant-hospitality.com^
 ||metrics.restaurantonline.co.uk^
@@ -179160,6 +179368,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||metrics.v3.blast-info.fr^
 ||metrics.vaccindirekt.se^
 ||metrics.vademecum.es^
+||metrics.vaihtokaara.fi^
 ||metrics.vaihtokapula.fi^
 ||metrics.valbiotis.com^
 ||metrics.valco.fi^
@@ -179329,7 +179538,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||metrics.winparts.nl^
 ||metrics.winsc.natwest.com^
 ||metrics.winsc.rbs.co.uk^
-||metrics.wish.org^
 ||metrics.wm.com^
 ||metrics.wmflabs.org^
 ||metrics.wmg.com^
@@ -179410,7 +179618,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||metrics1.citicards.com^
 ||metrics1.data.dbankcloud.cn^
 ||metrics1.experian.com^
-||metrics1.nuts.com^
 ||metrics1.thankyou.com^
 ||metrics2.boomy.com^
 ||metrics2.houselogic.com^
@@ -180397,6 +180604,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||miningrid.com^
 ||miningshun.com^
 ||mininomade.de^
+||miniorad.de^
 ||minireklam.com^
 ||minishop.in^
 ||minisite.letv.com^
@@ -181273,6 +181481,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||mmihucdry.in^
 ||mmile.com^
 ||mmimb.itzyritzy.com^
+||mmirvipxdumpx.online^
 ||mmismm.com^
 ||mmitalianbeef.square.site^
 ||mmjpvdrhgjfyj.space^
@@ -181459,6 +181668,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||mnusq.vmax-escooter.us^
 ||mnutan.fr^
 ||mnvjbzrbxpvxe.online^
+||mnvxdgtgqejjc.online^
 ||mnwce.killerbodyfood.com^
 ||mnwgdkdarquqt.site^
 ||mnwljk.ibagy.com.br^
@@ -181820,6 +182030,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||mocoaundark.shop^
 ||mocoendball.top^
 ||mocqmhwjcouzb.space^
+||mocuntrain.cfd^
 ||mocuvmnjp1p83l2g9lgvu1qcghg3ibrg.cfd^
 ||mocvienhomestay.com^
 ||mod.leftnewsex.com^
@@ -182127,6 +182338,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||moleculebeams.com^
 ||moleculeordered.com^
 ||molenaarwonen.com^
+||molermaracan.cfd^
 ||molesi.info^
 ||moleya.click^
 ||molgeminow.shop^
@@ -182240,6 +182452,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||momoski.me^
 ||momosky.me^
 ||momosky.top^
+||momostudioberlin.com^
 ||momosushivancouver.com^
 ||momotaro.craigmod.com^
 ||momotaro.walkkumano.com^
@@ -182793,6 +183006,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||morenews4.net^
 ||morenorubio.com^
 ||morenutritionde.shop^
+||morenutritionfeen.shop^
 ||morestamping.com^
 ||moreusers.info^
 ||moreviabeauty.com^
@@ -182856,6 +183070,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||mortimersmiles.com^
 ||mortonlogymethyls.qpon^
 ||mortypush.com^
+||morularkubera.com^
 ||morulasbopsoxhide.cyou^
 ||morvath-ltd.com^
 ||morvaxwave16.xyz^
@@ -183152,6 +183367,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||movlbegr.com^
 ||movsflix.com^
 ||movshow.com/*portal/
+||movsssgjfzzjm.site^
 ||movturs.click^
 ||movve.com^
 ||movvx.accunit.cfd^
@@ -183160,6 +183376,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||mowcoordinateegypt.com^
 ||mowenxi.com/1.png
 ||mower-gut.myshopify.com^
+||mowersdebye.cyou^
 ||mowgloriousdeem.com^
 ||mowgoats.com^
 ||mowlandaequorsheals.cfd^
@@ -183373,6 +183590,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||mqdfc.dolfinswimwear.com^
 ||mqdownload.com^
 ||mqedledjjjdad.website^
+||mqeguxrxzglhv.online^
 ||mqesfg.bpm-power.com^
 ||mqfbmp.dietshin.com^
 ||mqgsm.homelinkd.com^
@@ -183384,6 +183602,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||mqhuzk.soffadirekt.se^
 ||mqhzdl.com^
 ||mqimqhvpnepnt.space^
+||mqjnquoaolinx.online^
 ||mqjpkx.lulli-sur-la-toile.com^
 ||mqjsdu.eataly.net^
 ||mqjwvqsrbhooc.website^
@@ -184136,6 +184355,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||muc247-vidientu.com^
 ||muchenzhongguo.com^
 ||mucho.us-assistance.org^
+||mucinfainter.cfd^
 ||mucizewus.com^
 ||mucizewus.com^$third-party
 ||muckbootsosterreich.at^
@@ -184146,6 +184366,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||mucoidbaniwa.cyou^
 ||mucoidreflee.qpon^
 ||mucosaclicks.cyou^
+||mucosaedonatesinhelde.cfd^
 ||mucquanly247.com^
 ||mucusesburgoutaeacus.cyou^
 ||mucusescrudle.qpon^
@@ -184263,6 +184484,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||mullvad-download.org^
 ||mullvad-vpn.us.org^
 ||mullvadd.com^
+||mulmsmallen.cfd^
 ||multaniaspredofiot.cyou^
 ||multi-az-ad.kuaishou.cn^
 ||multi-az-ad.kuaishou.com^
@@ -184706,7 +184928,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||mvybmqfdkezml.site^
 ||mvygzjxwwzcvd.online^
 ||mvyp.top^
-||mw-ads.com^
 ||mw.escotedaccite.com^
 ||mw.followsseedlip.com^
 ||mw.whitepitsaw.shop^
@@ -185698,7 +185919,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||mzamin.com/advert/
 ||mzansi-casino.fr^
 ||mzb60mu3z7.com^
-||mzbcdn.net^
 ||mzcgpmpygdoer.site^
 ||mzcin.com/m.js
 ||mzcin.com/t.js
@@ -185881,6 +186101,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||n6579.com^
 ||n69.com^
 ||n6al211kbp.com^
+||n6pepvekwa.com^
 ||n6wxm.com^
 ||n6zgmbhebezkzgfh5qg6wgfp1i8p1l3ozqk8l.rest^
 ||n7.nskfyl.com^
@@ -186380,7 +186601,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||narrowyherne.cyou^
 ||nartionwant.com^
 ||naruk.saintluciferspice.com^
-||narvok.click^
 ||narwhal.bounty.studio^
 ||narwhal.quickbudget.xyz^
 ||naryvz.xyz^
@@ -186410,7 +186630,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||nasosettoourm.com^
 ||nasrispit.com^
 ||nasrul.bunonfabrics.com^
-||nassatermor.life^
 ||nasscom.epoise.com^
 ||nasscomtest.epoise.com^
 ||nasssmedia.com^
@@ -186646,6 +186865,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||navi56.com^
 ||navi59.ru^
 ||navi6.com^
+||navi62.ru^
 ||navi66.ru^
 ||navi69.com^
 ||navi7.com^
@@ -186658,6 +186878,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||navi88.com^
 ||navi9.com^
 ||navi90.com^
+||navi95.ru^
 ||navi98.com^
 ||navi99.com^
 ||navicast.jp^
@@ -186712,6 +186933,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||nayesy.com^
 ||nayhawegotistical.com^
 ||naytev.com^
+||naywardilleism.cfd^
 ||nazaone.com^
 ||nazarickol.com^
 ||nazcu.winc.com^
@@ -186747,7 +186969,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||nbeelx.angeliebe.co.jp^
 ||nbegame.com/nbeos/*.jpg
 ||nbekirowekzaq.space^
-||nbet.com^
 ||nbf9b5aurl.com^
 ||nbfhxoldzzydm.space^
 ||nbfieef.cn^
@@ -186801,6 +187022,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||nbudas92.shop^
 ||nbuipljbiahdp.website^
 ||nbvcsyjsoojpd.online^
+||nbvetzyqt.icu^
 ||nbvlkenmkihrl.website^
 ||nbvwuizhmmgtb.online^
 ||nbweekly.com^
@@ -187065,6 +187287,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||nebulousamusement.com^
 ||nebulousgarden.com^
 ||nebulousquasar.com^
+||nebzqrjktxeap.website^
 ||nebzyx.lol^
 ||necessary-jury.com^
 ||necessaryseat.com^
@@ -187714,6 +187937,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||neutrino-energy-coin.com^
 ||neutro.thermas.com.br^
 ||neuwo.ai^
+||nevalyashka.link^
 ||nevaon.com^
 ||nevari.de^
 ||never2never.com^
@@ -188140,7 +188364,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||newsukr2023.space^
 ||newsunads.com^
 ||newsupercell.com^
-||newsval.digital^
 ||newswhose.com^
 ||newswidget.net^
 ||newsyour.net^
@@ -188596,6 +188819,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||nheopaobzlrqc.site^
 ||nhgbdjs.com^
 ||nhglm.everydayyoga.com^
+||nhgmymxth.com^
 ||nhhaxrbe.com^
 ||nhhkiwxywzduc.site^
 ||nhiaoadcolahl.website^
@@ -188916,6 +189140,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||ninecasinofrance.fr^
 ||ninecasyno.fr^
 ||ninecredentialpitcher.com^
+||ninefriends.shop^
 ||ninegarretcurse.com^
 ||ninelife.at^
 ||ninelife.de^
@@ -188999,6 +189224,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||nipholder.com^
 ||nipkfyrmea.com^
 ||nipluqoc.com^
+||nipmucknether.shop^
 ||nipnvemvvjleg.online^
 ||nippledecorated.com^
 ||nipplelair.com^
@@ -189106,6 +189332,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||njbhp.promixnutrition.com^
 ||njbilmh12.com^
 ||njbrwf.pilatesshop.it^
+||njbutsfjfleij.online^
 ||njcchu.flowercampings.com^
 ||njcengpianwang.cn^
 ||njcgtyxmkrkqv.space^
@@ -189160,6 +189387,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||njvgksjrtiuqx.space^
 ||njxcbzvxmmdgk.website^
 ||njxinle.com^
+||njxnmthoeyler.online^
 ||njxnsb.paodeacucar.com^
 ||njxrpzdwiduhs.online^
 ||njxzwh.com/pcsoft/statics/ycgg/
@@ -189390,8 +189618,10 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||nmetrics.samsungmobile.com^
 ||nmewagagqofg.com^
 ||nmezaklu.in^
+||nmfaaspqsfyg.com^
 ||nmfkkmyv.com^
 ||nmgassets.com^
+||nmgdxeuophsqo.website^
 ||nmgneqqnnbtac.site^
 ||nmgplatform.com^
 ||nmgwoawuwbnsj.space^
@@ -189485,6 +189715,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||nnmoyx5jlbr97on2l5n74hblb.cfd^
 ||nnmtools.com^
 ||nnn.ru^
+||nnnhzfzuycmfh.site^
 ||nnnnnnnnnnnnnnnnnnnnn.pages.dev^
 ||nnnwin.vip^
 ||nnobek.waschbaer.de^
@@ -189707,6 +189938,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||non.arabshentai.com^
 ||nonagonunspent.cfd^
 ||nonaircise.com^
+||nonandacoly.com^
 ||nonbasepiquet.shop^
 ||noncashroundy.cfd^
 ||nonchalanceblare.com^
@@ -189822,7 +190054,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||nordicsbtaenrolment.americanexpress.co.uk^
 ||nordikb.com^
 ||nordklover.fi^
-||nordmex.site^
 ||nordoil.de^
 ||nordpar.com^
 ||nordpass.fr^
@@ -190318,6 +190549,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||npozbs.msccruises.nl^
 ||nppcvydbsljye.site^
 ||nppmwatch.com^
+||nppypaxueiiza.site^
 ||npqkjlvktxahn0b.com^
 ||npr.black.news^
 ||npripnuiexazh.online^
@@ -190536,6 +190768,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||nrzfje.ririnco.com^
 ||ns.5.p2l.info^
 ||ns.adobe.com^
+||ns.app.admin.id601294105.date^
 ||ns.cac.com.cn^
 ||ns.carte-gr.total.fr^
 ||ns.netnet.or.jp^
@@ -190959,6 +191192,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||numarabiz.com^
 ||numarapaneli.com^
 ||numateepee.shop^
+||numb-definition.pro^
 ||numbbathroom.pro^
 ||numberia.com^
 ||numberium.com^
@@ -191343,6 +191577,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||nyetae.eyeclinic-tokyo.jp^
 ||nyetexogens.shop^
 ||nyetm2mkch.com^
+||nyfoaqkevjoaw.online^
 ||nyfolk.de^
 ||nyfpt.cuddleandkind.com^
 ||nyfwoxdfhgufr.online^
@@ -191566,6 +191801,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||o368sxdu.xyz^
 ||o398.trumbulltimes.com^
 ||o3gxzoewxl1x.cp.zomro.com^
+||o3pkvt1w6283gxm2p72qhvb6g.cfd^
 ||o3sndvzo25.com^
 ||o3sxhw5ad.com^
 ||o3xle.5u6lwmylofptpqofwgbu8p8kt1tp4w7ewl.cyou^
@@ -192225,6 +192461,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||ockpmikamob.com^
 ||ockqilocv.com^
 ||ockremarkedon.com^
+||ocksterconnect.qpon^
 ||ockvjestempfy.website^
 ||ockvpyhmddtus.online^
 ||ockzcenmegjnn.site^
@@ -192429,6 +192666,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||odsenbhkgghbw.site^
 ||odsvxirweqzxn.space^
 ||odswzz.tadaaz.be^
+||odtpmpcdhlfba.website^
 ||odtrtadl.com^
 ||odtsiouwwdpji.site^
 ||odtvcokzaof.com^
@@ -192614,7 +192852,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||ofenrohr.eu^
 ||ofenundholz.de^
 ||oferplan-data.lavozdegalicia.es^
-||oferta91284.cfd^
 ||ofertapty.net^
 ||ofertasdo-dia.shop^
 ||ofettail.com^
@@ -192753,6 +192990,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||officialrebrand.shop^
 ||officialrenewritualsupplement.shop^
 ||officials-kmspico.com^
+||officialvillage.pro^
 ||officialyeti.com^
 ||officiellejordan.eu.com^
 ||offie-wps.com.cn^
@@ -192915,6 +193153,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||ogfhroqi.com^
 ||ogfhuleifmtvd.site^
 ||ogfna.net^
+||ogfnisfulhi.in^
 ||ogfokbopmhpe.in^
 ||oggda.com^
 ||oggpxirglasx.com^
@@ -193328,6 +193567,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||ojwoqdpiwdt.com^
 ||ojyneijlxlekv.site^
 ||ojzghaawlf.com^
+||ojzgnfxidbjur.space^
 ||ojzpcvipynqhw.online^
 ||ok-11-cai.cc^
 ||ok-server.co.il^
@@ -196129,6 +196369,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||osmodeutschland.de^
 ||osmohor.shop^
 ||osmolalsunned.com^
+||osmonduprise.qpon^
 ||osmosisfalerno.com^
 ||osncrdtgymcux.online^
 ||osnignsk.xyz^
@@ -196717,6 +196958,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||outplotthamus.com^
 ||outprycheir.com^
 ||outpush.net^
+||outrageelupgrade.com^
 ||outrageous-connection.pro^
 ||outrageous-resolution.com^
 ||outrageous-structure.pro^
@@ -196765,6 +197007,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||outtasknapaea.click^
 ||outtechnicalspiteful.com^
 ||outube.com^
+||outviedgeratyawrong.qpon^
 ||outwardap.com^
 ||outwarddesert.com^
 ||outwardtimetable.com^
@@ -196939,6 +197182,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||ovrdhiogn.com^
 ||ovret.com^
 ||ovrfurhinjro.com^
+||ovrgackuno.in^
 ||ovrise.com^
 ||ovrjkuavda.com^
 ||ovrpdezykwmf.com^
@@ -197117,6 +197361,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||oxcrukcpea.in^
 ||oxcwapfa.com^
 ||oxdejn.lavprisel.dk^
+||oxdewajpuichn.space^
 ||oxducycsdzrlm.site^
 ||oxelvian.com^
 ||oxen.hillcountrytexas.com^
@@ -198460,6 +198705,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||paraflebebaittruer.cfd^
 ||paragedevaul.cfd^
 ||paragonshop.de^
+||paragooseofficial.fr^
 ||parakeet.jorenvanhocht.be^
 ||parakeet.kenleyar.ai^
 ||parakeet.phantomphone.net^
@@ -199452,6 +199698,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||patientconfusedperfectly.com^
 ||patienthercoldness.com^
 ||patientsaustralia.com^
+||patimera.net^
 ||patinahearts.xyz^
 ||patinaskosong.cyou^
 ||patio-furniture.dreamhoster.com^
@@ -199580,7 +199827,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||payforme.top^
 ||payforweal.com^
 ||paygamesport.net^
-||paygrund.site^
 ||payhawk.co.com^
 ||payingsob.com^
 ||payingtore.com^
@@ -199709,6 +199955,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||pbnet.ru^
 ||pbnkcnjfnikjserv.org^
 ||pbnncdnkcnncjikj.org^
+||pbnzgmotvibem.space^
 ||pbo8y8igrp.com^
 ||pboadsgyalldd.site^
 ||pbokotlibvpet.website^
@@ -200078,6 +200325,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||peach-static.ebu.io^
 ||peachbruh.com^
 ||peachcafe.net^
+||peachenresound.cyou^
 ||peachossom.com^
 ||peachpumptampa.com^
 ||peachscone2020.com^
@@ -200150,6 +200398,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||pebafisk.com^
 ||pebancolor.cfd^
 ||pebaprowergrogger.qpon^
+||pebble-analytics.aust-ae.workers.dev^
 ||pebblemedia.be^
 ||pebblesticky.com^
 ||pebfvv.icu^
@@ -200281,7 +200530,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||pekajmkimvx.com^
 ||pekansbeylics.qpon^
 ||pekansvaughnrhyming.qpon^
-||pekatoto.xyz^
 ||pekczqjvmtink.online^
 ||pekeshackle.com^
 ||pekisvinc.com^
@@ -200293,6 +200541,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||pelagiot.cc^
 ||peleanredress.cyou^
 ||pelesexpeded.space^
+||pelhamcobwork.cyou^
 ||pelicanprogram.com^
 ||pelicansource.com^
 ||peliculas4.net^
@@ -200739,6 +200988,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||pesgyihbyblaf.website^
 ||peshanga.com^
 ||peshitomohr.qpon^
+||peshkarcoletit.cyou^
 ||peskycrash.com^
 ||peskyinvestment.com^
 ||peskypromotion.pro^
@@ -200887,6 +201137,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||pf34zdjoeycr.com^
 ||pf4y2a54hx.com^
 ||pf66u634qfvhrj95.cfd^
+||pfadfindershop.com^
 ||pfannen-onshop.com^
 ||pfannendeck.de^
 ||pfashionmart.com^
@@ -201009,6 +201260,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||pgc5buffxoxkmqmb.cfd^
 ||pgcciax.icu^
 ||pgctnpywh.com^
+||pgcx8fnjup8yog7lz3zcv.cfd^
 ||pgdragon.org^
 ||pgdskofjaloka.si^
 ||pgdt.gtimg.cn/gdt/$domain=info.3g.qq.com
@@ -201251,6 +201503,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||phentermine.t-amo.net^
 ||phentermine.webpark.pl^
 ||phenver.com^
+||phenylsgeed.com^
 ||pheobes.com^
 ||phepaivezaukr.net^
 ||pheptoam.com^
@@ -201481,7 +201734,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||phpancake.com^
 ||phpapps.de^
 ||phpbjalhigtqe.site^
-||phpedit.com^
 ||phpemkckfej.com^
 ||phpernote.com/ali
 ||phphtscriver.com^
@@ -201561,6 +201813,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||physicspresume.com^
 ||physicstees.com^
 ||physicswallah.bapi-03.moengage.com^
+||physiotherapyindhaka.com^
 ||phytolcowfish.cfd^
 ||phytometextlet.cyou^
 ||phytonsfurner.com^
@@ -202000,6 +202253,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||pingsurvey.com^
 ||pingtas.qq.com^
 ||pingtcss.qq.com^
+||pinguesnicklerichter.cyou^
 ||pinguid.xyz^
 ||pingwest.com/api/news_ad
 ||pingwest.com/wp-content/uploads/*/ad.jpg
@@ -202297,7 +202551,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||piwik.asklepios.com^
 ||piwik.aspect-it.de^
 ||piwik.astiga.com^
-||piwik.au.harvestdp.com^
 ||piwik.aurich.de^
 ||piwik.auslromagna.it^
 ||piwik.auswaertiges-amt.de^
@@ -202480,6 +202733,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||piwik.hawk.de^
 ||piwik.hefe-und-mehr.de^
 ||piwik.heigl.org^
+||piwik.heilbronn.de^
 ||piwik.helmholtz.de^
 ||piwik.hepinet.de^
 ||piwik.hessburg.de^
@@ -202564,6 +202818,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||piwik.man.poznan.pl^
 ||piwik.mandysabenteuerwelt.de^
 ||piwik.mannheim.de^
+||piwik.markoluft.de^
 ||piwik.martin-wosnitza.de^
 ||piwik.mdc-berlin.de^
 ||piwik.medacom.email^
@@ -202634,6 +202889,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||piwik.otto-fuchs.com^
 ||piwik.outermedia.de^
 ||piwik.ovpn.se^
+||piwik.oxfam.de^
 ||piwik.paderborn.de^
 ||piwik.panoptykon.org^
 ||piwik.pantanet.de^
@@ -203078,6 +203334,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||pixelpop.co^
 ||pixelrevenue.com^
 ||pixels-1.ingbank.com.tr^
+||pixels-api.byinti.com^
 ||pixels.afcdn.com^
 ||pixels.argusplatform.com^
 ||pixels.asia^
@@ -203299,8 +203556,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||pkygraajhdap.com^
 ||pkyrdvdcsuiua.site^
 ||pkytxfiin.com^
-||pl-0748.sbs^
-||pl-437393.sbs^
 ||pl-ad-lgsmartad-com.aws-prd.net^
 ||pl-go.experian.com^
 ||pl-oferta-id2387942371.top^
@@ -204320,7 +204575,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||plavix.shengen.ru^
 ||plavxml.com^
 ||plawmkugopluh.online^
-||plaxfin.click^
 ||play-analytics-prod.s3.us-east-2.amazonaws.com^
 ||play-analytics.com^
 ||play-asia.com^$image,subdocument,third-party
@@ -204436,7 +204690,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||playhere.win^
 ||playhubconnect.com^
 ||playinfo.gomlab.com^
-||playingtator.xyz^
 ||playintegrityrailing.com^
 ||playinvaders.com^
 ||playit2019.com^
@@ -204712,6 +204965,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||plume.medicinebynature.blog^
 ||plumeinga.com^
 ||plumlikeet.click^
+||plummeteffront.shop^
 ||plumouspilcrow.cyou^
 ||plump-baby.com^
 ||plump-message.pro^
@@ -205949,6 +206203,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||portefeuillephoto.com^
 ||portentjonasfewer.com^
 ||portesdunet.com^
+||portfoliogunplayful.com^
 ||portionmedieval.com^
 ||portionsmeltdown.com^
 ||portlycalendar.pro^
@@ -206060,7 +206315,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||posthog-web.applications.evozen.net^
 ||posthog-zaxidnet.luxnet.io^
 ||posthog.24tv.ua^
-||posthog.595988659.xyz^
 ||posthog.aejuice.com^
 ||posthog.alpineiq.com^
 ||posthog.ampwall.com^
@@ -206361,6 +206615,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||powr.io^$third-party
 ||powsnbzvggnpk.site^
 ||powv1deo.cc^
+||powvideo.net/bon/exonat.html
 ||powzers.lol^
 ||poxiao.com/template/default/images/12345.js
 ||poxorfdldbzdr.online^
@@ -206465,6 +206720,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||pptulaljjijwq.space^
 ||pptv.com/game/aplus/client/gamedetail.html
 ||pptzq.homebase.ie^
+||ppuqlcyadikqe.website^
 ||ppures.shop^
 ||ppurifier.game.xiaomi.com^
 ||ppuvxjxlwxijr.site^
@@ -206675,6 +206931,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||praystakeinstinct.com^
 ||prayswash.cfd^
 ||prazisemesser.com^
+||prazisionsteile.com^
 ||prbcdn.ru^
 ||prbii.rugs-direct.com^
 ||prbn.ru^
@@ -206889,7 +207146,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||prelox-guenstiger.de^
 ||prelude69.com^
 ||preludeadv.it^
-||prelvon.click^
 ||premads.info^
 ||premclubs.com^
 ||premiapommies.cfd^
@@ -207151,6 +207407,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||priceslash.shop^
 ||priceynight.com^
 ||priceypies.com^
+||pricinganalytics.cfd^
 ||prickly-tradition.com^
 ||pricklyassociation.com^
 ||pricklydebt.com^
@@ -207678,6 +207935,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||prod-analytics-events-lb-1831464947.us-east-1.elb.amazonaws.com^
 ||prod-analytics-reporting-fe-vertx.miko-robot.in^
 ||prod-analytics-snowplow-alb-139478501.us-east-1.elb.amazonaws.com^
+||prod-analytics-snowplow-web-alb-761412580.us-east-1.elb.amazonaws.com^
 ||prod-analytics.fallback.familyisland.games^
 ||prod-analytics.familyislandgame.net^
 ||prod-analytics.ma-fm.games^
@@ -207690,6 +207948,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||prod-dcs-eventlog.decagames.com^
 ||prod-defaulting-subscriptiontool.gismart.xyz^
 ||prod-dem-collector-elb-611025824.eu-west-1.elb.amazonaws.com^
+||prod-eu-theymes-collector-collectorfilesv2bucket56-s1xrrtxnrbec.s3.eu-west-1.amazonaws.com^
 ||prod-events.nykaa.com^
 ||prod-fra.europe-west3.telemetry.prod.savvy.security^
 ||prod-global-mobile-analytics-global.nu.net^
@@ -207821,7 +208080,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||profero.com^
 ||profertcurdy.qpon^
 ||professboreal.shop^
-||professionalesta.courses^
 ||professionalflatly.com^
 ||professionallypolar.com^
 ||professionalpalecloth.com^
@@ -207918,7 +208176,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||profusecopy.pro^
 ||profusestubber.cfd^
 ||profusesupport.com^
-||profven.digital^
 ||progenybanquet.com^
 ||proggerhovered.qpon^
 ||proginn.com/cms/10000/
@@ -208935,6 +209192,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||pts.primatrafikskola.se^
 ||ptsc.shoplocal.com^
 ||pttavmilansepetionline.com^
+||pttbesagne.qpon^
 ||ptthoo.farmasi-czech.cz^
 ||pttlghemsjghh.online^
 ||pttoblakstpjti.com^
@@ -209287,7 +209545,9 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||pukri.climit.com^
 ||puksjalhf.com^
 ||pulayagaed.cfd^
+||pulayamosque.cfd^
 ||puldhukelpmet.com^
+||pulexwakanda.cfd^
 ||pulfinik.com^
 ||pulinkme.com^
 ||pulitocat.com^
@@ -209574,6 +209834,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||purisakiofficial.com^
 ||purisstying.website^
 ||purlineswitchy.cfd^
+||purloinalines.qpon^
 ||purlporteno.cyou^
 ||purple-hit.com^
 ||purple.fitchconnect.com^
@@ -210566,7 +210827,9 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||qbltvdeqmrzxt.website^
 ||qbmcjw6rginhbu.cfd^
 ||qbmjjkpngef.com^
+||qbmnigjytjiei.space^
 ||qbmxmuaifmpol.website^
+||qbnnnuvnoxmqgc.com^
 ||qbnpxulgsfftrys.xyz^
 ||qbnvdctsmxqhr.website^
 ||qbnyheznoeglk.space^
@@ -210967,6 +211230,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||qhaazaduez.com^
 ||qhaelqata.com^
 ||qhangrotl.com^
+||qhaqlvdbyjwdc.website^
 ||qhaqrwrsfjiev.site^
 ||qhbetzsrzzslg.site^
 ||qhbnu.sokolovelaw.com^
@@ -211126,6 +211390,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||qinzuisp.cc^
 ||qioca.com^
 ||qiofu.dadgang.co^
+||qioodnkomwthz.website^
 ||qip.ru^
 ||qipaspjivpupa.website^
 ||qipglhhdbgedc.space^
@@ -212125,7 +212390,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||quantica900.com^
 ||quantobe.com^
 ||quantoz.xyz^
-||quantrexblaze-ai.com^
 ||quantridautu.com^
 ||quantserve.com^
 ||quantum-ai-be.com^
@@ -212282,7 +212546,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||queen-sparkles.com^
 ||queenbeasblooms.com^
 ||queencolloquial.com^
-||queencreekcafe.com^
 ||queenjam.com^
 ||queenm.site^
 ||queenofarticle.com^
@@ -212783,6 +213046,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||qwwrqxlbplpws.website^
 ||qwxcs.com^
 ||qwxolavxykodb.site^
+||qwxxufudvlloq.site^
 ||qwylpm.teljoy.co.za^
 ||qwzbcukveymrc.online^
 ||qwzly.com^
@@ -213100,6 +213364,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||r2b2.cz^$third-party
 ||r2b2.io^
 ||r2b2.io^$third-party
+||r2c3i9f6v82nj9.cfd^
 ||r2d2.aotter.net^
 ||r2izxventc18b3.cfd^
 ||r2pnq.montecarlovirtualtour.com^
@@ -213617,6 +213882,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||randomlane.net^
 ||randomreprintinvoice.com^
 ||randoom.ru^
+||randorihugonis.qpon^
 ||randrplumbingheatingandcooling.info^
 ||randstad.epoise.com^
 ||randstadtest.epoise.com^
@@ -215474,7 +215740,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||reinigungszubehor.com^
 ||reinpreposition.com^
 ||reinsbird.com^
-||reinstandpointdumbest.com^
 ||reinvigorate.net^
 ||reiseklarheit.de^
 ||reisen-weisen.de^
@@ -216217,6 +216482,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||resalelogic.com^
 ||resanium.com^
 ||resawnseized.cyou^
+||reschserviceonline.info^
 ||rescission77.top^
 ||rescueothers.com^
 ||rescuerhino.com^
@@ -216257,6 +216523,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||resetmentalonline.com^
 ||resetpassword.surepetcare.io^
 ||resewsandrolglucke.qpon^
+||reshakeclifts.cfd^
 ||reshin.de^
 ||reshipparky.cfd^
 ||resi-api.pawns.app^
@@ -217155,6 +217422,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||rhearivera.com^
 ||rhebus.works^
 ||rhecharge.com^
+||rheebocunprime.shop^
 ||rheebokparlor.cfd^
 ||rheidy.com^
 ||rheimz.de^
@@ -217528,6 +217796,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||rimefatling.com^
 ||rimhysterical.com^
 ||rimierbeebees.com^
+||rimiertittup.qpon^
 ||riminganousrattons.cyou^
 ||rimnow.fr^
 ||rimoudrauft.net^
@@ -217700,6 +217969,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||riundoor.com^
 ||rival.cz^
 ||rivalbuffetdifferently.com^
+||rivalireful.qpon^
 ||rivalo.network^
 ||rivano.de^
 ||rivapoker.com^
@@ -217832,6 +218102,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||rjzxw.com/include/
 ||rk.hairbilby.com^
 ||rk.roseineragbags.com^
+||rk2kpo4ef.com^
 ||rkanr.com/data/cpcache/cp*.js
 ||rkase.com^
 ||rkazelmtcriro.online^
@@ -217902,6 +218173,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||rl.finalprice.com^
 ||rl.go2yd.com^
 ||rl.harshlyistles.com^
+||rl2---server-side-tagging-clghxhkpwq-rj.a.run.app^
 ||rl6b3zvtsk.com^
 ||rl8yj74pr.com^
 ||rlavvoeo.com^
@@ -218403,6 +218675,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||rohrreinigung-rothschild.de^
 ||rohrreinigungshilfe.at^
 ||rohrsanierungen24.de^
+||rohrshop24.com^
 ||rohsspskkvmzp.space^
 ||rohtx3k1qmrqzi4.rest^
 ||roi.beginn.store^
@@ -218414,6 +218687,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||roibvvvvfmhyl.space^
 ||roiccwhoodrkb.space^
 ||roikingdom.com^
+||roilierastheny.cyou^
 ||roilskokoon.cyou^
 ||roilygrasser.shop^
 ||roinjg.mkluzkoviny.cz^
@@ -218538,6 +218812,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||romperspardesi.com^
 ||romsns.com^
 ||romsxqicvnbvx.store^
+||romulussalomonshent.cyou^
 ||romvtsmpevy.com^
 ||romy-dortmund.de^
 ||ronado.de^
@@ -218546,7 +218821,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||ronbbf.xyz^
 ||rondachang.xyz^
 ||ronderosalvarezabogados.com^
-||rondex.click^
 ||ronerusma.com^
 ||ronfjvonmo.com^
 ||rongagesture.cfd^
@@ -218885,6 +219159,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||rox-media4.com^
 ||roxby.org^
 ||roxfdmeqsfjjw.online^
+||roxieawidemudcat.cyou^
 ||roxot-panel.com^
 ||roxr.net^
 ||roxtxykhks.com^
@@ -219641,7 +219916,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||rtbzohtaqbqgw.site^
 ||rtc-logger-i18n.tiktokv.com^
 ||rtc-logger-ie.tiktokv.eu^
-||rtc-logger-ttp2.tiktokv.us^
 ||rtc-logger-ttp2.us.tiktokv.com^
 ||rtc-logger-va.tiktokv.com^
 ||rtc-logger.bytevcloud.com^
@@ -220001,6 +220275,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||rubytuesdaymusic.de^
 ||ruc-ngfts.lge.com^
 ||rucecnegkrxul.site^
+||ruchbahcleek.qpon^
 ||ruchika29access55824.acemlna.com^
 ||rucksack85.top^
 ||rucksacktying.com^
@@ -220170,7 +220445,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||rum.uptime.com^
 ||rum.us-east-1.amazonaws.com^
 ||rum.us-east-2.amazonaws.com^
-||rum.us-west-1.amazonaws.com^
 ||rum.us-west-2.amazonaws.com^
 ||rum.volia.com^
 ||rum.yettel.hu^
@@ -220593,9 +220867,11 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||rxdqldqeltnsz.space^
 ||rxdxzb.top^
 ||rxeosevsso.com^
+||rxesfcmmlyqso.site^
 ||rxeyyesahhlyh.website^
 ||rxfspe.ulthi.de^
 ||rxggkxdozyugf.space^
+||rxglmys.icu^
 ||rxgwcjrjbzzsw.website^
 ||rxhifyyzvrwzj.space^
 ||rxhsry.sortiraparis.com^
@@ -222652,6 +222928,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||sametrics.finn.no^
 ||samfilm.codelab.is^
 ||samfw.com/js/script.js
+||samhainroots.cfd^
 ||sami-statistics.info^
 ||samia.net.anwalt.de^
 ||samiana.com^
@@ -222699,6 +222976,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||samsungjordan.api.useinsider.com^
 ||samsungkr.api.useinsider.com^
 ||samsungksa.api.useinsider.com^
+||samsungmalaysia.api.useinsider.com^
 ||samsungpakistan.api.useinsider.com^
 ||samsungph.api.useinsider.com^
 ||samsungr.com^
@@ -223215,6 +223493,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||sarov.ws^
 ||sarpapules.qpon^
 ||sarplermonkdomteachy.cyou^
+||sarpohectare.qpon^
 ||sarrowgrivois.com^
 ||sartons.com^
 ||sartoriz.fr^
@@ -224539,7 +224818,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||sdg.desihamster.pro^
 ||sdgbg.carcan.com^
 ||sdggvtejxhojo.website^
-||sdgreg.cn^
 ||sdhahs.com^
 ||sdhear.com/js/common.js
 ||sdhentai.com/marketing/
@@ -226402,7 +226680,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||sereneify.com^
 ||sereneloves.com^
 ||serenepebble.com^
-||sereneperson.pro^
 ||serenesurf.com^
 ||serenezenith.com^
 ||serenezephyr.com^
@@ -226641,7 +226918,9 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||server-side-tagging-1014570026822.southamerica-east1.run.app^
 ||server-side-tagging-1037254496037.us-central1.run.app^
 ||server-side-tagging-127328350455.us-east1.run.app^
+||server-side-tagging-144507281541.europe-west1.run.app^
 ||server-side-tagging-151725659305.us-west2.run.app^
+||server-side-tagging-163551643076.us-central1.run.app^
 ||server-side-tagging-231604340165.us-central1.run.app^
 ||server-side-tagging-23211202459.us-central1.run.app^
 ||server-side-tagging-237cnm7xlq-uc.a.run.app^
@@ -226650,6 +226929,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||server-side-tagging-2chgnwuvza-uc.a.run.app^
 ||server-side-tagging-305814.ue.r.appspot.com^
 ||server-side-tagging-35ihqwuxka-nw.a.run.app^
+||server-side-tagging-3b3npf7ata-uc.a.run.app^
 ||server-side-tagging-3esuj7mgtq-uc.a.run.app^
 ||server-side-tagging-3jzkn4xgxa-uc.a.run.app^
 ||server-side-tagging-3mlqgt34qa-uc.a.run.app^
@@ -226663,6 +226943,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||server-side-tagging-4l5h5zm5ea-uc.a.run.app^
 ||server-side-tagging-4pifm2yyeq-uc.a.run.app^
 ||server-side-tagging-4ptnomxg5q-uc.a.run.app^
+||server-side-tagging-4wjc5ctv6q-uc.a.run.app^
 ||server-side-tagging-4xp5wewwsq-uc.a.run.app^
 ||server-side-tagging-522431191156.us-central1.run.app^
 ||server-side-tagging-582660599531.us-central1.run.app^
@@ -226678,6 +226959,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||server-side-tagging-772335485284.us-central1.run.app^
 ||server-side-tagging-795003655167.us-east5.run.app^
 ||server-side-tagging-7csmrshmxq-uc.a.run.app^
+||server-side-tagging-7h5q7725ma-uc.a.run.app^
 ||server-side-tagging-833949469797.us-central1.run.app^
 ||server-side-tagging-87544884307.europe-west1.run.app^
 ||server-side-tagging-891636243242.europe-west1.run.app^
@@ -226692,10 +226974,14 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||server-side-tagging-andl226g5a-uc.a.run.app^
 ||server-side-tagging-b45j5q6kja-uc.a.run.app^
 ||server-side-tagging-b4vlyqot4a-uc.a.run.app^
+||server-side-tagging-bfi7xulzkq-uc.a.run.app^
 ||server-side-tagging-bjn44aaqba-uc.a.run.app^
 ||server-side-tagging-blnbqlxcya-uc.a.run.app^
 ||server-side-tagging-brnu6qo2ra-uc.a.run.app^
 ||server-side-tagging-bsgkrzzzga-uc.a.run.app^
+||server-side-tagging-buqob3b3sa-uc.a.run.app^
+||server-side-tagging-buud3r3v2q-uc.a.run.app^
+||server-side-tagging-c4hjp3cw7q-uc.a.run.app^
 ||server-side-tagging-c5u4ugpc3a-uc.a.run.app^
 ||server-side-tagging-cbhawu6vza-ew.a.run.app^
 ||server-side-tagging-cdc-5n47cg7jba-od.a.run.app^
@@ -226710,12 +226996,15 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||server-side-tagging-emcohwnbnq-uc.a.run.app^
 ||server-side-tagging-epqosoa4sq-ew.a.run.app^
 ||server-side-tagging-eu-7twoo26kcq-ew.a.run.app^
+||server-side-tagging-eu-de-392071853152.europe-west3.run.app^
 ||server-side-tagging-eu-production-925055733921.europe-west1.run.app^
 ||server-side-tagging-europe-wxo75frbwq-ew.a.run.app^
 ||server-side-tagging-ewxifiw4ja-uc.a.run.app^
+||server-side-tagging-ewzookktka-uc.a.run.app^
 ||server-side-tagging-f266e6l3eq-uc.a.run.app^
 ||server-side-tagging-f5r56shkoq-uc.a.run.app^
 ||server-side-tagging-f744vmhvqq-uc.a.run.app^
+||server-side-tagging-foltusplka-uc.a.run.app^
 ||server-side-tagging-fsfp5hnnjq-uc.a.run.app^
 ||server-side-tagging-fwiffqtjmq-uc.a.run.app^
 ||server-side-tagging-gaolcudvzq-uc.a.run.app^
@@ -226729,10 +227018,13 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||server-side-tagging-hc5rdqmlhq-uc.a.run.app^
 ||server-side-tagging-hhkx4245ra-uc.a.run.app^
 ||server-side-tagging-higlimivlq-uc.a.run.app^
+||server-side-tagging-hmgkpkidqa-uc.a.run.app^
 ||server-side-tagging-hobmgotkaq-uc.a.run.app^
 ||server-side-tagging-hv5yrlcnda-uc.a.run.app^
+||server-side-tagging-icvtdodlcq-uc.a.run.app^
 ||server-side-tagging-id2wyvraoa-uc.a.run.app^
 ||server-side-tagging-imhawucm2q-uc.a.run.app^
+||server-side-tagging-ixlashmtpa-uc.a.run.app^
 ||server-side-tagging-jchnckwpqq-uc.a.run.app^
 ||server-side-tagging-jimaxebjya-uc.a.run.app^
 ||server-side-tagging-jkaryw7dmq-uc.a.run.app^
@@ -226755,12 +227047,14 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||server-side-tagging-mdmyelbgya-uc.a.run.app^
 ||server-side-tagging-mf6wzfg7bq-uc.a.run.app^
 ||server-side-tagging-mhrrn5msrq-uc.a.run.app^
+||server-side-tagging-migz5n5xuq-uc.a.run.app^
 ||server-side-tagging-mrb7fzt5pa-uc.a.run.app^
 ||server-side-tagging-mykimv3nta-uc.a.run.app^
 ||server-side-tagging-n4tmbfzo7q-uc.a.run.app^
 ||server-side-tagging-n5stl6toya-uc.a.run.app^
-||server-side-tagging-nio-b2b-internet-282897195116.us-central1.run.app^
+||server-side-tagging-nfdfxbdsfq-uc.a.run.app^
 ||server-side-tagging-nio-internet-282897195116.us-central1.run.app^
+||server-side-tagging-nq4odeh2nq-uc.a.run.app^
 ||server-side-tagging-nw5gv56yjq-uc.a.run.app^
 ||server-side-tagging-nwtiwvxguq-uc.a.run.app^
 ||server-side-tagging-o5in4ns5xq-uc.a.run.app^
@@ -226784,7 +227078,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||server-side-tagging-rd7xndwfxa-uc.a.run.app^
 ||server-side-tagging-rlfc64cxwa-uc.a.run.app^
 ||server-side-tagging-rxcrww2t3q-uc.a.run.app^
-||server-side-tagging-s54ycev6va-uc.a.run.app^
 ||server-side-tagging-shapd4rs5a-uc.a.run.app^
 ||server-side-tagging-shufefkyfa-uc.a.run.app^
 ||server-side-tagging-srhz37eb2a-uc.a.run.app^
@@ -226796,7 +227089,9 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||server-side-tagging-t7h4rmmdlq-uc.a.run.app^
 ||server-side-tagging-tagkg43egq-uc.a.run.app^
 ||server-side-tagging-teaspoon-246444396858.europe-west3.run.app^
+||server-side-tagging-tmmoprikxa-uc.a.run.app^
 ||server-side-tagging-tqdhypg5ua-uc.a.run.app^
+||server-side-tagging-tsdmqdnf3q-uc.a.run.app^
 ||server-side-tagging-u4xa4rswdq-uc.a.run.app^
 ||server-side-tagging-ubevk4keea-uc.a.run.app^
 ||server-side-tagging-ucumduhz7a-uc.a.run.app^
@@ -226812,24 +227107,29 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||server-side-tagging-v5xhmilx6a-ww.a.run.app^
 ||server-side-tagging-v7yx4unsjq-uc.a.run.app^
 ||server-side-tagging-vjhnjlwria-uc.a.run.app^
+||server-side-tagging-vpmc3asmiq-uc.a.run.app^
 ||server-side-tagging-vtx7a3p2za-uc.a.run.app^
 ||server-side-tagging-vu67rnoo6a-uc.a.run.app^
 ||server-side-tagging-vxjszhecfa-uc.a.run.app^
 ||server-side-tagging-w23e2jpyuq-uc.a.run.app^
+||server-side-tagging-w2ab33aqka-uc.a.run.app^
 ||server-side-tagging-w4rdwld45a-uc.a.run.app^
 ||server-side-tagging-w66n5pxv4a-uc.a.run.app^
+||server-side-tagging-wxc52qxq3q-ey.a.run.app^
 ||server-side-tagging-wyxtlx6fjq-uc.a.run.app^
 ||server-side-tagging-xavfeo5ulq-uc.a.run.app^
 ||server-side-tagging-xrfxbeo4xa-uc.a.run.app^
 ||server-side-tagging-y4pfpv3kba-uc.a.run.app^
 ||server-side-tagging-y5b4w4fk4a-uc.a.run.app^
 ||server-side-tagging-y75c6bvoia-uc.a.run.app^
+||server-side-tagging-yazd63fg7a-uc.a.run.app^
 ||server-side-tagging-ykzfrilmoq-uc.a.run.app^
 ||server-side-tagging-yyx7mbxhta-uc.a.run.app^
 ||server-side-tagging-z3uvqvxadq-uc.a.run.app^
 ||server-side-tagging-z4lfjl7p2q-uc.a.run.app^
 ||server-side-tagging-zhywnqwwdq-uc.a.run.app^
 ||server-side-tagging-znoxbbywsa-uc.a.run.app^
+||server-side-tagging-zp7kqyta5a-uc.a.run.app^
 ||server-side-tagging-zqai4hltia-uc.a.run.app^
 ||server-side-tagging-zrac5cmcvq-uc.a.run.app^
 ||server-side-tagging-zuknou2jra-uc.a.run.app^
@@ -230797,7 +231097,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||sgtm.bitnet.ge^
 ||sgtm.bitvavo.com^
 ||sgtm.bivillage.com^
-||sgtm.bizmates.jp^
 ||sgtm.blackmapletrading.com.co^
 ||sgtm.blackroll.com^
 ||sgtm.blacktools.ro^
@@ -231468,6 +231767,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||sgtm.flowrista.com^
 ||sgtm.flyeralarm.com^
 ||sgtm.fmrgold.com^
+||sgtm.focusgarden.pl^
 ||sgtm.foederer.nl^
 ||sgtm.fof.dk^
 ||sgtm.fondazionecrc.it^
@@ -231496,6 +231796,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||sgtm.fucturatecnologia.com.br^
 ||sgtm.fundednext.com^
 ||sgtm.fusimprov.be^
+||sgtm.futrale.cz^
 ||sgtm.fuzulev.com.tr^
 ||sgtm.fyrklovern.com^
 ||sgtm.g2a.com^
@@ -231503,6 +231804,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||sgtm.gaiatravel.dk^
 ||sgtm.gamescom.de^
 ||sgtm.gamescom.global^
+||sgtm.gap.at^
 ||sgtm.gap.hu^
 ||sgtm.gap.pl^
 ||sgtm.gardatrentino.it^
@@ -231523,6 +231825,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||sgtm.geberit.de^
 ||sgtm.geberit.fi^
 ||sgtm.geberit.nl^
+||sgtm.geberit.ua^
 ||sgtm.geely.ma^
 ||sgtm.gelatodemy.com^
 ||sgtm.gemeosaitrading.com^
@@ -232265,6 +232568,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||sgtm.mypass.ski^
 ||sgtm.mypassportcenter.com^
 ||sgtm.myprotein.be^
+||sgtm.myprotein.ch^
 ||sgtm.myprotein.com.my^
 ||sgtm.myprotein.com^
 ||sgtm.myprotein.es^
@@ -232272,6 +232576,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||sgtm.myprotein.hu^
 ||sgtm.myprotein.ie^
 ||sgtm.myprotein.jp^
+||sgtm.myprotein.ro^
 ||sgtm.myselfie.dk^
 ||sgtm.myspecialdates.com^
 ||sgtm.mystylebags.com^
@@ -232789,6 +233094,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||sgtm.seissense.com^
 ||sgtm.selgas.eu^
 ||sgtm.sellyourproperty4cash.com^
+||sgtm.sendcloud.com^
 ||sgtm.senseicraft.com^
 ||sgtm.senseiwp.com^
 ||sgtm.sensos.io^
@@ -233018,6 +233324,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||sgtm.svoboda-williams.com^
 ||sgtm.svoboda-williams.sk^
 ||sgtm.sw.siemens.com^
+||sgtm.swd-ag.de^
 ||sgtm.sweetmyo.com^
 ||sgtm.swelllabs.org^
 ||sgtm.swimtime.org^
@@ -233042,10 +233349,12 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||sgtm.taxbrilliancestrategy.com^
 ||sgtm.taxpilot.it^
 ||sgtm.taxseepro.com^
+||sgtm.taylorwimpey.co.uk^
 ||sgtm.tazkiyahlifestyle.com^
 ||sgtm.tazne.cz^
 ||sgtm.taztycandy.com^
 ||sgtm.tchibo-travel.de^
+||sgtm.teag-mobil.de^
 ||sgtm.teag.de^
 ||sgtm.teamecommerce.com^
 ||sgtm.teamz.co.jp^
@@ -233206,6 +233515,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||sgtm.uk.mondaine.com^
 ||sgtm.uketasupport.com^
 ||sgtm.ukrainedate.com^
+||sgtm.ulc.by^
 ||sgtm.ulivihotel.it^
 ||sgtm.ultra.bet.br^
 ||sgtm.ultraestetic-shop.ro^
@@ -233951,6 +234261,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||shebarindict.com^
 ||shebisnf.com^
 ||shebudriftaiter.net^
+||shebuzzier.qpon^
 ||shechourguloulr.net^
 ||shedaustoufitch.net^
 ||shedderconfute.space^
@@ -234134,7 +234445,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||shimanofahrradrabatt.com^
 ||shimanopart.com^
 ||shimeebsopheept.net^
-||shimeet.pro^
 ||shimmering-concept.pro^
 ||shimmeringconcert.com^
 ||shimo.im^*/ads?
@@ -235097,7 +235407,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||shoter.org^
 ||shotgunchancecruel.com^
 ||shouaa.com^
-||shoubsee.net^
 ||shouchoah.com^
 ||shoughpapaw.cyou^
 ||shouji.sogou.com^
@@ -235282,6 +235591,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||shuruffa-sogou.hl.cn^
 ||shuruufa-sogou.hl.cn^
 ||shushagri.net^
+||shushedcrouke.cyou^
 ||shushenge.com/js/BC
 ||shusho.top^
 ||shussausach.com^
@@ -235289,6 +235599,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||shutinggatsby.qpon^
 ||shutloneliness.com^
 ||shutokuhimfagged.cyou^
+||shutterfissile.cyou^
 ||shuttlelikingcabinet.com^
 ||shuttleockstore.com^
 ||shuurufa-sogou.hl.cn^
@@ -235424,6 +235735,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||sierke24.de^
 ||sierrakermit.com^
 ||sierrakonradreorganize.com^
+||sierrasrithe.cfd^
 ||siestakeysbestrentals.com^
 ||sieuatoc.com^
 ||sieukhuyenmai.xyz^
@@ -235795,6 +236107,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||simplycode.co^
 ||simplymeasured.com^
 ||simpnappy.cyou^
+||simpulacootie.shop^
 ||simsino-casino-fr.fr^
 ||simsino-online.de^
 ||simsinocasinofrance.fr^
@@ -236405,6 +236718,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||skegjjrhp.com^
 ||skeiftumors.qpon^
 ||skeimg.com/i/*.gif
+||skeinedresiantpumelos.cfd^
 ||skelaxin.1.p2l.info^
 ||skelaxin.3.p2l.info^
 ||skelaxin.4.p2l.info^
@@ -236416,7 +236730,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||skelvurizont.at^
 ||skenaiaefaldy.com^
 ||skeojagroup.help^
-||skepron.click^
 ||skepsgirnal.qpon^
 ||sketbhang.guru^
 ||sketchdecime.cfd^
@@ -236452,7 +236765,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||skibidi.acebet.cc^
 ||skibidi.clash.gg^
 ||skibobsbucket.shop^
-||skicc.cn^
 ||skiddedtripledabbott.cfd^
 ||skiddylands.cyou^
 ||skidfqh.xyz^
@@ -236742,6 +237054,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||slbvjghvipanf.online^
 ||slc.cbssports.com^
 ||slc.commerce.naver.com^
+||slccoxulwhith.space^
 ||slckdomlqflj.com^
 ||slcuse.com^
 ||sldlv.top^
@@ -237018,6 +237331,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||slushycharacter.com^
 ||slut2fuck.net^
 ||slutcmail.com^
+||sluts.wtf/static/ad/
 ||slutymilf.net^
 ||sluvb.pelikamo.com^
 ||slview.psne.jp^
@@ -241594,6 +241908,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||smrtly.xyz^
 ||smrtmnk2.com^
 ||smrturl.co^
+||smrtwheel.com^
 ||smrvqincllvlp.website^
 ||sms-ads-in.heytapmobile.com^
 ||sms-ads-ru.heytapmobile.com^
@@ -241949,6 +242264,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||snmi.cn^
 ||snmi.cn^$third-party
 ||snmytvt.com^
+||snmyyrpkpsfan.space^
 ||snmzj.blade-city.com^
 ||snnd.co^
 ||sno1.snowrental.com^
@@ -242110,6 +242426,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||soaheeme.net^
 ||soahu1wnmt6l.www.replai.io^
 ||soak.pw^
+||soakweaseluniversal.com^
 ||soamaibeshoap.com^
 ||soamelxvleduv.space^
 ||soaneefooy.net^
@@ -242327,6 +242644,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||softdownloadgithub.icu^
 ||softdrinks.euvou.events^
 ||softedu.org^
+||softelektro.com^
 ||softenedimmortalityprocedure.com^
 ||softensdarkest.cfd^
 ||softentears.com^
@@ -242452,6 +242770,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||soklove.net^
 ||sokmil-ad.com^
 ||soknm.com^
+||sokol-kapitrost.com^
 ||sokrati.com^
 ||soksoznleowkf.website^
 ||sokuh.net^
@@ -242643,6 +242962,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||solucx.com.br^
 ||solujav.my^
 ||solumaticsac.com^
+||solumclochan.qpon^
 ||solusobdurearapaho.qpon^
 ||solutejoss.cfd^
 ||solution-capital.com^
@@ -243071,6 +243391,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||songslunger.com^
 ||songsongyun.com/ads/
 ||songsterritory.com^
+||songsulna.cyou^
 ||songtopbrand.com^
 ||songzong.com^
 ||sonic-nicehands.com^
@@ -243430,6 +243751,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||sovrn.com^$third-party
 ||sovuyibacinnb.space^
 ||sowa.carhartt.com^
+||sowaswillichauch.de^
 ||sowelsnock.cyou^
 ||sowgou.com.cn^
 ||sowlettuce.com^
@@ -243914,6 +244236,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||speederproshop-ss.checkoutera.com^
 ||speedgamer.top^
 ||speedingdeadlyplays.com^
+||speedingdetectedreluctant.com^
 ||speedingstale.com^
 ||speedmydata.com^
 ||speednetwork14.com^
@@ -244352,6 +244675,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||sponsored-ads.amazon.com^
 ||sponsored-ads.amazon.es^
 ||sponsored-ads.amazon.fr^
+||sponsored-ads.amazon.in.alphionsee.in^
 ||sponsored-ads.amazon.in^
 ||sponsored-ads.amazon.it^
 ||sponsored.com^
@@ -244515,6 +244839,8 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||spotdiamonds.com^
 ||spotforlee.com^
 ||spotgee.com^
+||spoticar-ee-server-side-tagging-prod-406671236336.europe-west9.run.app^
+||spotify-web-player-clone.webflow.io^
 ||spotiifyprimesnova.ct.ws^
 ||spotiplus.xyz^
 ||spotlersearchanalytics.com^
@@ -244561,6 +244887,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||sprachgenie.at^
 ||sprachreiseshop.de^
 ||sprainttethstozer.qpon^
+||spraithghosted.qpon^
 ||sprangfunk.com^
 ||spranglacklesslackless.com^
 ||sprangromefoetus.com^
@@ -244767,6 +245094,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||sqmazf.workamajig.com^
 ||sqmkylfwprpms.space^
 ||sqmn4wncty.com^
+||sqnffqhbkkqgw.space^
 ||sqoo.co^
 ||sqouterr.com^
 ||sqoutout.com^
@@ -252266,6 +252594,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||stadig.ifeng.com^
 ||stadiumstage.com^
 ||stadiumzoo.net^
+||stadsug.com^
 ||stadtplan-local.com^
 ||staff.livedoor.blog/slot-fallback$script
 ||staffboozerenamed.com^$~third-party
@@ -256012,6 +256341,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||static.wondenthaitings.com^
 ||static.ws.apsis.one^
 ||static.wwoz.org^
+||static.xcafe.com/adm/
 ||static.xshuyaya.com/m/d.js
 ||static.xyconversation.org^
 ||static.yieldradius.io^
@@ -259003,7 +259333,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||stockingsleet.com^
 ||stockingsneeze.com^
 ||stockio.shop^
-||stocknir.site^
 ||stockpair.com^
 ||stockpresentsauspice.com^
 ||stocks-analytics-events.apple.com^
@@ -259141,6 +259470,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||store.esquirrel.at^
 ||store.galyxia.com^
 ||store.insafbookhouse.com^
+||store.kestrelby.com^
 ||store.litebite.ae^
 ||store.megads.store^
 ||store.penryair.com^
@@ -259238,6 +259568,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||stoutyear.com^
 ||stovearmpitagreeable.com^
 ||stovenbased.qpon^
+||stovenmors.cfd^
 ||stoveslodgers.cyou^
 ||stovoori.net^
 ||stowagegentil.com^
@@ -260759,7 +261090,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||suntr.shop^
 ||suntrustoverdraftclassaction.e.epiqnotification.com^
 ||sunuabuahgfsd.space^
-||sunvior.click^
 ||sunwayspulianunstiff.qpon^
 ||sunwayzingierlenaean.qpon^
 ||sunxiunxmak.xyz^
@@ -261339,6 +261669,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||svjpghwlxvmgv.online^
 ||svjpq.samedelman.ca^
 ||svk-native.ru^
+||svkxsriketxxc.space^
 ||svlepipcewecn.website^
 ||svlitnlsrnrfg.website^
 ||svljbpyjjnmkj.site^
@@ -261909,7 +262240,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||swornlaughruined.com^
 ||swosamajzal.com^
 ||swottedplaidie.com^
-||swounsdivell.life^
 ||swovtny444.com^
 ||swp-trcj.bid^
 ||swpsvc.com^
@@ -261918,6 +262248,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||swqmuo.icu^
 ||swquaticfx.info^
 ||swrhddilmlyyt.site^
+||swriftibcacgq.space^
 ||swrksnogbbojn.online^
 ||swrve.com^
 ||sws.smart-brain555.com^
@@ -264206,7 +264537,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||tags.martinoticias.com^
 ||tags.mashaalradio.com^
 ||tags.master-perf-tools.com^
-||tags.mattressfirm.com.greylabeldelivery.com^
 ||tags.mattressfirm.com^
 ||tags.mindbodyonline.com^
 ||tags.mlytics.com^
@@ -265854,6 +266184,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||tdgobe.magazine.urth.co^
 ||tdgobe.uk.urth.co^
 ||tdgobe.urth.co^
+||tdgrop168.vip^
 ||tdgubsetqwufm.online^
 ||tdgvugryo.com^
 ||tdhcdlnvrhyyj.site^
@@ -266253,6 +266584,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||tecnews.site^
 ||tecsst.fascedacapitano.it^
 ||tectrixsnavvle.com^
+||teczafondvelai.com^
 ||teczbq.amicashop.com^
 ||teczoonbdxxug.site^
 ||ted-bakerdeutschland.de^
@@ -266380,6 +266712,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||teksishe.net^
 ||tekstile-illusioner.dk^
 ||tektosnuthook.shop^
+||tekyaferule.shop^
 ||tel-goal.com^
 ||tel-tel-fie.com^
 ||tel.shottr.cc^
@@ -266474,11 +266807,9 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||telemetry.adblockplus.org^
 ||telemetry.adobe.io^
 ||telemetry.affine.run^
-||telemetry.aft.amazon.dev^
 ||telemetry.airbnb.net^
 ||telemetry.algolia.com^
 ||telemetry.am.pictet.com^
-||telemetry.analogtools.io^
 ||telemetry.antediluvianinteractive.com^
 ||telemetry.anytype.io^
 ||telemetry.aok-systems.de^
@@ -266644,6 +266975,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||telemetry.koronapay.com^
 ||telemetry.kpn.sgc-services.com^
 ||telemetry.leantime.io^
+||telemetry.lensa.paltabrain.com^
 ||telemetry.liquidswords.net^
 ||telemetry.liv.tv^
 ||telemetry.live.infotech.de^
@@ -266739,6 +267071,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||telemetry.secure.roche.com^
 ||telemetry.seelen.io^
 ||telemetry.seeq.com^
+||telemetry.semgrep.dev^
 ||telemetry.sentara.com^
 ||telemetry.sentarahealthplans.com^
 ||telemetry.sercib.dev^
@@ -266857,7 +267190,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||tellynativescalumny.com^
 ||tellystick-ss.checkoutera.com^
 ||tellystick-ss.dealshopa.com^
-||telmox.click^
 ||telpay.fr^
 ||telphiruq.com^
 ||teltdnnvbbmxq.online^
@@ -267525,6 +267857,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||tfzzy4objtvy6.hlzn71bh261zzgrtx8vklvgp3q.cyou^
 ||tg-ad-lgsmartad-com.aws-prd.net^
 ||tg.coffeeandbibletime.com^
+||tg.loclog.cn^
 ||tg.me^
 ||tg.meitu.com^
 ||tg.minfin.com.ua^
@@ -268067,6 +268400,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||theonecdn.com^
 ||theonepercentcommunity.com^
 ||theonesstoodtheirground.com^
+||theonlygames.com^
 ||theopenpathology.click^
 ||theorcaslicer.com^
 ||theordinarys.at^
@@ -268691,7 +269025,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||thyselacknown.com^
 ||thyselfbridled.cfd^
 ||thyssengas-matomo.devinprogress.de^
-||thyvurika.pro^
 ||thzowqlddhevp.space^
 ||thzqzvwmpxrdm.website^
 ||thztv.*/tool/
@@ -268999,7 +269332,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||tikishopping.shop^
 ||tikislifeyotarian.cfd^
 ||tikita-kasi55.xyz^
-||tikitaka-bet.fr^
 ||tikitaka-fr.fr^
 ||tikivideo.com^
 ||tikivip.club^
@@ -269061,6 +269393,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||tilstupi.in^
 ||tilt.bankofamerica.com^
 ||tiltgardenheadlight.com^
+||tilthsjamshidabraser.cfd^
 ||tiltonbots.com^
 ||tiltott.net^
 ||tilttrk.com^
@@ -270713,7 +271046,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||tonalnaoswraths.cyou^
 ||tonchearth.pro^
 ||tondeusediscount.com^
-||tondex.click^
 ||tondratex.com^
 ||tonedo.de^
 ||tonefuse.com^
@@ -271302,7 +271634,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||tosswealthy.com^
 ||tossylibant.shop^
 ||tot.taxi^
-||total-casino.fr^
 ||totaladblock.com^
 ||totaladperformance.com^
 ||totalav.com^
@@ -271441,6 +271772,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||towersmechanism.com^
 ||towertraffic.top^
 ||towghtruinershahs.cyou^
+||towievisited.cfd^
 ||towing-desoto.top^
 ||townertest.shop^
 ||townhallmeetingzoom.org^
@@ -273989,6 +274321,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||track.social.com^
 ||track.sodapdf.com^
 ||track.software-codes.com^
+||track.sohu.com.dsa.dnsv1.com.cn^
 ||track.sohu.com^
 ||track.solutions.ostechnology.co.jp^
 ||track.solventum.com^
@@ -274399,7 +274732,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||tracker.revip.info^
 ||tracker.ris.promo^
 ||tracker.rtb-pinklion.io^
-||tracker.rtb-pubwise.io^
 ||tracker.samplicio.us^
 ||tracker.secretescapes.com^
 ||tracker.selectivv.com^
@@ -274480,6 +274812,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||trackfr.help^
 ||trackfr.top^
 ||trackgdi.com^
+||trackhaven.com^
 ||trackhup.com^
 ||tracki.click^
 ||trackicollect.ibase.fr^
@@ -276388,7 +276721,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||tradplusad.net^
 ||trads.io^
 ||traductordebinario.com^
-||tradven.digital^
 ||tradx.top^
 ||traesury-mtb24.com^
 ||traf.biz^
@@ -278559,6 +278891,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||truthaboutyem.com^
 ||truthburlap.com^
 ||trutheyesstab.com^
+||truthful-kiss.pro^
 ||truthfulcan.pro^
 ||truthfuldrawer.pro^
 ||truthfullybrickbravely.com^
@@ -278653,6 +278986,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||tryzens-analytics.com^
 ||trzaxer.42web.io^
 ||trzer-io.kb.help^
+||trzon-rendownia.net^
 ||trzorisuite.m-pages.com^
 ||trztrk.us^
 ||trzzolcmtmqkq.space^
@@ -279314,7 +279648,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||tunatastesentertained.com^
 ||tundevelluckeed.com^
 ||tundrafolder.com^
-||tundrak.click^
 ||tundrasetas.com^
 ||tune-up.site^
 ||tune.sckmediatv.com^
@@ -279908,6 +280241,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||twsvdeyqvfxjd.website^
 ||twunbbs.com/images/
 ||twvgoaewdmluf.online^
+||twvoyaztpksnp.site^
 ||twvsdn.icu^
 ||twwarolhgextk.online^
 ||twwbgrbfuezvu.site^
@@ -280388,6 +280722,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||u655vlo5.xyz^
 ||u65erdf-gre.com^
 ||u660.theheraldreview.com^
+||u67qpnaexu.com^
 ||u6uy9lzdcj.com^
 ||u6yzoru6u.com^
 ||u7do.sbs^
@@ -280956,6 +281291,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||ufeonk.viravira.co^
 ||uferstreekseche.qpon^
 ||ufeuca.icu^
+||ufevkhzatjnfa.online^
 ||uffugim.run^
 ||ufgg55.xyz^
 ||ufgsz.kiki.world^
@@ -281219,6 +281555,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||uighnhsbatmdf.store^
 ||uighurestopamiga.qpon^
 ||uigwgn.france-abonnements.fr^
+||uigxkdqdouweq.online^
 ||uii.io^
 ||uiibaovaebfaj.online^
 ||uiikqirdiessi.love^
@@ -281500,12 +281837,14 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||ulkfvwizkfbml.site^
 ||ulkle.kwikhang.com^
 ||ulkoxbra.com^
+||ulku3brwqn38on.rest^
 ||ulla.com^
 ||ullis-airbrush-shop.de^
 ||ullis-immo.com^
 ||ulljqegjdoqmt.store^
 ||ullmqufjprrcd.space^
 ||ullps.simplynootropics.com.au^
+||ullrqcoqifslu.space^
 ||ulm-news.de/image/banners
 ||ulmatehalmmiae.cyou^
 ||ulmoyc.com^
@@ -281746,6 +282085,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||umami.app.lescreanautes.fr^
 ||umami.app.meteo.fi^
 ||umami.apps.joinux.fr^
+||umami.apps.kumekay.com^
 ||umami.apps.perfectline.dev^
 ||umami.appsero.com^
 ||umami.apree-tech.com^
@@ -281786,7 +282126,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||umami.captaincoaster.com^
 ||umami.carasso-nadlan.co.il^
 ||umami.carmignac.com^
-||umami.cat-dcloud.com^
 ||umami.cdtools.click^
 ||umami.cerbero.cc^
 ||umami.cgmagonline.com^
@@ -282000,6 +282339,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||umami.nimbusws.com^
 ||umami.ninerealmlabs.com^
 ||umami.nintendo-online.de^
+||umami.nodeforum.org^
 ||umami.nono-events.de^
 ||umami.nootica.fr^
 ||umami.nordiskehandel.cloud^
@@ -282195,6 +282535,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||umbrielfeasor.qpon^
 ||umbro-deutschland.de^
 ||umbrodk.com^
+||umbroussplay.shop^
 ||umc.danuoyi.alicdn.com^
 ||umccle.traktorpool.hu^
 ||umcicv.europcar.com^
@@ -282641,6 +282982,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||uni7.uniplaces.com^
 ||uniads.net^
 ||uniandk.icu^
+||uniaxes.com^
 ||unibetcasino777.net^
 ||unibetcasinomt.xyz^
 ||unibody.zauberportal.com^
@@ -282845,6 +283187,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||universityroadsidecircumstantial.com^
 ||universityshocksooner.com^
 ||universityslap.com^
+||universjouets.com^
 ||univevry.fr^
 ||univlyon2.fr^
 ||univparis1.fr^
@@ -282869,6 +283212,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||unkempt-spirit.com^
 ||unkemptbirth.com^
 ||unkemptlecture.com^
+||unkeyedstoped.shop^
 ||unkfrqeoymzbw.online^
 ||unkindpendulum.com^
 ||unknewandricingrave.cyou^
@@ -282999,6 +283343,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||unqhkzpybojsw.website^
 ||unqloutlet.shop^
 ||unqsnzyrsdkuz.website^
+||unqtchbjwhgrg.space^
 ||unqvaof.xyz^
 ||unqxeekhpyfyq.online^
 ||unrazedkittool.cyou^
@@ -283137,6 +283482,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||untidyrice.com^
 ||untiedchalaurelia.qpon^
 ||untiested.com^
+||untighttheyve.shop^
 ||untiingaplombs.cyou^
 ||untiingterton.com^
 ||untileakin.qpon^
@@ -283203,6 +283549,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||unwelcometry.pro^
 ||unwelcomeunmovedaboard.com^
 ||unwellcen.qpon^
+||unweptamyris.cfd^
 ||unwieldyhealth.com^
 ||unwieldyimpulse.com^
 ||unwieldyplastic.com^
@@ -283881,6 +284228,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||urocystfoozler.cyou^
 ||urogrambaskets.cyou^
 ||urogyn.co.uk^
+||urophimahuaaedilic.cyou^
 ||uropodobolet.cfd^
 ||uroqgj.wind.it^
 ||urorobles.com^
@@ -284250,6 +284598,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||uspe4j25v6.com^
 ||usphfiona.com^
 ||uspickleballpaddle.com^
+||uspider.yuanshen.com^
 ||usplaythings.com^
 ||uspltmnovyy.com^
 ||usprod-knoxlog.secb2b.com^
@@ -285033,6 +285382,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||uujhveglpo.xyz^
 ||uukhn215.vip^
 ||uulucky.com^
+||uulvgcsjoidbh.space^
 ||uumbahniwkyki.space^
 ||uumkcycj.com^
 ||uunczm.lescon.com.tr^
@@ -285732,6 +286082,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||valestimulatesettle.com^
 ||valestumble.com^
 ||valeswavably.qpon^
+||valetedtighter.qpon^
 ||valetselflesscomb.com^
 ||valetturbulentwonderfully.com^
 ||vali-g1.cp31.ott.cibntv.net^
@@ -285848,6 +286199,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||vanderweelegroup.com^
 ||vandoxo.com^
 ||vanea-barfussschuhe.com^
+||vaneyieldarch.net^
 ||vanffali.com^
 ||vanfireworks.com^
 ||vang11.com^
@@ -285958,6 +286310,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||varilo.nl^
 ||variouscreativeformats.com^
 ||variousformatscontent.com^
+||variousjoyfully.com^
 ||variova.de^
 ||variti.net^
 ||variwi.com^
@@ -288241,6 +288594,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||villentoonlinecasino.org^
 ||villepariis.fr^
 ||villeroy-outlets.shop^
+||villoserebused.cyou^
 ||vilnv.gathre.com^
 ||vilora.nl^
 ||vilow.de^
@@ -288452,6 +288806,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||vipshopee.cc^
 ||vipshopee.com^
 ||vipsj.zgallerie.com^
+||vipsnotoire.cyou^
 ||vipspotflirts.life^
 ||vipsupport-eu.com^
 ||vipticketgiveaway.com^
@@ -288556,6 +288911,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||virtuelle-analysen.de^
 ||virtuelle-apotheke.de^
 ||virtuesmodes.cfd^
+||virtuosomercovia.net^
 ||virtuosoplasmodium.shop^
 ||virtuous-beer.com^
 ||virusinfo-cloudscan-cn.heytapmobi.com^
@@ -289684,7 +290040,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||volts.shopping.naver.com^
 ||volture.de^
 ||voltus-elektroshop.de^
-||voltwrap.site^
 ||volume.vytalise.co.uk^
 ||volume.vytalise.eu^
 ||volume68.top^
@@ -289937,6 +290292,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||voyagedearanatomy.com^
 ||voyageedgyglass.com^
 ||voyagemonitoring.com^
+||voyager-telemetry-poc-prod-415691916567.s3.amazonaws.com^
 ||voyagerspays.qpon^
 ||voyagessansei.com^
 ||voyeurdisruly.com^
@@ -290096,6 +290452,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||vqiwjqdulmzur.space^
 ||vqjacf.mauriziocollectionstore.com^
 ||vqjtieoz.icu^
+||vqjxckklhqfjv.website^
 ||vqk0h1xb.xyz^
 ||vqkffynxyptrx.online^
 ||vqkusfxadcdll.website^
@@ -290277,6 +290634,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||vsjvq.headstrongltd.com^
 ||vskewwuoda.com^
 ||vskfhfqsvurqy.online^
+||vsksdftatdnwg.site^
 ||vsl-track.com^
 ||vsl.eedn.fr^
 ||vslbm.berries.com^
@@ -290436,6 +290794,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||vtxutkucrrxoj.website^
 ||vtyfzokadxi.com^
 ||vtygazmid.com^
+||vtygcvzmvchms.online^
 ||vtyhisondajb.in^
 ||vtyl50.com^
 ||vtyusrunq.com^
@@ -290962,6 +291321,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||vzwxvmcdcioid.space^
 ||vzxanjusfczgl.site^
 ||vzxbykcqdqzet.site^
+||vzxdzrbzeesko.site^
 ||vzydopxwdqnqt.space^
 ||vzynem.lamporochljus.se^
 ||vzzaelhtofrwm.site^
@@ -291302,6 +291662,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||waggonerchildrensurly.com^
 ||waggonerprepay.com^
 ||waggonertributeshaky.com^
+||waghgasheduranic.qpon^
 ||waghth.democrata.com.br^
 ||wagisz.com^
 ||waglessofe.com^
@@ -291403,6 +291764,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||wal.wolfram.com^
 ||waladon.com^
 ||waldenfarms.com^
+||waldesstille.com^
 ||waldgewandt.de^
 ||waldmannmode.de^
 ||waldorfmode.com^
@@ -291730,6 +292092,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||wasc.kaufland.ro^
 ||wascheparfume.de^
 ||waschzone.com^
+||wasentdemstuh.online^
 ||wasfilledwi.com^
 ||wasghz.lametayel.co.il^
 ||wasgiwiththinleld.org^
@@ -292106,6 +292469,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||wcgsk.promixnutrition.com^
 ||wchb264t1v153g3p4t54oekq.rest^
 ||wchjfv.apartmenttherapy.com^
+||wchkbyhrxwtig.site^
 ||wchypueyeounn.space^
 ||wcihajbpyo.com^
 ||wcijkuaf.com^
@@ -293719,6 +294083,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||weirdergapes.shop^
 ||weirdopt.com^
 ||weirdsentence.com^
+||weirdusual.pro^
 ||weirong.cc^
 ||weishi.baidu.com^
 ||weisseres-lacheln.at^
@@ -293868,7 +294233,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||weltshop24.com^
 ||welttrikot.com^
 ||weltweit-akkus.de^
-||welvark.site^
 ||wemakebestnews.com^
 ||wemass.com^
 ||wemidwestkids.com^
@@ -294556,6 +294920,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||whoanebsos.net^
 ||whoaremyfriends.com^
 ||whoaremyfriends.net^
+||whoayawnupspun.cfd^
 ||whobiglauni.net^
 ||whocheeseskg.cyou^
 ||whoeverbeyond.com^
@@ -295583,6 +295948,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||wlibaquyngwcbi.com^
 ||wliiymn.icu^
 ||wlink2.com^
+||wlj9jryu58q26b1p91z7.rest^
 ||wlkkta.lifewarehouse.net^
 ||wlkojk.orange.ro^
 ||wllhjebhtcrjz.space^
@@ -296051,6 +296417,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||woofz.academy^
 ||woogoust.com^
 ||wooguwhede.net^
+||woohookbepsom.cfd^
 ||wooinggashest.qpon^
 ||wookapjvpowjy.website^
 ||wooldedapitong.qpon^
@@ -296505,6 +296872,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||wqbghtlchfeir.online^
 ||wqbuwbiuowblc.store^
 ||wqdipiowksmm.com^
+||wqdkbbkdypdgl.space^
 ||wqdro6us.icu^
 ||wqdwork.com^
 ||wqefjlpihnnqy.site^
@@ -296652,6 +297020,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||writhehawm.com^
 ||writhembowel.shop^
 ||writhenabreast.cyou^
+||writhercohunes.cfd^
 ||writhingwitness.pro^
 ||writingcalls.com^
 ||writingcauliflower.com^
@@ -296948,6 +297317,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||wu.idismfonts.com^
 ||wu2088-603.shop^
 ||wuaafacwszsqh.store^
+||wuaytkxcttkth.online^
 ||wubizigeng.com^
 ||wuccapli.com^
 ||wucdrynukof.in^
@@ -297257,6 +297627,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||www-analytics.esa.int^
 ||www-analytics.ripe.net^
 ||www-askfollow-us.translate.goog^
+||www-aviamasters.fr^
 ||www-banner.chat.ru^
 ||www-cn-google.org.cn^
 ||www-dnwx-com.anquanbao.cn/pic
@@ -297555,6 +297926,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||www.bnnr.nl^
 ||www.board-ly.com^
 ||www.boat3deer.com^
+||www.bocastyle.com^
 ||www.bodog.eu^
 ||www.bolt8snap.com^
 ||www.bonuxsarrive.com^
@@ -298783,6 +299155,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||www.roofcoins.com^
 ||www.rote8mino.com^
 ||www.roulettebotplus.com^
+||www.roundtopbooks.com^
 ||www.rpepin.plus.com^
 ||www.rplconnect.com^
 ||www.rtcode.com^
@@ -299526,6 +299899,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||wwwzalando.de^
 ||wwxeyxdyyitzl.space^
 ||wwxufo.com^
+||wwybnluigynb.com^
 ||wwyoyuutoudbf.space^
 ||wwzdid.adzuna.de^
 ||wwznejoelup4ylcfm6bozw7h.rest^
@@ -301160,6 +301534,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||xinshijue6080.com/Runtime/js/
 ||xinshijue6080.com/gg
 ||xinshijueba.com/js/home/
+||xintndhlggczz.space^
 ||xinwenren.com/index.php?m=poster&
 ||xinxinmingml.com^
 ||xinyi.com/Public/config/Couplet/Index39.js
@@ -301245,6 +301620,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||xjkpzh.voraxacessorios.com.br^
 ||xjkugh.waterdropfilter.com^
 ||xjl2ts2q6a.com^
+||xjlkyxmyhxauf.site^
 ||xjloohywddakb.website^
 ||xjlysh.com^
 ||xjmdtacpndbgkl.com^
@@ -302890,6 +303266,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||xxmckl.proidee.co.uk^
 ||xxmcqrhazltss.space^
 ||xxmh456.com^
+||xxmh562.com^
 ||xxmh645.com^
 ||xxmwlprw.com^
 ||xxniln.xyz^
@@ -303368,6 +303745,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||yanadu.click^
 ||yanbaike.com^
 ||yanbkkbxjguvf.website^
+||yandex.avito.avito.pay.booking.id05196219.com^
 ||yandex.com/ads/$domain=playhop.com
 ||yandex.com/ads/system/context.js
 ||yandexadexchange.net^
@@ -305360,6 +305738,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||ytelegram.com^
 ||yterxv.com^
 ||ytgfwl2oh361p55rqlbbr.cfd^
+||ytgqhzfahpcep.site^
 ||ythebyre.top^
 ||ythingy.com^
 ||ytibejpiwuucg.online^
@@ -305581,6 +305960,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||yurobl.rw-co.com^
 ||yurzldtomaeic.site^
 ||yus-air.com^
+||yusassisa.cyou^
 ||yusgoonbncwiu.site^
 ||yushikeng.com^
 ||yushuha.com^
@@ -305754,6 +306134,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||ywums.compensation.help^
 ||ywuwphcithuaj.space^
 ||ywuzuazsjnzto.online^
+||ywvnucjtczvhy.website^
 ||ywxanyoenzcoo.website^
 ||ywxkuh.street-moto-piece.fr^
 ||ywyakfjnj.com^
@@ -306283,9 +306664,9 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||zalori.de^
 ||zaloweb.pro^
 ||zaloz-netia.pl^
-||zalphin.click^
 ||zalrurtauba.net^
 ||zalukaj-film.pl^
+||zalukaj-pl.tv^
 ||zalukaj-vip.pl^
 ||zalukaj.app^
 ||zalukaj.cc^
@@ -306455,6 +306836,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||zaxid.net/assets/lib/pushSubscription.js
 ||zaxotqbukoj.com^
 ||zaxpujarb.com^
+||zaxqcyqhaqcy.in^
 ||zay7gs1xkl.com^
 ||zaynay.com^
 ||zaytung.com/images/radore
@@ -306561,7 +306943,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||zcbsft.thedoublef.com^
 ||zcchyr*.xyz^
 ||zcchyw*.xyz^
-||zcchywruyc.xyz^
 ||zcck60eqyw.world^
 ||zcck60qyw.xyz^
 ||zcck60wqyw.xyz^
@@ -306963,6 +307344,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||zeroglamour.com^
 ||zerokoi.jp^
 ||zerolcp.cn^
+||zerologicspace.com^
 ||zeropark.com^
 ||zeropartyforms.com/*/lightbox.js
 ||zeropayreg.ru^
@@ -307423,6 +307805,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||ziffstatic.com/pg/
 ||zifrppvunuhag.site^
 ||zifyeldq.top^
+||zigankafer.cfd^
 ||zigansherpa.com^
 ||zigaretten-bestellen.net^
 ||zigaretten-steuerfrei-bestellen.com^
@@ -308098,6 +308481,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||zontqiwjmdzbv.space^
 ||zonulassacaespaer.cfd^
 ||zonupiza.com^
+||zonuretiglonsungodly.cfd^
 ||zonxiebamboo.com^
 ||zonyff.xyz^
 ||zoograithavaupy.net^
@@ -308422,6 +308806,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||zsleznwqqjcjw.site^
 ||zslhmw.com^
 ||zslmueggcjatn.website^
+||zslnecbjutu.com^
 ||zsmsuwmifkrqv.online^
 ||zsnfdphz.com^
 ||zsnglvovwzepa.space^
@@ -308466,7 +308851,6 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||zt-uc-baidu.cc^
 ||zt-za.fr^
 ||zt.chuanke.com/?mod=
-||zt.dorselfirepan.qpon^
 ||zt.gifshow.com^
 ||zt.me.zing.vn^
 ||zt00.com^
@@ -308687,6 +309071,7 @@ zzyiwan.com##div[style="width: 100%; overflow: hidden; padding-top: 0px; positio
 ||zuzqimlzioj.com^
 ||zuzrwanpi.in^
 ||zuzu.zuzufashionwear.com^
+||zv.bodleanarcho.com^
 ||zv.inlinegiggly.top^
 ||zv.spiralsducky.top^
 ||zv5f.beauregion.com^
