@@ -1,5 +1,5 @@
 ! YT merged AdGuard allowlist
-! Generated: 2026-07-25
+! Generated: 2026-07-26
 ! Sources: enabled upstream allowlists + custom allow rules + upstream allow exceptions
 
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
@@ -14811,7 +14811,7 @@
 @@||marketplace.xbox.com^
 @@||marketplace.xbox.com^$document
 @@||martech.condenastdigital.com/lib/martech.js$domain=wired.com
-@@||martech.condenastdigital.com/lib/martech.js$script,domain=wired.com
+@@||martech.condenastdigital.com/lib/martech.js$script,domain=cntraveler.com|wired.com
 @@||martinfowler.com/articles/asyncJS.css$stylesheet,~third-party
 @@||mashtips.com/wp-content/plugins/ad-inserter/*/*.js
 @@||mashtips.com/wp-content/plugins/ad-inserter/images/ads.png
