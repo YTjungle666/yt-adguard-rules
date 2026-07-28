@@ -1,5 +1,5 @@
 ! YT merged AdGuard allowlist
-! Generated: 2026-07-27
+! Generated: 2026-07-28
 ! Sources: enabled upstream allowlists + custom allow rules + upstream allow exceptions
 
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
@@ -7788,7 +7788,10 @@
 @@||api.cafeyn.co/users/$stealth=referrer
 @@||api.channel.io/front/$stealth=useragent,domain=laftel.net
 @@||api.chartbeat.com^$script,domain=financialpost.com|wcpo.com|couriermail.com.au|betabeat.com
+@@||api.clerk.io/v*/log/$domain=apotera.no
 @@||api.clerk.io/v*/log/$domain=avxperten.at|avxperten.be|avxperten.com|avxperten.cy|avxperten.cz|avxperten.de|avxperten.dk|avxperten.ee|avxperten.es|avxperten.fi|avxperten.fr|avxperten.gr|avxperten.hr|avxperten.hu|avxperten.it|avxperten.lt|avxperten.lu|avxperten.lv|avxperten.nl|avxperten.no|avxperten.pl|avxperten.pt|avxperten.ro|avxperten.se|avxperten.si|avxperten.sk
+@@||api.clerk.io/v*/log/$domain=industrivarer.no
+@@||api.clerk.io/v*/log/$domain=jaktdepotet.no
 @@||api.clerk.io/v*/log/click?$domain=fjellandhandel.no
 @@||api.clerk.io/v*/log/click?payload=$domain=ringo.no
 @@||api.cognitive.microsofttranslator.com/translate?
@@ -10133,6 +10136,7 @@
 @@||d2o03z2xnyxlz5.cloudfront.net^|$xmlhttprequest,domain=kbjfree.com
 @@||d2qnx6y010m4rt.cloudfront.net^|$xmlhttprequest,domain=kbjfree.com
 @@||d2r1yp2w7bby2u.cloudfront.net/js/clevertap.min.js$domain=tatacliq.com
+@@||d2rs.com^$subdocument,stealth=referrer,domain=jetfilmizle.*
 @@||d2ujtyf7wfmq6y.cloudfront.net/ads/ads.html$domain=reisefrage.net|motorradfrage.net|autofrage.net|sportlerfrage.net|gesundheitsfrage.net|finanzfrage.net|computerfrage.net|gutefrage.net
 @@||d2wy8f7a9ursnm.cloudfront.net/v8/bugsnag.min.js$script,domain=forecastapp.com
 @@||d2zf5gu5e5mp87.cloudfront.net^$script,domain=ebaticalfel.com
@@ -11760,7 +11764,6 @@
 @@||google-analytics.com/analytics.js$domain=fiatclub.eu
 @@||google-analytics.com/analytics.js$domain=flazio.com
 @@||google-analytics.com/analytics.js$domain=flyingv.cc
-@@||google-analytics.com/analytics.js$domain=freecoursesonline.me
 @@||google-analytics.com/analytics.js$domain=frenchfrysoftware.com
 @@||google-analytics.com/analytics.js$domain=gala.fr
 @@||google-analytics.com/analytics.js$domain=game-owl.com
@@ -12701,6 +12704,7 @@
 @@||googletagservices.com/tag/js/gpt.js$domain=phonearena.com
 @@||googletagservices.com/tag/js/gpt.js$domain=proximus.be
 @@||googletagservices.com/tag/js/gpt.js$domain=scotsman.com,badfilter
+@@||googletagservices.com/tag/js/gpt.js$domain=smart.siendu.com
 @@||googletagservices.com/tag/js/gpt.js$domain=techrepublic.com
 @@||googletagservices.com/tag/js/gpt.js$domain=thestar.co.uk
 @@||googletagservices.com/tag/js/gpt.js$domain=topuniversities.com
@@ -13128,7 +13132,6 @@
 @@||hypercomments.com/api/comments?widget_id=$stealth=referrer
 @@||hypercomments.com/api/login?$stealth=3p-cookie
 @@||hypercomments.com/auth/$stealth=3p-cookie
-@@||hyperdebrid.net^$generichide
 @@||i*.gmx.com/image
 @@||i*.imagetwist.com^$image,domain=imagetwist.com
 @@||i-funbox.com/images/
@@ -13215,7 +13218,7 @@
 @@||idahostatesman.com^$generichide
 @@||idealsilhouette.com^$generichide
 @@||identity.mparticle.com/v*/identify$domain=cwseed.com
-@@||identity.mparticle.com/v*/identify$domain=nbc.com|amcplus.com
+@@||identity.mparticle.com/v*/identify$domain=nbc.com|amcplus.com|ifc.com
 @@||identity.mparticle.com/v1/identify$domain=cwtv.com
 @@||identity.mparticle.com^$xmlhttprequest
 @@||identity.oraclecloud.com//sso/v*/sdk/authenticate$stealth=3p-auth,domain=v2.ereg.ets.org
@@ -14111,7 +14114,7 @@
 @@||jsrdn.com/s/$script,domain=distro.tv
 @@||jssdkcdns.mparticle.com/js/v*/*/mparticle.js$domain=cwseed.com
 @@||jssdkcdns.mparticle.com/js/v*/*/mparticle.js$domain=cwtv.com
-@@||jssdkcdns.mparticle.com/js/v*/*/mparticle.js$domain=nbc.com|amcplus.com
+@@||jssdkcdns.mparticle.com/js/v*/*/mparticle.js$domain=nbc.com|amcplus.com|ifc.com
 @@||jssdkcdns.mparticle.com/js/v*/*/mparticle.js$domain=weather.com
 @@||jswenhui.com^*/ad/
 @@||jsxx.gds.edu.cn^$genericblock
@@ -16373,6 +16376,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=slink.bid
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=smallseotools.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=smallseotools.com,badfilter
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=smart.siendu.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=sms-receive.net
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=sms24.me|sms24.info
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=smsget.net
@@ -18929,6 +18933,7 @@
 @@||static.doubleclick.net/instream/ad_status.js$domain=linkneverdie.com
 @@||static.doubleclick.net/instream/ad_status.js$domain=nasdaqfutures.org,xmlhttprequest
 @@||static.doubleclick.net/instream/ad_status.js$domain=shineads.in
+@@||static.doubleclick.net/instream/ad_status.js$domain=smart.siendu.com
 @@||static.doubleclick.net/instream/ad_status.js$domain=sonixgvn.net
 @@||static.doubleclick.net/instream/ad_status.js$domain=stfly.biz
 @@||static.doubleclick.net/instream/ad_status.js$domain=techedubyte.com
@@ -20299,6 +20304,7 @@
 @@||videobuster.de/js/video-js/nuevo.min.js$domain=videobuster.de
 @@||videocore.tv/playlist.smil$document
 @@||videohidefree.online/embed/$stealth=referrer
+@@||videopark.top^$subdocument,stealth=referrer,domain=jetfilmizle.*
 @@||videoplayer.persgroep.be/v*/player/ad_smartads_.js
 @@||videoplaza.tv/creatives/assets*.mp4^$domain=expressen.se
 @@||videoplaza.tv/crossdomain.xml
