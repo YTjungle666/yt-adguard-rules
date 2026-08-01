@@ -1,5 +1,5 @@
 ! YT merged AdGuard allowlist
-! Generated: 2026-07-31
+! Generated: 2026-08-01
 ! Sources: enabled upstream allowlists + custom allow rules + upstream allow exceptions
 
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
@@ -153,13 +153,14 @@
 @@/\/[js].?[js]\/.*\.js/$script,xmlhttprequest,domain=rbtv77.*|live-streamfootball.*|superabbit77.*|superabbit33.*|superdom77.*|superlee77.*|superleo77.*|superargo77.*|superbarca77.*|linelocatemfsn.*|homebasis4d.*|mindmotion93y8.*|monkeynecktj4w.*|masterenjoyao.*|differenceprimitive85p.*|blewdiffera3j2.*|strangernervousql.*|leadmorning4ivn.*|somehowrockyng.*|currentcolorq2dv.*|determinemousecshe.*|publicspeed5c.*|limiteddollqjc.*
 @@/\/\d\d\d\d\d$/$xmlhttprequest,script,other,third-party,domain=jujmanga.com
 @@/\/\d{5,7}$/$domain=mylink.*|my1ink.*|myl1nk.*|myli3k.*
+@@/\/cdn\/(files|zone)\d?\//$media,third-party,match-case,stealth=referrer,domain=kimoitv.com
 @@/^https:\/\/127\.0\.0\.1:10039\/\?callback=jQuery[0-9]{20,}_[0-9]{13}&HW&[A-z0-9]{22}==&&0&0&/$stealth=referrer
 @@/^https:\/\/[a-z]\.pussyspace\.(?:com|net)\/(?:yip?|xvs)\/videos\/20\d{4}\/\d{2}\/\d{9}\/(?:original|thumbs_\d{2})\/\d{0,2}(?:\(m=e[0-9A-Za-z]{5,7}(?:aaaa)?\)\(mh=[-_0-9A-Za-z]{16}\))?\d{0,2}\.jpg$/$image,~third-party,domain=pussyspace.com|pussyspace.net
 @@/^https:\/\/[a-z]\.pussyspace\.(?:com|net)\/(?:yip?|xvs)\/videos\/thumbs169l\/[0-9a-f]{2}\/[0-9a-f]{2}\/[0-9a-f]{2}\/[0-9a-f]{32}(?:-\d)?\/[0-9a-f]{32}\.\d{1,2}\.jpg$/$image,~third-party,domain=pussyspace.com|pussyspace.net
 @@/^https:\/\/[a-z]\.pussyspace\.(?:com|net)\/(?:yip?|xvs)\/videos\/thumbs_5\/\d{1,2}(?:\(m=e[0-9A-Za-z]{5,7}aaaa\)\(mh=[-_0-9A-Za-z]{16}\))?\.jpg$/$image,~third-party,domain=pussyspace.com|pussyspace.net
 @@/^https:\/\/[a-z]\.pussyspace\.(?:com|net)\/[a-z]?jz\/(?:[0-9a-f]\/){3,5}[0-9a-f]{42}-?(?:\d{2,3}|(?:(?:\d{3,4}-){3}h264)?\.(?:mp4-\d{1,2}|flv-\d))\.jpg$/$image,~third-party,domain=pussyspace.com|pussyspace.net
 @@/^https:\/\/[a-z]\.pussyspace\.(?:com|net)\/sb\/t\/\d{6,8}\/\d\/\d\/w:300\/t\d{1,2}-enh\/(?:[0-9a-z]+-)*[0-9a-z]+\.jpg$/$image,~third-party,domain=pussyspace.com|pussyspace.net
-@@/^https:\/\/imgbb.zip\/ib\/[a-z0-9]{15}_[0-9]{10}\.jpg$/$image,third-party,stealth=referrer,domain=rogmovies.*|xprimehub.*|vegamovies.*|vegamovies.navy|rogmovies.cv|xprimehub.bond
+@@/^https:\/\/imgbb.zip\/ib\/[a-z0-9]{15}_[0-9]{10}\.jpg$/$image,third-party,stealth=referrer,domain=rogmovies.*|xprimehub.*|vegamovies.*|vegamovies.catering|rogmovies.cv|xprimehub.bond
 @@/^https:\/\/mshale\.com\/[a-f0-9]{8}\/[a-zA-Z0-9]+$/$match-case,stealth=referrer|searchqueries
 @@/^https:\/\/st\.pussyspace\.(?:com|net)\/upload\/cat\.image\/[_3a-z]{2,16}\.jpg$/$image,~third-party,domain=pussyspace.com|pussyspace.net
 @@/^https:\/\/st\.pussyspace\.(?:com|net)\/upload\/poster_img_url\/par\/c3Rhci9[%0-9A-Za-z]{16,32}&size_width\/par\/160\/l\.jpg$/$image,~third-party,domain=pussyspace.com|pussyspace.net
@@ -7249,6 +7250,7 @@
 @@||adservice.google.*/ddm/clk
 @@||adservice.google.com.tr/adsid/integrator.js$domain=playhub.com
 @@||adservice.google.com/adsid/integrator.js$domain=943thex.com
+@@||adservice.google.com/adsid/integrator.js$domain=943thex.com|logi.im
 @@||adservice.google.com/adsid/integrator.js$domain=961thebreeze.com
 @@||adservice.google.com/adsid/integrator.js$domain=ajdown.space
 @@||adservice.google.com/adsid/integrator.js$domain=logi.im
@@ -7902,6 +7904,7 @@
 @@||api.playstation.com^$stealth=3p-auth
 @@||api.pnd.gs/v*/sources/$domain=thenews.im
 @@||api.poki.com/ads/houseads/$domain=ninja.io
+@@||api.poki.com/ads/houseads/video/$domain=vectaria.io
 @@||api.prod.bunnings.com.au^$stealth=3p-auth
 @@||api.production.k8s.y3o.tv/*/video-ads/$domain=yallo.tv
 @@||api.rhombusads.com/v*/embed/check$domain=spin.com
@@ -8079,6 +8082,7 @@
 @@||asb.co.nz.ssl.d2.sc.omtrdc.net^$xmlhttprequest,domain=asb.co.nz
 @@||ascii.jp/img/ad/$image,~third-party
 @@||ashesofcreation.com/show-ad.js$script
+@@||ashrafidoria.com^$domain=links.olamovies.mov
 @@||asia-*.inside-graph.com^$domain=lenovo.com
 @@||asiangayporn.tv/embed/$stealth=referrer
 @@||asianporn.li^$generichide
@@ -8471,6 +8475,7 @@
 @@||billiongraves.com^$generichide
 @@||bills.clubs.nfl.com/assets/img/ads/
 @@||bin.bnbstatic.com^$stealth=referrer,domain=binance.com
+@@||bing.com/Passport.aspx
 @@||bing.com/Passport.aspx$document
 @@||bing.com/VisualSystem/AudioConsentInfo$xmlhttprequest,elemhide,jsinject,extension
 @@||bing.com/api/v*/Places/AutoSuggest?$stealth=referrer,domain=obi.de
@@ -9144,6 +9149,7 @@
 @@||cdn.jsdelivr.net/npm/*/fuckadblock.min.js$domain=theandroidpro.com
 @@||cdn.jsdelivr.net/npm/*/videojs-contrib-ads.min.js$domain=24ur.com
 @@||cdn.jsdelivr.net/npm/@thumbmarkjs/$domain=dienynas.tamo.lt
+@@||cdn.jsdelivr.net/npm/bootstrap-icons$stealth=referrer,domain=kimoitv.com
 @@||cdn.jsdelivr.net/npm/fingerprintjs2$domain=wannadep.com
 @@||cdn.jsdelivr.net/npm/fuckadblock*/fuckadblock.js$domain=shinden.pl
 @@||cdn.jsdelivr.net/npm/fuckadblock@3.2.1/fuckadblock.min.js
@@ -11495,6 +11501,7 @@
 @@||gceguide.com^$generichide
 @@||gcertificationcourse.com^$generichide
 @@||gdh.postcodeloterij.nl/gdltm.js$domain=vriendenloterij.nl
+@@||gdl.freegogpcgames.xyz^$generichide
 @@||gdr-online.com/adv/ads.js
 @@||gdr-online.com^$generichide
 @@||gedizperakende.com.tr^$stealth=dpi
@@ -13912,6 +13919,7 @@
 @@||ipv4.seeip.org/jsonip$domain=empire-streaming.app
 @@||iqiyi.com/*.html$stealth=webrtc
 @@||iqos.com^$stealth=ip
+@@||iqws-cds.intechiq.com/rest/$xmlhttprequest,stealth=3p-auth
 @@||irasutoya.blogspot.com^$generichide
 @@||irdeto.com/widevine/$stealth=3p-auth,domain=paramountplus.com|cbs.com
 @@||ireez.com^$generichide
@@ -15960,7 +15968,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl$domain=aiarticlespinner.co
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl$domain=ff14angler.com|logi.im
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=androidrepublic.org
-@@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=androidrepublic.org|apkmirror.com|b00.tw|boo.tw|cleodesktop.com|dl.ccbluex.net|freeopenvpn.org|hexviewer.iblogbox.com|lolalytics.com|onlinemschool.com|roaddir.com|smsget.net|streetdir.com|thewebflash.com|up-4ever.com
+@@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=androidrepublic.org|apkmirror.com|b00.tw|boo.tw|cleodesktop.com|dl.ccbluex.net|doitwell.tw|freeopenvpn.org|hexviewer.iblogbox.com|lolalytics.com|onlinemschool.com|roaddir.com|smsget.net|streetdir.com|thewebflash.com|up-4ever.com
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=apkmirror.com
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=bank-codes.com
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=cleodesktop.com
@@ -16715,7 +16723,7 @@
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=fx-24.xyz|userupload.net
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=herokuapp.com
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=hexviewer.iblogbox.com
-@@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=hexviewer.iblogbox.com|thebrickfan.com
+@@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=hexviewer.iblogbox.com|knowlet3389.blogspot.com|knowlet3389.blogspot.hk|knowlet3389.blogspot.jp|knowlet3389.blogspot.tw|mnighthk.net|thebrickfan.com|weithenn.org
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=kingofshrink.com
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=knowlet3389.blogspot.com|knowlet3389.blogspot.hk|knowlet3389.blogspot.jp|knowlet3389.blogspot.tw|mnighthk.net|weithenn.org
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=mhtviewer.booogle.net|kmlviewer.nsspot.net|epubreader.1bestlink.net|imagetotext.iblogbox.com
@@ -20215,6 +20223,7 @@
 @@||v.gqyy8.com:*.php?vid=$stealth=referrer
 @@||v.me/personal/assets/ntpagetag-$script
 @@||v.miguvideo.com^
+@@||v.poki-cdn.com^$domain=vectaria.io
 @@||v.shoosh.co^$media,stealth=referrer
 @@||v144.philanthropy.com/DG/DEFAULT/rest/rpc/
 @@||v16m-default.akamaized.net^
@@ -20432,7 +20441,7 @@
 @@||volces.com/*^upload$stealth=3p-auth
 @@||volces.com/*^upload$stealth=3p-cache
 @@||volvo-club.cz^$generichide
-@@||vox-xov-cdn-*.$xmlhttprequest,stealth=referrer,domain=nepu.to
+@@||vox-xov-cdn-*.$xmlhttprequest,stealth=referrer,domain=nepu.*
 @@||voxfm.pl^$generichide
 @@||voyeur-house.fun^$generichide
 @@||voyeurhit.com/related_videos.php
