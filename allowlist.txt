@@ -1,5 +1,5 @@
 ! YT merged AdGuard allowlist
-! Generated: 2026-08-01
+! Generated: 2026-08-02
 ! Sources: enabled upstream allowlists + custom allow rules + upstream allow exceptions
 
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
@@ -7778,6 +7778,7 @@
 @@||api.apple-mapkit.com^$stealth=3p-auth
 @@||api.asmr-*.com/api/$stealth=3p-auth
 @@||api.athom.com^$domain=my.homey.app,stealth=3p-auth
+@@||api.auth.adobe.com/api/v2/sparkmedia/$stealth=3p-auth,domain=cnbc.com
 @@||api.babbel.io/gamma/v1/$ping,domain=babbel.com
 @@||api.babbel.io^$stealth=referrer
 @@||api.bbc.com/bbcdotcom/assets/*/script/av/emp/adverts.js
@@ -20144,6 +20145,7 @@
 @@||urlcheck.hulu.com/crossdomain.xml
 @@||uruploads.com^$generichide
 @@||urzadzamy.pl^$generichide
+@@||usanetwork.com^$extension='AdGuard Assistant'
 @@||usdentaldepot.com/ads-
 @@||useast-*.ordercloud.io^$stealth=3p-auth
 @@||usefuldiy.com^$generichide
