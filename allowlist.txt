@@ -1,5 +1,5 @@
 ! YT merged AdGuard allowlist
-! Generated: 2026-08-13
+! Generated: 2026-08-14
 ! Sources: enabled upstream allowlists + custom allow rules + upstream allow exceptions
 
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
@@ -12146,7 +12146,7 @@
 @@||googleoptimize.com/optimize.js$domain=tehnomanija.rs
 @@||googleoptimize.com/optimize.js$script,domain=wallapop.com
 @@||googleoptimize.com/optimize.js?$domain=eventim.de
-@@||googlesyndication.com/pagead/js/adsbygoogle.js$domain=soccerinhd.com|limpaso.com
+@@||googlesyndication.com/pagead/js/adsbygoogle.js$domain=limpaso.com
 @@||googlesyndication.com/pageadimg/$domain=adwords.google.com
 @@||googlesyndication.com/safeframe/$domain=soranews24.com
 @@||googlesyndication.com^$domain=searchftps.org
@@ -14793,7 +14793,6 @@
 @@||manageengine.com/images/logo/$image,~third-party
 @@||manageengine.com/products/ad-manager/$~third-party
 @@||management.azure.com^$stealth=3p-auth
-@@||manchetehoje.xyz/*/*.php$stealth=referrer
 @@||manga-news.com/js/advert.js$script
 @@||mangacanblog.com^$generichide
 @@||mangadex.*/images^
@@ -15983,6 +15982,7 @@
 @@||pagead2.googlesyndication.com/pagead/gen_204$domain=techypopat.in
 @@||pagead2.googlesyndication.com/pagead/gen_204$domain=uploadg.com
 @@||pagead2.googlesyndication.com/pagead/images/adchoices/en.png$domain=asiaon.top
+@@||pagead2.googlesyndication.com/pagead/imgad$domain=max1382.com
 @@||pagead2.googlesyndication.com/pagead/imgad?$image,domain=bdstream.site
 @@||pagead2.googlesyndication.com/pagead/imgad?id=$image,domain=appleware.dev
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl$domain=adzsafe.com
@@ -16025,7 +16025,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=adshnk.com|adshrink.it
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=adzsafe.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=aeprofree.com
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=aflamicose.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=aflamicose.com|aflamicose.xyz
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=aiarticlespinner.co
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=ajdown.space
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=akinator.com|akinator.mobi
@@ -16680,6 +16680,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js^$domain=sportshub.to
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js|$domain=hax.co.id
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js|$domain=iconmonstr.com,xmlhttprequest
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js|$domain=max1382.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js|$domain=noor-book.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js|$domain=snapwordz.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js|$domain=textstudio.com
@@ -18385,7 +18386,6 @@
 @@||sf.ezoiccdn.com/ezossp/https/kosmofoto.com/wp-content/$script,domain=kosmofoto.com
 @@||sf.ezoiccdn.com/ezossp/https/kosmofoto.com/wp-includes/$script,domain=kosmofoto.com
 @@||sfdict.com/app/*/click_tracking.js$domain=thesaurus.com
-@@||sfl.ink^$generichide
 @@||sgpics.net^$generichide
 @@||sgqcvfjvr.onet.pl^
 @@||sgtm.farmasave.it^$script,~third-party
@@ -18616,9 +18616,6 @@
 @@||so-net.ne.jp/access/hikari/minico/ad/images/$~third-party
 @@||sobootlogo.blogspot.com^$generichide
 @@||sobot.com^$domain=yaofangwang.com
-@@||soccerinhd.com/_prebid.js
-@@||soccerinhd.com/ad_code.js
-@@||soccerinhd.com/ad_common.js
 @@||society6.com^$domain=society6.com
 @@||soefart.dk^$generichide
 @@||sofire.baidu.com^$important
