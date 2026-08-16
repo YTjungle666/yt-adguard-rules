@@ -1,5 +1,5 @@
 ! YT merged AdGuard allowlist
-! Generated: 2026-08-15
+! Generated: 2026-08-16
 ! Sources: enabled upstream allowlists + custom allow rules + upstream allow exceptions
 
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
