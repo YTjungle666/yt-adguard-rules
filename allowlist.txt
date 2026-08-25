@@ -1,5 +1,5 @@
 ! YT merged AdGuard allowlist
-! Generated: 2026-08-24
+! Generated: 2026-08-25
 ! Sources: enabled upstream allowlists + custom allow rules + upstream allow exceptions
 
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
@@ -107,6 +107,7 @@
 @@.png#$domain=sna3talaflam.com
 @@.png#*ad/$image,domain=visionias.net
 @@.png#-$domain=pharmaguideline.com
+@@.png|$third-party,xmlhttprequest,stealth=referrer,domain=embdmstrplayer.com
 @@.porntube.com^$stealth=ip
 @@.ru.com/*/tracks-$xmlhttprequest,stealth=referrer
 @@.ru/mylivetv/stream-*.php$stealth=referrer
@@ -11132,6 +11133,7 @@
 @@||feyorra.top^$generichide
 @@||fforfree.net^$generichide
 @@||fharr.com^$generichide
+@@||fhlsport*.*.json?_ver=*&_ctump=$third-party,xmlhttprequest,stealth=referrer
 @@||fichub.com/plugins/adobe/lib/AppMeasurement.js$domain=natgeotv.com
 @@||fichub.com/plugins/adobe/lib/VisitorAPI.js$domain=natgeotv.com
 @@||fifa.com^*/webanalytics.js?
@@ -11733,6 +11735,7 @@
 @@||gogodl.com/*/js/advertisement.js
 @@||goha.ru/app/video/adblock.teaser.js|$script,domain=goha.ru
 @@||golangnote.com^$generichide
+@@||gold.cdx-*.website/embed/$stealth=referrer,domain=foxtrend.gd
 @@||goldenergy.pt^$stealth=dpi
 @@||goldmansachs.com/a/pg/js/prod/gs-analytics-init.js
 @@||gomaainfo.com^$generichide
@@ -13949,6 +13952,7 @@
 @@||ip-*.net/*.mp4$stealth=referrer,domain=animeonline.site
 @@||ip-*.net/*.mp4$stealth=referrer,domain=meusanimes.net
 @@||ipalibrary.me^$generichide
+@@||ipaudio*.*/wp-content/uploads/*.mp3$media,stealth=referrer
 @@||ipfs-lab.com^$generichide
 @@||ipinfo.io/static/images/use-cases/adtech.jpg$image,~third-party
 @@||ipip.net/ping.php?
@@ -14183,6 +14187,7 @@
 @@||justlightnovels.com^$generichide
 @@||justmyshop.com/gate/criteo/product-id.js$~third-party
 @@||justnerd.it^$generichide
+@@||jwpcdn.com/player/*/googima.js$domain=weekendletters.store|xcandid.vip|xcandid.top
 @@||jwpcdn.com/player/plugins/googima/$script,domain=iheart.com|video.vice.com
 @@||jwpcdn.com/player/plugins/googima/*/googima.js$domain=viu.tv
 @@||jyllands-posten.dk/app/*ads*.js
@@ -14836,6 +14841,7 @@
 @@||manifest.auditude.com/auditude/variant/$domain=adultswim.com
 @@||manjaro.pl^$generichide
 @@||manoramamax.com/videojs/videojs-contrib-ads.min.js$domain=manoramamax.com
+@@||manread.xyz/*.jpg$stealth=referrer,domain=manhwaread.com
 @@||manta.com^$generichide
 @@||manwa*/static/custom/files/300X250.gif
 @@||map.poketrack.xyz/js/ads-min.js
@@ -17447,6 +17453,7 @@
 @@||pythonmatplotlibtips.blogspot.com^$generichide
 @@||q-net.or.kr^$stealth=dpi
 @@||q32.ru/themes/default/reklama/advertising.js
+@@||qa.nicovideo.jp^$stealth=dpi
 @@||qa.smbc.co.jp^$stealth=dpi
 @@||qbox.me/static/js/ads.js$domain=linux.cn
 @@||qccommunity.qcloudimg.com^$stealth=referrer,domain=cloud.tencent.com
@@ -19197,6 +19204,7 @@
 @@||stream2watch.ws/js/app.js
 @@||stream4free.live^$generichide
 @@||stream4free.tv^$generichide
+@@||streamas*.*.json?_ver=*&_ctump=$third-party,xmlhttprequest,stealth=referrer
 @@||streambox*.xyz/cdn/down/$stealth=referrer,domain=ddizi.im
 @@||streambucket.xyz^$stealth=useragent
 @@||streamdata.vaplayer.ru/api.php?$xmlhttprequest,third-party,stealth=referrer
@@ -19560,6 +19568,7 @@
 @@||tg1.aniview.com/api/adserver/spt?$domain=nuovavenezia.it
 @@||tgc1.ru^$stealth=dpi
 @@||tgfcer.com/advert.js
+@@||th-rosenheim.de/splan/mobile/js/fingerprint.js$domain=th-rosenheim.de
 @@||th-sjy.com^$generichide
 @@||th-world.com^$generichide
 @@||th.thgim.com/static/js/adsframe.min.js$domain=thehindu.com
@@ -20060,6 +20069,7 @@
 @@||twitch.tv^$generichide
 @@||twitch.tv^$websocket,permissions
 @@||twitchadvertising.tv/wp-content/uploads/2014/06/header_logo_advertising.png
+@@||twitchcdn.net^$stealth=useragent
 @@||twitter.com$domain=bleacherreport.com
 @@||twitter.com/adlink_tech
 @@||twitter.com/i/videos/tweet/*?embed_$document
@@ -20490,6 +20500,7 @@
 @@||voipsipclient.blogspot.nl^$generichide
 @@||volces.com/*^upload$stealth=3p-auth
 @@||volces.com/*^upload$stealth=3p-cache
+@@||volder.timst.cfd/*.m3u8$stealth=referrer
 @@||volvo-club.cz^$generichide
 @@||vox-xov-cdn-*.$xmlhttprequest,stealth=referrer,domain=nepu.*|4k.beer
 @@||voxfm.pl^$generichide
