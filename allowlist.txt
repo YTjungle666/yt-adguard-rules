@@ -1,5 +1,5 @@
 ! YT merged AdGuard allowlist
-! Generated: 2026-08-29
+! Generated: 2026-08-30
 ! Sources: enabled upstream allowlists + custom allow rules + upstream allow exceptions
 
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
@@ -2128,6 +2128,7 @@
 @@|data.nexusmods.com^$important
 @@|data.nsw.gov.au^$important
 @@|data.product.lastpass.com^$important
+@@|data:text^$domain=box.com|clker.com|labcorp.com
 @@|data:text^$popup,domain=box.com|clker.com|labcorp.com
 @@|databridge.tdbtrk.com^$important
 @@|datanodes.to^$important
@@ -7247,6 +7248,7 @@
 @@||ads.viralize.tv^|$domain=automoto.it|moto.it
 @@||ads.vk.com^$popup
 @@||ads.vk.ru^$popup
+@@||ads.x.com^
 @@||ads.x.com^$popup
 @@||ads.yandex.com^$~third-party
 @@||ads.youtube.com^|$domain=technorj.com
@@ -10906,7 +10908,6 @@
 @@||epikplayer.xyz/embed/$stealth=referrer
 @@||episode.pmcontent.com^$stealth=referrer
 @@||epnt.ebay.com/static/epn-smart-tools.js$xmlhttprequest,domain=theshedend.com
-@@||eporner.com^$~third-party
 @@||epstore.com/file_includes.php?path=*/pageview.js$script,~third-party
 @@||epubit.com/static/epubit/share/js/share.min.js
 @@||equifaxps.122.2o7.net^
@@ -11071,7 +11072,6 @@
 @@||fang.com/stats/clickm2011.js
 @@||fangcloud.com^$generichide
 @@||fansonlinehub.com^$generichide
-@@||fapcat.com^$~third-party
 @@||faq-widget.nakanohito.jp/faqwidget.js$domain=keio-passport.co.jp
 @@||faq.subaru.jp^$stealth=dpi
 @@||faq.viewcard.co.jp^$stealth=dpi
