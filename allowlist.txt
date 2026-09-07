@@ -1,5 +1,5 @@
 ! YT merged AdGuard allowlist
-! Generated: 2026-09-06
+! Generated: 2026-09-07
 ! Sources: enabled upstream allowlists + custom allow rules + upstream allow exceptions
 
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
@@ -73,7 +73,7 @@
 @@.jpg|$third-party,xmlhttprequest,stealth=referrer,domain=embdmstrplayer.com
 @@.js$xmlhttprequest,stealth=referrer,domain=roxiestreams.*
 @@.js?fcd=true$domain=snopes.com
-@@.js|$xmlhttprequest,domain=pahe.plus|aii.sh|intercelestial.com|tpi.li
+@@.js|$xmlhttprequest,domain=pahe.plus|aii.sh|intercelestial.com|tpi.li|linegee.net
 @@.m3u8$domain=gimy.com.tv|gimy.com.tw|gimy.tv
 @@.m3u8$stealth,domain=luluvdo.com
 @@.m3u8$stealth=referrer,domain=edgedeliverynetwork.com
@@ -9019,6 +9019,7 @@
 @@||cdn.bmcdn3.com/js/$domain=faucetcrypto.com
 @@||cdn.bmcdn3.com/js/*aab.js$domain=earnhub.net
 @@||cdn.boomtrain.com/analyticstrain/snopes^$domain=snopes.com
+@@||cdn.bootcdn.net/ajax/libs/$domain=aoi.hugemaker.com.cn
 @@||cdn.bootcss.com/fuckadblock/$domain=1090ys2.com
 @@||cdn.bootcss.com/fuckadblock/3.2.1/fuckadblock.min.js$domain=1090ys8.com
 @@||cdn.bootcss.com/fuckadblock/3.2.1/fuckadblock.min.js$domain=share1223.com
@@ -9361,6 +9362,7 @@
 @@||cdn.static.zdbb.net/js/zd-email.min.js$domain=pcmag.com
 @@||cdn.statically.io/gh/ubo-coder/og/main/adsAPI.js$domain=infinityscans.xyz|infinityscans.net|infinityscans.org
 @@||cdn.statically.io/img^$stealth=referrer
+@@||cdn.staticfile.org^$domain=aoi.hugemaker.com.cn
 @@||cdn.staticfile.org^$domain=lakyworld.com|biquge77.net|yzbg.net|alexij.net|hshfm.com|biqiuge5.org|49gtk.cc|20me.net|fbqg.cc|xianguke.net|tellgillian.com|m-ia.net|cleavagecoverup.com|memduh.net|56xiaoshuo.net|yourbiquge.com|00ksw.com|147xiaoshuo.com|bxwx.live|lzbao.net
 @@||cdn.staticfile.org^$script,domain=movieffm.net
 @@||cdn.stroeerdigitalgroup.de/metatag/live/ctc_golem_relaunch/metaTag.min.js$domain=golem.de
@@ -14545,6 +14547,7 @@
 @@||line-scdn.net/*/torimochi.js$domain=web-tw-pay.line.me
 @@||line-scdn.net/*/torimochi.js/$script,domain=demae-can.com
 @@||line-scdn.net^*/torimochi.js$script,domain=demae-can.com
+@@||linegee.net^$generichide
 @@||linemarlin.com^$generichide
 @@||linetv.tw/profile$stealth
 @@||linetv.tw^$generichide
@@ -18854,7 +18857,7 @@
 @@||ssl.p.jwpcdn.com/player/v/*/vast.js$xmlhttprequest,domain=idlixvip.asia
 @@||ssl.p.jwpcdn.com/player/v/8.36.2/googima.js$domain=kavero.biz
 @@||ssl.p.jwpcdn.com/player/v/8.36.2/googima.js$domain=playmate.to
-@@||ssl.p.jwpcdn.com/player/v/8.36.2/googima.js$script,domain=vidara.to|vidara.so|xca.cymru|vindaz.shop|vidmatrixa.com|vidchampions.com|vidavaca.cc|calyro.biz|vidarae.live
+@@||ssl.p.jwpcdn.com/player/v/8.36.2/googima.js$script,domain=vidara.to|vidara.so|xca.cymru|vindaz.shop|vidmatrixa.com|vidchampions.com|vidavaca.cc|calyro.biz|vidarae.live|vidwara.cc
 @@||ssl.p.jwpcdn.com^$domain=bdsmstreak.com
 @@||ssl.pstatic.net/sstatic/sdyn.js$script,domain=search.naver.com
 @@||ssl.sdcdn.com/cms/ads/*$domain=stardoll.com
