@@ -1,5 +1,5 @@
 ! YT merged AdGuard allowlist
-! Generated: 2026-09-08
+! Generated: 2026-09-09
 ! Sources: enabled upstream allowlists + custom allow rules + upstream allow exceptions
 
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
@@ -8173,6 +8173,7 @@
 @@||assets.vlitag.com/prebid/default/prebid-*.js$script,domain=financemonk.net|rtxkeeda.com|houseofblogger.com|dropgalaxy.com|djxmaza.in
 @@||assets.yasno.live/packs/assets/analytics-events-$script,~third-party
 @@||assets1.gio.com.au/suncorp/gio-bw-prod/Bootstrap.js$domain=gio.com.au
+@@||assetsconfigcdn.org/v1/initialize?k=$domain=bloomberg.com
 @@||assoc-amazon.com/widgets/cm?$subdocument,domain=atcoder.jp
 @@||assortedia-as.allarknow.online^$stealth=ip
 @@||astatic.ccmbg.com/fc/js/prebid?v=$domain=journaldunet.com
@@ -9197,7 +9198,7 @@
 @@||cdn.jsdelivr.net/npm/*/fuckadblock.min.js$domain=theandroidpro.com
 @@||cdn.jsdelivr.net/npm/*/videojs-contrib-ads.min.js$domain=24ur.com
 @@||cdn.jsdelivr.net/npm/@thumbmarkjs/$domain=dienynas.tamo.lt
-@@||cdn.jsdelivr.net/npm/@thumbmarkjs/thumbmarkjs/dist/thumbmark.umd.js$domain=archive.is
+@@||cdn.jsdelivr.net/npm/@thumbmarkjs/thumbmarkjs/dist/thumbmark.$domain=archive.is|archive.today|archive.ph
 @@||cdn.jsdelivr.net/npm/bootstrap-icons$stealth=referrer,domain=kimoitv.com
 @@||cdn.jsdelivr.net/npm/fingerprintjs2$domain=wannadep.com
 @@||cdn.jsdelivr.net/npm/fuckadblock*/fuckadblock.js$domain=shinden.pl
@@ -12072,7 +12073,7 @@
 @@||google.com/js/gweb/analytics/doubletrack.js$domain=android.com
 @@||google.com/maps/api/$stealth=referrer
 @@||google.com/maps/embed/*/view?key$stealth=referrer
-@@||google.com/maps/embed/v*/place?key=$stealth=referrer
+@@||google.com/maps/embed/v*/place*^key=$stealth=referrer
 @@||google.com/pagead/landing$domain=godaddy.com
 @@||google.com/pagead/|$xmlhttprequest,domain=hentaihaven.xxx
 @@||google.com/recaptcha/$csp,subdocument
