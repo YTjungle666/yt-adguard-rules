@@ -1,5 +1,5 @@
 ! YT merged AdGuard allowlist
-! Generated: 2026-09-12
+! Generated: 2026-09-13
 ! Sources: enabled upstream allowlists + custom allow rules + upstream allow exceptions
 
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
@@ -45,6 +45,7 @@
 @@.co.uk/wp-banners.js$domain=advertiserandtimes.co.uk|northern-scot.co.uk|suffolknews.co.uk|kentonline.co.uk|cambridgeindependent.co.uk|fenlandcitizen.co.uk|granthamjournal.co.uk|stratford-herald.com|spaldingtoday.co.uk
 @@.com/*/*.avif$image,stealth=referrer,domain=bilimanga.net
 @@.com/*interstitial*.js$domain=reddit.com
+@@.com/1.js$domain=xjujitv.com
 @@.com/ad.aspx|$domain=xdingdian.cc
 @@.com/ad/$~image,~script,~third-party,domain=sso-idp.evergent.com
 @@.com/ad/$~third-party,domain=localbitcoins.com
@@ -9925,7 +9926,6 @@
 @@||configurator.porsche.com/public/adobe-analytics-$~third-party
 @@||connatix.com$domain=babycenter.com
 @@||connatix.com*/connatix.player.$script,domain=ebaumsworld.com|funker530.com|pagesix.com|tvinsider.com|washingtonexaminer.com
-@@||connatix.com*/connatix.player.$script,domain=ebaumsworld.com|funker530.com|tvinsider.com|washingtonexaminer.com
 @@||connatix.com/min/connatix.renderer.infeed.min.js$domain=accuweather.com|collider.com|gamepress.gg|salon.com
 @@||connatix.com^$domain=euronews.com
 @@||connatix.com^$domain=euronews.com|nypost.com|sport-fm.gr|sport24.gr|sun-sentinel.com|variety.com
