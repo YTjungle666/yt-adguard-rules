@@ -1,5 +1,5 @@
 ! YT merged AdGuard allowlist
-! Generated: 2026-09-14
+! Generated: 2026-09-15
 ! Sources: enabled upstream allowlists + custom allow rules + upstream allow exceptions
 
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
@@ -351,7 +351,7 @@
 @@/https?:\/\/(www\.)?sonixgvn\.net\/.{1,15}\.js$/$script,~third-party,domain=sonixgvn.net
 @@/iframe.php$stealth=referrer,domain=dizilla.*|dizillahd.*|asyawatch.com
 @@/image/*$xmlhttprequest,stealth=referrer,domain=turkanime.co
-@@/image/20*-*-*/*/$domain=1688.com|coolapk.com|galleryepic.com|galleryepic.one|galleryepic.xyz|kuaikanmanhua.com|mvxzsp.com|qnxz.top|taobao.com|tmall.com|tudou.com|weme-quan.com|youku.com|znds.com
+@@/image/20*-*-*/*/$domain=1688.com|91dia.wiki|ascm8.wiki|coolapk.com|galleryepic.com|galleryepic.one|galleryepic.xyz|kuaikanmanhua.com|mvxzsp.com|qnxz.top|taobao.com|tmall.com|tudou.com|weme-quan.com|youku.com|znds.com|zwymg.cc
 @@/image/ad/*$domain=gashpoint.com
 @@/image/share_$domain=pan.baidu.com
 @@/images/*/*.gif$domain=maichun5.info|myhhg.com
@@ -374,7 +374,7 @@
 @@/js/*.js?ads*1&AdType=1&$~third-party,script,domain=streamwish.to|streamxxx.online|mwish.pro|embedwish.com|awish.pro|wishfast.top|sfastwish.com|vidhidevip.com|rubystm.com
 @@/js/*/*.js?_v=$~third-party,domain=cracking.org
 @@/js/admanager/ads.js$domain=businessnovinite.bg|btv.bg|btvsport.bg|btvplus.bg|btvnovinite.bg
-@@/js/ads.js|$script,~third-party,domain=~internethaber.com|~knaqu.tv|~5ch.io
+@@/js/ads.js|$script,~third-party,domain=~internethaber.com|~knaqu.tv|~5ch.io|~svetserialu.to
 @@/js/advert.js$~third-party,domain=~maket.laserbiz.ru
 @@/js/advertisement.$domain=blogs.sapib.ca
 @@/js/adview_*.adsbygoogle.js$~third-party,domain=letv8.cc|zhibo1.cc
@@ -482,7 +482,9 @@
 @@/storage/js/*.js$~third-party,domain=wowmail.app|inipulsa.my.id|anon.tools|s-nr.dk
 @@/store_ad/*$domain=pcstore.com.tw
 @@/stream$xmlhttprequest,stealth=referrer,domain=kwik.cx
+@@/stream/*.m3u8$stealth=referrer,domain=/betanotv\d+\.site$/
 @@/stream/*.m3u8$stealth=referrer,domain=livosports30.live
+@@/stream/*.m3u8$stealth=referrer,domain=sampiyontv2.xyz
 @@/stream/*/*.m3u8$xmlhttprequest,domain=faselhd.cafe
 @@/stream/*/*.ts$xmlhttprequest,domain=faselhd.cafe
 @@/stylesheet/*$xmlhttprequest,stealth=referrer,domain=gamingzen.xyz
@@ -7955,6 +7957,7 @@
 @@||api.rhombusads.com/v*/embed/check$domain=spin.com
 @@||api.rmr.rocks^$stealth=3p-auth
 @@||api.rtl.nl/watch/$stealth=3p-auth
+@@||api.sayweee.net/$stealth=3p-auth,domain=weee.com
 @@||api.schale.network^$stealth=referrer|3p-auth
 @@||api.sec.miui.com^
 @@||api.smartystreets.com/lookup$stealth=referrer,domain=att.com
@@ -8156,6 +8159,7 @@
 @@||assets.bilsyndication.com/prebid/default/prebid-$domain=atozmath.com
 @@||assets.bilsyndication.com/prebid/default/prebid-7.31.0.js$domain=atozmath.com
 @@||assets.bilsyndication.com/widget/$image,domain=atozmath.com
+@@||assets.connatix.com/Elements/*/jw-player-skin_testing.js$domain=pagesix.com
 @@||assets.connatix.com/Elements/*/jwpc-player-init-plugin_v2.js$domain=nypost.com
 @@||assets.ctfassets.net^$media,domain=ads.spotify.com
 @@||assets.customer.io/assets/track.js$domain=buffer.com
@@ -11065,6 +11069,7 @@
 @@||f1countdown.com^$generichide
 @@||f1fanklub.pl^$generichide
 @@||f1ingenerale.com^$generichide
+@@||f7b44cfafd5c52223d5498196c8a2e7b.biz/stream/*.m3u8$stealth=referrer
 @@||faas-fe-prd-ext.prd.aws-cb.nl/api/product-reviews/view$xmlhttprequest,elemhide,jsinject,extension,domain=consumentenbond.nl
 @@||faberlic.com/images/banners/
 @@||facebook.com/*/dialog/oauth$stealth=3p-cookie
@@ -17774,6 +17779,7 @@
 @@||riverlink.etcchosted.com/widgets/com/mendix/widget/web/googletag/GoogleTag.js$~third-party
 @@||riverside.fm^$generichide
 @@||rizonesoft.com^$generichide
+@@||rj.com/layouts/system/VisitorIdentification.js$domain=rj.com
 @@||rm-script.dotmetrics.net/videopluginhit.gif?$domain=footballtransfers.com
 @@||rm.freex2line.online/loadon/?link=$stealth=referrer
 @@||rm.redbull.com/gtm.js$domain=redbull.com
@@ -18476,6 +18482,7 @@
 @@||sgqcvfjvr.onet.pl^
 @@||sgtm.farmasave.it^$script,~third-party
 @@||sgtm.ipekyol.com.tr/gtm.js
+@@||sgtm.viking.de/gtm.js$domain=viking.de
 @@||sgxnifty.org^$generichide
 @@||sh.st$generichide
 @@||shadowlandschronicles.com/pl/*/master.m3u8$xmlhttprequest,stealth=referrer
