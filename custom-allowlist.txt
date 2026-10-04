@@ -51,3 +51,16 @@
 @@||douyinvod.com^$important
 @@||zijieapi.com^$important
 @@||byteeffecttos.com^$important
+@@||amdc.alipay.com^$important
+@@||mdap.alipay.com^$important
+@@||dns.weixin.qq.com.cn^$important
+@@||adoda-smart-coin.mushroomtrack.com^$important
+@@||akuma-trstin.mushroomtrack.com^$important
+@@||amuse-lefty.mushroomtrack.com^$important
+@@||anono-cloneing.mushroomtrack.com^$important
+@@||asf-doc.mushroomtrack.com^$important
+@@||astin-cowing.mushroomtrack.com^$important
+@@||home-clone-clear.mushroomtrack.com^$important
+@@||homi-doki-mani.mushroomtrack.com^$important
+@@||honi-moly-yami.mushroomtrack.com^$important
+@@||hot-box-gen.mushroomtrack.com^$important
