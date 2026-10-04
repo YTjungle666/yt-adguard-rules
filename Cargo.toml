@@ -2,6 +2,7 @@
 name = "yt-adguard-rules"
 version = "0.1.0"
 edition = "2024"
+license = "PolyForm-Noncommercial-1.0.0"
 
 [[bin]]
 name = "update_rules"

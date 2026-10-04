@@ -117,3 +117,9 @@ bash scripts/install_local_autosync.sh
 如果后续要手工新增兼容性白名单或广告拦截规则，应修改：
 - `custom-blocklist.txt`
 - `custom-allowlist.txt`
+
+---
+
+## 许可证
+
+本项目（更新脚本与自定义规则）采用 [PolyForm Noncommercial License 1.0.0](LICENSE)：源码可见，仅限非商业使用。聚合的第三方规则源版权归各自上游所有。
