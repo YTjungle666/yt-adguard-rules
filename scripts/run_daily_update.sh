@@ -29,6 +29,13 @@ cargo build --release --quiet --locked --bin update_rules
 
 if ! git diff --quiet -- blocklist.txt allowlist.txt; then
   git add blocklist.txt allowlist.txt
-  git commit -m "Daily rule merge $(date +%F)"
-  git push origin "HEAD:$BRANCH"
+  if git log -1 --format=%s | grep -q '^Daily rule merge'; then
+    # Replace the previous daily snapshot so the generated lists keep a single
+    # history entry instead of accumulating one full copy per day.
+    git commit --amend -m "Daily rule merge $(date +%F)"
+    git push --force-with-lease origin "HEAD:$BRANCH"
+  else
+    git commit -m "Daily rule merge $(date +%F)"
+    git push origin "HEAD:$BRANCH"
+  fi
 fi
