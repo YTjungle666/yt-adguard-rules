@@ -34,6 +34,10 @@ if ! git diff --quiet -- blocklist.txt allowlist.txt; then
     # history entry instead of accumulating one full copy per day.
     git commit --amend -m "Daily rule merge $(date +%F)"
     git push --force-with-lease origin "HEAD:$BRANCH"
+    # The amended-away blob stays alive in the reflog and would add a full copy
+    # of the lists to .git every day (~3 MB/day); drop it now that it is pushed.
+    git reflog expire --expire=now --all
+    git gc --prune=now --quiet
   else
     git commit -m "Daily rule merge $(date +%F)"
     git push origin "HEAD:$BRANCH"
