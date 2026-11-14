@@ -13,6 +13,21 @@ export GIT_TERMINAL_PROMPT=0
 
 if [ "${YT_ADGUARD_LOG_TO_FILE:-0}" = "1" ]; then
   mkdir -p "$STATE_DIR"
+  # Keep the append-only run log bounded: one day of output is appended per run and
+  # nothing else ever trims it. Rotation happens before the redirect so the "previous
+  # file exceeded N bytes" note lands in the fresh log.
+  log_max="${YT_ADGUARD_LOG_MAX_BYTES:-65536}"    # 64 KiB (~100 days at the measured 0.6 KB/day)
+  log_keep="${YT_ADGUARD_LOG_KEEP:-2}"             # .1 and .2 kept, older dropped
+  log_size=$(stat -c %s "$LOG_FILE" 2>/dev/null || echo 0)
+  if [ "$log_size" -ge "$log_max" ]; then
+    rm -f "$LOG_FILE.$log_keep"
+    for ((i = log_keep - 1; i >= 1; i--)); do
+      if [ -f "$LOG_FILE.$i" ]; then mv -f "$LOG_FILE.$i" "$LOG_FILE.$((i + 1))"; fi
+    done
+    mv -f "$LOG_FILE" "$LOG_FILE.1"
+    printf '[%s] log rotated: previous file exceeded %s bytes\n' \
+      "$(date '+%Y-%m-%d %H:%M:%S %z')" "$log_max" >>"$LOG_FILE"
+  fi
   exec >>"$LOG_FILE" 2>&1
   printf '\n[%s] Starting daily update\n' "$(date '+%Y-%m-%d %H:%M:%S %z')"
   trap 'status=$?; printf "[%s] Finished daily update (status=%s)\n" "$(date "+%Y-%m-%d %H:%M:%S %z")" "$status"; exit "$status"' EXIT

@@ -82,6 +82,8 @@ bash scripts/install_local_autosync.sh
 > 运行时以本地仓库中的 `sources.json`、`custom-blocklist.txt`、`custom-allowlist.txt` 为准；GitHub 用于发布、留档和对外提供 raw 导入链接，不作为运行时动态配置源。
 > 推送使用本机 GitHub SSH 登录状态，不再读取或拼接 GitHub token。
 
+运行日志默认写到 `~/.local/state/yt-adguard-rules/daily-update.log`，由脚本自行轮转：超过 `YT_ADGUARD_LOG_MAX_BYTES`（默认 64 KiB）就滚成 `.1`，只保留 `.1`/`.2` 两代（`YT_ADGUARD_LOG_KEEP` 可调）。
+
 更新流程：
 1. 从 `sources.json` 里的固定上游源拉取最新规则
 2. 合并 `custom-blocklist.txt` / `custom-allowlist.txt`
